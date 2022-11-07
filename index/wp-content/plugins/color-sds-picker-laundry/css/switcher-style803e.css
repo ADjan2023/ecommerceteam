@@ -1,0 +1,187 @@
+.tt-colorswatch {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-line-pack: stretch;
+    align-content: stretch;
+    position: fixed;
+    top: 279px;
+    left: 0;
+    z-index: 8;
+    left: -175px;
+}
+
+.tt-colorswatch.tt-open-swatch {
+    left: 0;
+}
+
+.tt-colorswatch .tt-colorswatch-btn {
+    width: 58px;
+    height: 54px;
+    color: #fff;
+    position: relative;
+    background: #52b765;
+    cursor: pointer;
+    border-top-right-radius: 31px;
+    border-bottom-right-radius: 31px;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.tt-colorswatch .tt-colorswatch-btn img {
+    max-width: 100%;
+    height: auto;
+}
+
+.tt-colorswatch .tt-colorswatch-btn svg {
+    width: 20px;
+    height: 20px;
+    fill: #fff;
+    position: absolute;
+    top: 17px;
+    left: 14px;
+}
+
+.tt-colorswatch .tt-colorswatch-options {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    width: 175px;
+    padding: 0 0 10px;
+    background: #fff;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.05);
+}
+
+.tt-colorswatch .tt-colorswatch-options a {
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 50%;
+    -webkit-transition: background 0.2s;
+    transition: background 0.2s;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:before {
+    content: "\e933";
+    font-family: "fonts-icon";
+    font-size: 14px;
+    line-height: 1.1;
+    color: #fff;
+    display: none;
+    margin-top: 1px;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(1) {
+    background: #7cc877;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(1):hover {
+    background: #91b08f;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(2) {
+    background: #24a1d9;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(2):hover {
+    background: #4495b9;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(3) {
+    background: #257ec0;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(3):hover {
+    background: #427aa3;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(4) {
+    background: #057138;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(4):hover {
+    background: #146239;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(5) {
+    background: #c4292d;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(5):hover {
+    background: #a64749;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(6) {
+    background: #43c8b7;
+}
+
+.tt-colorswatch .tt-colorswatch-options a:nth-child(6):hover {
+    background: #61aaa0;
+}
+
+.tt-colorswatch .tt-colorswatch-options a.active:before {
+    display: block;
+}
+
+@media only screen and (max-width: 768px) {
+    .tt-colorswatch {
+        top: 205px;
+    }
+}
+
+body:not(.touch) .tt-colorswatch .tt-colorswatch-btn:hover {
+    background: #222;
+}
+
+.tt-colorswatch {
+    display: none;
+}
+
+.home .tt-colorswatch {
+    display: flex;
+}

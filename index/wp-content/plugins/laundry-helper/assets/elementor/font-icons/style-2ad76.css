@@ -1,0 +1,194 @@
+@font-face {
+  font-family: 'fonts-icon';
+  src:
+    url('fonts/fonts-icon7d94.ttf?k1kj2y') format('truetype'),
+    url('fonts/fonts-icon7d94.woff?k1kj2y') format('woff'),
+    url('fonts/fonts-icon7d94.svg?k1kj2y#fonts-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icons-"], [class*=" icons-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fonts-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icons-1621561:before {
+  content: "\e933";
+}
+.icons-983899:before {
+  content: "\e934";
+}
+.icons-hanger-with-clothes:before {
+  content: "\e900";
+}
+.icons-interface:before {
+  content: "\e901";
+}
+.icons-ironing-board:before {
+  content: "\e902";
+}
+.icons-logo:before {
+  content: "\e903";
+}
+.icons-pilesos:before {
+  content: "\e904";
+}
+.icons-reading-book:before {
+  content: "\e905";
+}
+.icons-sewing-machine:before {
+  content: "\e906";
+}
+.icons-shoes:before {
+  content: "\e907";
+}
+.icons-tag-1:before {
+  content: "\e908";
+}
+.icons-technology:before {
+  content: "\e909";
+}
+.icons-59252:before {
+  content: "\e90a";
+}
+.icons-59439:before {
+  content: "\e90b";
+}
+.icons-64484:before {
+  content: "\e90c";
+}
+.icons-254434:before {
+  content: "\e90d";
+}
+.icons-483947:before {
+  content: "\e90e";
+}
+.icons-484169:before {
+  content: "\e90f";
+}
+.icons-486676:before {
+  content: "\e910";
+}
+.icons-495018:before {
+  content: "\e911";
+}
+.icons-545682:before {
+  content: "\e912";
+}
+.icons-686308:before {
+  content: "\e913";
+}
+.icons-709790:before {
+  content: "\e914";
+}
+.icons-711897:before {
+  content: "\e915";
+}
+.icons-733614:before {
+  content: "\e916";
+}
+.icons-733635:before {
+  content: "\e917";
+}
+.icons-747310:before {
+  content: "\e918";
+}
+.icons-806765:before {
+  content: "\e919";
+}
+.icons-860796:before {
+  content: "\e91a";
+}
+.icons-863958:before {
+  content: "\e91b";
+}
+.icons-868044:before {
+  content: "\e91c";
+}
+.icons-876214:before {
+  content: "\e91d";
+}
+.icons-884417:before {
+  content: "\e91e";
+}
+.icons-1004017:before {
+  content: "\e91f";
+}
+.icons-1072668:before {
+  content: "\e920";
+}
+.icons-1233149:before {
+  content: "\e921";
+}
+.icons-1485715:before {
+  content: "\e922";
+}
+.icons-1545560:before {
+  content: "\e923";
+}
+.icons-1828859:before {
+  content: "\e924";
+}
+.icons-2089805:before {
+  content: "\e925";
+}
+.icons-2111532:before {
+  content: "\e926";
+}
+.icons-2230769:before {
+  content: "\e927";
+}
+.icons-2737832:before {
+  content: "\e928";
+}
+.icons-2840421:before {
+  content: "\e929";
+}
+.icons-2840435:before {
+  content: "\e92a";
+}
+.icons-2979096:before {
+  content: "\e92b";
+}
+.icons-3022225:before {
+  content: "\e92c";
+}
+.icons-3037040:before {
+  content: "\e92d";
+}
+.icons-3039848:before {
+  content: "\e92e";
+}
+.icons-3096677:before {
+  content: "\e92f";
+}
+.icons-4839471:before {
+  content: "\e930";
+}
+.icons-bright-lightbulb:before {
+  content: "\e931";
+}
+.icons-express-delivery:before {
+  content: "\e932";
+}
+.icons-arrow_left:before {
+  content: "\e93e";
+}
+.icons-arrow_right:before {
+  content: "\e93f";
+}
+.icons-2919521:before {
+  content: "\e935";
+}
