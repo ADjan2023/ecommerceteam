@@ -25,7 +25,7 @@
 		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/","name":"Accessories Archives - Laundry","isPartOf":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website"},"primaryImageOfPage":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#primaryimage"},"image":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#primaryimage"},"thumbnailUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2019/01/long-sleeve-tee-2.jpg","breadcrumb":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#primaryimage","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2019/01/long-sleeve-tee-2.jpg","contentUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2019/01/long-sleeve-tee-2.jpg","width":801,"height":801},{"@type":"BreadcrumbList","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://smartdata.tonytemplates.com/laundry-v2/demo2/"},{"@type":"ListItem","position":2,"name":"Accessories"}]},{"@type":"WebSite","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/","name":"Laundry","description":"Just another Laundry & Dry Cleaning Sites site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://smartdata.tonytemplates.com/laundry-v2/demo2/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
@@ -3820,9 +3820,6 @@
 									class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 									<div class="prd-img">
 
-
-
-									
 										<img width="300" height="300"
 											src="9.svg"
 											class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt=""
@@ -3834,9 +3831,7 @@
 										<h2 class="woocommerce-loop-product__title">Duvet</h2>
 										<span class="price">
 											<ins><span class="woocommerce-Price-amount amount"><bdi><span
-															class="woocommerce-Price-currencySymbol">&#36;</span>18.00</bdi>
-														</span>
-														</ins>
+															class="woocommerce-Price-currencySymbol">GH₵ 40
 														</span>
 									</div>
 								</a><a rel="nofollow" href="index39d3.html?add-to-cart=1498" data-quantity="1"
