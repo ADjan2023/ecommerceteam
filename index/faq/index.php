@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Nov 2022 11:09:38 GMT -->
+<!-- Mirrored from smartdata.tonytemplates.com/laundry-v2/demo2/faq/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Nov 2022 11:07:53 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -9,31 +9,38 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="icon" href="../../wp-content/themes/laundry/images/fav.ico" sizes="16x16" />
+	<link rel="icon" href="../wp-content/themes/laundry/images/fav.ico" sizes="16x16" />
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Accessories Archives - Laundry</title>
-	<link rel="canonical" href="index.html" />
+
+	<title>FAQ - Laundry</title>
+	<link rel="canonical" href="index.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Accessories Archives - Laundry" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:title" content="FAQ - Laundry" />
+	<meta property="og:description"
+		content="[ Frequently Asked Questions ] Reliable Answers to Our Most Common Questions We can save you money on soap, water, heating and electricity. So you can enjoy even more of the things you love. Our prices are simple and affordable. Your First Order! What should I prepare for the first pickup? We aim to collect [&hellip;]" />
+	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Laundry" />
+	<meta property="article:modified_time" content="2020-12-07T07:41:02+00:00" />
+	<meta property="og:image" content="../wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="288" />
+	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="4 minutes" />
 	<script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/","name":"Accessories Archives - Laundry","isPartOf":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website"},"primaryImageOfPage":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#primaryimage"},"image":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#primaryimage"},"thumbnailUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2019/01/long-sleeve-tee-2.jpg","breadcrumb":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#primaryimage","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2019/01/long-sleeve-tee-2.jpg","contentUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2019/01/long-sleeve-tee-2.jpg","width":801,"height":801},{"@type":"BreadcrumbList","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://smartdata.tonytemplates.com/laundry-v2/demo2/"},{"@type":"ListItem","position":2,"name":"Accessories"}]},{"@type":"WebSite","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/","name":"Laundry","description":"Just another Laundry & Dry Cleaning Sites site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://smartdata.tonytemplates.com/laundry-v2/demo2/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/","name":"FAQ - Laundry","isPartOf":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website"},"primaryImageOfPage":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/#primaryimage"},"image":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/#primaryimage"},"thumbnailUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","datePublished":"2020-11-15T12:15:54+00:00","dateModified":"2020-12-07T07:41:02+00:00","breadcrumb":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/#primaryimage","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","contentUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","width":1920,"height":288},{"@type":"BreadcrumbList","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://smartdata.tonytemplates.com/laundry-v2/demo2/"},{"@type":"ListItem","position":2,"name":"FAQ"}]},{"@type":"WebSite","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/","name":"Laundry","description":"Just another Laundry & Dry Cleaning Sites site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://smartdata.tonytemplates.com/laundry-v2/demo2/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../../feed/index.html" />
+	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../feed/index.php" />
 	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Comments Feed"
-		href="../../comments/feed/index.html" />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Accessories Category Feed"
-		href="feed/index.html" />
+		href="../comments/feed/index.php" />
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3" } };
 		/*! This file is auto-generated */
@@ -54,7 +61,7 @@
 		}
 	</style>
 	<link rel='stylesheet' id='wp-block-library-css'
-		href='../../wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
+		href='../wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
 	<style id='wp-block-library-theme-inline-css' type='text/css'>
 		.wp-block-audio figcaption {
 			color: #555;
@@ -229,10 +236,10 @@
 		}
 	</style>
 	<link rel='stylesheet' id='wc-blocks-vendors-style-css'
-		href='../../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style8c3f.css?ver=8.0.0'
+		href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style8c3f.css?ver=8.0.0'
 		type='text/css' media='all' />
 	<link rel='stylesheet' id='wc-blocks-style-css'
-		href='../../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style8c3f.css?ver=8.0.0'
+		href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style8c3f.css?ver=8.0.0'
 		type='text/css' media='all' />
 	<style id='global-styles-inline-css' type='text/css'>
 		body {
@@ -3318,17 +3325,15 @@
 		}
 	</style>
 	<link rel='stylesheet' id='contact-form-7-css'
-		href='../../wp-content/plugins/contact-form-7/includes/css/styles4c7e.css?ver=5.6.2' type='text/css'
-		media='all' />
+		href='../wp-content/plugins/contact-form-7/includes/css/styles4c7e.css?ver=5.6.2' type='text/css' media='all' />
 	<link rel='stylesheet' id='woocommerce-layout-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-layout8e94.css?ver=6.8.0' type='text/css'
+		href='../wp-content/plugins/woocommerce/assets/css/woocommerce-layout8e94.css?ver=6.8.0' type='text/css'
 		media='all' />
 	<link rel='stylesheet' id='woocommerce-smallscreen-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen8e94.css?ver=6.8.0' type='text/css'
+		href='../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen8e94.css?ver=6.8.0' type='text/css'
 		media='only screen and (max-width: 768px)' />
 	<link rel='stylesheet' id='woocommerce-general-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce8e94.css?ver=6.8.0' type='text/css'
-		media='all' />
+		href='../wp-content/plugins/woocommerce/assets/css/woocommerce8e94.css?ver=6.8.0' type='text/css' media='all' />
 	<style id='woocommerce-inline-inline-css' type='text/css'>
 		.woocommerce form .form-row .required {
 			visibility: visible;
@@ -3338,34 +3343,39 @@
 		href='https://fonts.googleapis.com/css?family=Poppins%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C900%2C900i%7CRoboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C900%2C900i&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic%2Cgreek-ext%2Cgreek%2Cvietnamese'
 		type='text/css' media='all' />
 	<link rel='stylesheet' id='laundry-blog-css'
-		href='../../wp-content/themes/laundry/css/style-blog4186.css?ver=1667819278' type='text/css' media='all' />
+		href='../wp-content/themes/laundry/css/style-blog978a.css?ver=1667819217' type='text/css' media='all' />
 	<link rel='stylesheet' id='laundry-style-2-css'
-		href='../../wp-content/themes/laundry/css/style-24186.css?ver=1667819278' type='text/css' media='all' />
-	<link rel='stylesheet' id='laundry-custom-css'
-		href='../../wp-content/themes/laundry/css/custom4186.css?ver=1667819278' type='text/css' media='all' />
-	<style id='laundry-custom-inline-css' type='text/css'>
-		/* body */
-		body {}
-
-		/* heading */
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {}
-	</style>
-	<link rel='stylesheet' id='laundry-shop-css' href='../../wp-content/themes/laundry/css/shop4186.css?ver=1667819278'
+		href='../wp-content/themes/laundry/css/style-2978a.css?ver=1667819217' type='text/css' media='all' />
+	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom978a.css?ver=1667819217'
 		type='text/css' media='all' />
+	<style id='laundry-custom-inline-css' type='text/css'>
+
+	</style>
+	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop978a.css?ver=1667819217'
+		type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-icons-css'
+		href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min91ce.css?ver=5.16.0'
+		type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-frontend-legacy-css'
+		href='../wp-content/plugins/elementor/assets/css/frontend-legacy.min3088.css?ver=3.7.0' type='text/css'
+		media='all' />
+	<link rel='stylesheet' id='elementor-frontend-css'
+		href='../wp-content/plugins/elementor/assets/css/frontend.min3088.css?ver=3.7.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-post-267-css'
+		href='../wp-content/uploads/sites/2/elementor/css/post-2670e89.css?ver=1622960623' type='text/css'
+		media='all' />
 	<link rel='stylesheet' id='colorswatch-style-color-css'
-		href='../../wp-content/plugins/color-sds-picker-laundry/css/color/style4186.css?ver=1667819278' type='text/css'
+		href='../wp-content/plugins/color-sds-picker-laundry/css/color/style978a.css?ver=1667819217' type='text/css'
 		media='all' />
 	<link rel='stylesheet' id='colorswatch-style-css'
-		href='../../wp-content/plugins/color-sds-picker-laundry/css/switcher-style4186.css?ver=1667819278'
+		href='../wp-content/plugins/color-sds-picker-laundry/css/switcher-style978a.css?ver=1667819217' type='text/css'
+		media='all' />
+	<link rel='stylesheet' id='google-fonts-1-css'
+		href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.0.3'
 		type='text/css' media='all' />
-	<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0'
+	<script type='text/javascript' src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0'
 		id='jquery-core-js'></script>
-	<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
+	<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
 		id='jquery-migrate-js'></script>
 	<script type='text/javascript' id='laundry-contact-googlemap-js-extra'>
 		/* <![CDATA[ */
@@ -3374,12 +3384,17 @@
 	</script>
 	<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?sensor=false&amp;key&amp;ver=201202124'
 		id='laundry-contact-googlemap-js'></script>
-	<link rel="https://api.w.org/" href="../../wp-json/index.html" />
-	<link rel="alternate" type="application/json" href="../../wp-json/wp/v2/product_cat/47.json" />
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
-	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" />
+	<link rel="https://api.w.org/" href="../wp-json/index.html" />
+	<link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/509.json" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
 	<meta name="generator" content="WordPress 6.0.3" />
 	<meta name="generator" content="WooCommerce 6.8.0" />
+	<link rel='shortlink' href='../index321c.html?p=509' />
+	<link rel="alternate" type="application/json+oembed"
+		href="../wp-json/oembed/1.0/embedec0a.json?url=https%3A%2F%2Fsmartdata.tonytemplates.com%2Flaundry-v2%2Fdemo2%2Ffaq%2F" />
+	<link rel="alternate" type="text/xml+oembed"
+		href="../wp-json/oembed/1.0/embed19c1?url=https%3A%2F%2Fsmartdata.tonytemplates.com%2Flaundry-v2%2Fdemo2%2Ffaq%2F&amp;format=xml" />
 	<meta name="generator" content="Redux 4.3.14" /> <noscript>
 		<style>
 			.woocommerce-product-gallery {
@@ -3390,7 +3405,7 @@
 </head>
 
 <body
-	class="archive tax-product_cat term-accessories term-47 wp-embed-responsive theme-laundry woocommerce woocommerce-page woocommerce-no-js hfeed elementor-default elementor-kit-267">
+	class="page-template-default page page-id-509 wp-embed-responsive theme-laundry woocommerce-no-js elementor-default elementor-kit-267 elementor-page elementor-page-509">
 	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
 		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
@@ -3514,18 +3529,17 @@
 	</svg>
 	<div class="tt-colorswatch">
 		<div class="tt-colorswatch-options"><a href="#" class="colorswatch2 js-swatch-color" data-color="2"
-				data-img="../../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x.png"></a> <a
-				href="#" class="colorswatch3 js-swatch-color" data-color="3"
-				data-img="../../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color02.png"></a> <a
+				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x.png"></a> <a href="#"
+				class="colorswatch3 js-swatch-color" data-color="3"
+				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color02.png"></a> <a
 				href="#" class="colorswatch4 js-swatch-color" data-color="4"
-				data-img="../../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color03.png"></a> <a
+				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color03.png"></a> <a
 				href="#" class="colorswatch5 js-swatch-color" data-color="5"
-				data-img="../../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color04.png"></a> <a
+				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color04.png"></a> <a
 				href="#" class="colorswatch6 js-swatch-color" data-color="6"
-				data-img="../../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color05.png"></a> <a
+				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color05.png"></a> <a
 				href="#" class="colorswatch6 js-swatch-color" data-color="7"
-				data-img="../../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color06.png"></a>
-		</div>
+				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color06.png"></a></div>
 		<div class="tt-colorswatch-btn js-colorswatch"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
 				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="347.523px" height="347.523px"
 				viewBox="0 0 347.523 347.523" style="enable-background:new 0 0 347.523 347.523;" xml:space="preserve">
@@ -3580,7 +3594,7 @@
 					</div>
 					<div class="tt-item__text">
 						<address>
-							8494 Signal Hill Road Manassas, VA, 20110 </address>
+							Ashesi University </address>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3595,8 +3609,8 @@
 						<span class="icons-1004017"></span>
 					</div>
 					<div class="tt-item__text">
-						<a class="not-style" href="mailto:info@yourlaundrysite.com">
-							info@yourlaundrysite.com </a>
+						<a class="not-style" href="mailto:info@laundrymen.com">
+							info@laundrymen.com </a>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3605,8 +3619,8 @@
 					</div>
 					<div class="tt-item__text">
 						<address>
-							<a class="not-style" href="tel:1 (800) 765-43-21">
-								1 (800) 765-43-21 </a>
+							<a class="not-style" href="tel:+233 20 95 35 914">
+								+233 20 95 35 914 </a>
 						</address>
 					</div>
 				</div>
@@ -3664,8 +3678,8 @@
 				<div class="tt-holder">
 					<div class="tt-col-left">
 						<!-- logo -->
-						<a href="../../index.html" class="tt-logo tt-logo-alignment">
-							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
+						<a href="../index.php" class="tt-logo tt-logo-alignment">
+							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men</a>
 						<!-- /logo -->
 					</div>
 					<div class="tt-col-center tt-col-wide tt-col-objects text-center">
@@ -3675,33 +3689,37 @@
 								<ul id="menu-primary-menu" class="menu">
 									<li id="nav-menu-item-317"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
-										<a href="../../index.html" class="menu-link main-menu-link">Home</a></li>
+										<a href="../index.php" class="menu-link main-menu-link">Home</a>
+									</li>
 									<li id="nav-menu-item-318"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../about-us/index.html" class="menu-link main-menu-link">About
-											Us</a></li>
-											<li id="nav-menu-item-527"
-											class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-											<a href="../../services/index.html" class="menu-link main-menu-link">Services</a>
-										</li>
+										<a href="../about-us/index.php" class="menu-link main-menu-link">About Us</a>
+									</li>
+									<li id="nav-menu-item-527"
+										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+										<a href="../services/index.php" class="menu-link main-menu-link">Services</a>
+									</li>
 									<li id="nav-menu-item-502"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../prices/index.html" class="menu-link main-menu-link">Subscriptions</a>
+										<a href="../prices/index.php"
+											class="menu-link main-menu-link">Subscriptions</a>
 									</li>
 									<li id="nav-menu-item-656"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../blog-posts/index.html" class="menu-link main-menu-link">Blog</a>
+										<a href="../blog-posts/index.php" class="menu-link main-menu-link">Blog</a>
 									</li>
 									<li id="nav-menu-item-1377"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../shop/index.html" class="menu-link main-menu-link">Shop</a></li>
+										<a href="../shop/index.php" class="menu-link main-menu-link">Shop</a>
+									</li>
 									<li id="nav-menu-item-526"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../faq/index.html" class="menu-link main-menu-link">FAQ</a></li>
+										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-509 current_page_item">
+										<a href="index.php" class="menu-link main-menu-link">FAQ</a>
+									</li>
 									<li id="nav-menu-item-604"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../contact-us/index.html"
-											class="menu-link main-menu-link">Contacts</a></li>
+										<a href="../contact-us/index.php" class="menu-link main-menu-link">Contacts</a>
+									</li>
 								</ul>
 							</nav>
 							<!-- /desktop-nav -->
@@ -3712,15 +3730,15 @@
 							<div class="h-info02">
 								<div class="tt-item">
 									<address>
-										<a href="tel: +233 20 95 35 914"><span class="icons-483947"></span>
-											 +233 20 95 35 914 </a>
+										<a href="tel:+233 20 95 35 914"><span class="icons-483947"></span>
+											+233 20 95 35 914 </a>
 									</address>
 								</div>
 							</div>
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="../../cart/index.html" class="tt-obj__btn cart-contents">
+								<a href="../cart/index.php" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
@@ -3737,15 +3755,14 @@
 		</div>
 	</header>
 
-	<div id="subtitle-wrapper" class="lazyload"
-		data-bg="../../wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg">
+	<div id="subtitle-wrapper" class="lazyload" data-bg="../wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg">
 		<div class="container container-fluid-xl">
 			<div class="tt-breadcrumbs">
-				<span><span><a href="../../index.html">Home</a> / <span class="breadcrumb_last"
-							aria-current="page">Shop</span></span></span>
+				<span><span><a href="../index.php">Home</a> / <span class="breadcrumb_last"
+							aria-current="page">FAQ</span></span></span>
 			</div>
 			<h1 class="subtitle__title">
-				Product Category: <span>Bed Wear</span> </h1>
+				FAQ </h1>
 		</div>
 		<div class="bubbleContainer">
 			<div class="bubble-1"></div>
@@ -3761,107 +3778,422 @@
 		</div>
 	</div>
 	<main id="tt-pageContent">
-		<div id="pageContent" class="block">
-			<div class="container section-inner">
-				<div class="row">
-					<div class="col-12 col-sm-5 col-md-5 col-xl-4 rightColumn tt-aside">
-						<div id="woocommerce_product_categories-2"
-							class="widget tt-block-aside woocommerce widget_product_categories">
-							<div class="tt-aside-content">
-								<h3 class="tt-aside-title">Product categories</h3>
-								<ul class="services-list submenu-aside">
-									<li><a
-											href="../../shop/index.html">Delicate Clothing</a></li>
-									<li class='active' ><a
-											href="../product-category/accessories/index.html">Bed Wear</a></li>
-									
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="divider d-block d-sm-none"></div>
-					<div class="col-12 col-sm-7 col-md-7 col-xl-8">
-						<div class="filters-row">
-							<div class="filters-row-left">
+		<div class=" lazyload subpage-bg-left subpage-bg__position07"
+			data-bg="../wp-content/uploads/sites/2/2020/12/wrapper-subpage-left07.png">
+			<div class="lazyload subpage-bg-right subpage-bg__position07"
+				data-bg="../wp-content/uploads/sites/2/2020/12/wrapper-subpage-right07.png">
+				<div class="">
+					<div class="page page_sidebar_none">
+						<div data-elementor-type="wp-page" data-elementor-id="509" class="elementor elementor-509">
+							<div class="elementor-inner">
+								<div class="elementor-section-wrap">
+									<section
+										class="elementor-section elementor-top-section elementor-element elementor-element-1ac9152 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+										data-id="1ac9152" data-element_type="section">
+										<div class="elementor-container elementor-column-gap-no">
+											<div class="elementor-row">
+												<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d5543f7"
+													data-id="d5543f7" data-element_type="column">
+													<div class="elementor-column-wrap elementor-element-populated">
+														<div class="elementor-widget-wrap">
+															<div class="elementor-element elementor-element-7fcb4ea elementor-widget elementor-widget-laundry_faq"
+																data-id="7fcb4ea" data-element_type="widget"
+																data-widget_type="laundry_faq.default">
+																<div class="elementor-widget-container">
 
-								<div class="woocommerce-notices-wrapper"></div><!--  only change p tag to span tag  -->
-								<span class="show-result">
-									Showing all 5 results</span>
-								<div class="form-inline">
-									<div class="select-wrapper">
-										<form class="woocommerce-ordering" method="get">
-											<select name="orderby" class="orderby" aria-label="Shop order">
-												<option value="menu_order" selected='selected'>Default sorting</option>
-												<option value="popularity">Sort by popularity</option>
-												<option value="rating">Sort by average rating</option>
-												<option value="date">Sort by latest</option>
-												<option value="price">Sort by price: low to high</option>
-												<option value="price-desc">Sort by price: high to low</option>
-											</select>
-											<input type="hidden" name="paged" value="1" />
-										</form>
-									</div>
+																	<div class="section-indent">
+																		<div class="container container-fluid-lg">
+																			<div class="title-block text-center">
+																				<div class="title-block__label">
+																					Frequently Asked Questions </div>
+																				<h4 class="title-block__title">
+																					Reliable Answers to Our Most<br
+																						class="d-none d-sm-block">
+																					Common Questions </h4>
+																				<div
+																					class="title-block__text tt-limit-width03">
+																					We can save you money on soap,
+																					water, heating and electricity.
+																					Since things
+																					are hard in this economic. </div>
+																			</div>
+																			<div class="row-indent-top">
+																				<h6 class="tt-subtitle">Your First
+																					Order!</h6>
+
+																				<div class="row">
+																					<div class="col-md-6">
+																						<div
+																							class="js-accordeon accordeon-01">
+																							<div
+																								class="tt-item tt-item__open">
+																								<div
+																									class="tt-item__title">
+																									What should I
+																									prepare for the
+																									pickup?</div>
+																								<div
+																									class="tt-item__content">
+																									We aim to collect
+																									your clothes, clean
+																									them to a
+																									professional
+																									standard and get
+																									them back to you all
+																									within 48 hours.
+																								</div>
+																							</div>
+																							<div class="tt-item ">
+																								<div
+																									class="tt-item__title">
+																									Can I add extra
+																									items to my order
+																									when you collect…
+																								</div>
+																								<div
+																									class="tt-item__content">
+																									Cloths would be
+																									weighted when
+																									collected
+																									and extra items can
+																									be added. You would
+																									be charged
+																									according to the
+																									size of the total
+																									cloths weighted
+																								</div>
+																							</div>
+																							<div class="tt-item ">
+																								<div
+																									class="tt-item__title">
+																									Can I order by phone
+																									or email?</div>
+																								<div
+																									class="tt-item__content">
+																									Orders can be made
+																									through email,
+																									subscription plan,
+																									throght the website
+																									and email. </div>
+																							</div>
+
+
+																						</div>
+																					</div>
+																					<div
+																						class="divider-xs d-block d-md-none">
+																					</div>
+																					<div class="col-md-6">
+																						<div
+																							class="js-accordeon accordeon-01">
+																							<div class="tt-item ">
+																								<div
+																									class="tt-item__title">
+																									Where are my clothes
+																									cleaned?</div>
+																								<div
+																									class="tt-item__content">
+																									Cloths are cleans at
+																									laundry center in
+																									Ashesi. </div>
+																							</div>
+
+																							<div class="tt-item ">
+																								<div
+																									class="tt-item__title">
+																									Are there any
+																									fabrics you don't
+																									clean?</div>
+																								<div
+																									class="tt-item__content">
+																									We use industry
+																									leading machines
+																									and we are able to
+																									clean all fabrics.
+																								</div>
+																							</div>
+																							<div class="tt-item ">
+																								<div
+																									class="tt-item__title">
+																									How can I pay for
+																									the services?</div>
+																								<div
+																									class="tt-item__content">
+																									Payment can be done
+																									through mobile
+																									money, via VISA or
+																									cash in hand.</div>
+																							</div>
+
+																						</div>
+																					</div>
+																				</div>
+
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</section>
+									<section
+										class="elementor-section elementor-top-section elementor-element elementor-element-3ff39c9 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+										data-id="3ff39c9" data-element_type="section">
+										<div class="elementor-container elementor-column-gap-no">
+											<div class="elementor-row">
+												<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a2fb6ef"
+													data-id="a2fb6ef" data-element_type="column">
+													<div class="elementor-column-wrap elementor-element-populated">
+														<div class="elementor-widget-wrap">
+															<div class="elementor-element elementor-element-acd60a6 elementor-widget elementor-widget-laundry_faq"
+																data-id="acd60a6" data-element_type="widget"
+																data-widget_type="laundry_faq.default">
+																<div class="elementor-widget-container">
+																	<div class="container container-fluid-lg">
+																		<div class="row row-top">
+																			<div class="col-md-6">
+																				<h6 class="tt-subtitle">Dry Cleaning
+																				</h6>
+																				<div class="js-accordeon accordeon-01">
+																					<div class="tt-item tt-item__open">
+																						<div class="tt-item__title">What
+																							if my clothes are damaged?
+																						</div>
+																						<div class="tt-item__content">
+																							We aim provide quality
+																							service and handle all items
+																							with
+																							professional care. </div>
+																					</div>
+
+																					<div class="tt-item ">
+																						<div class="tt-item__title">Do
+																							you furnish the cleaning
+																							supplies?</div>
+																						<div class="tt-item__content">
+																							Our cleaning supplies are
+																							procured from
+																							environmental frenddily
+																							agencies and do not cause
+																							harm to the environment.
+																						</div>
+																					</div>
+
+																				</div>
+																			</div>
+																			<div class="divider-xs d-block d-md-none">
+																			</div>
+																			<div class="col-md-6">
+																				<h6 class="tt-subtitle">Wash, Tumble Dry
+																					& Fold</h6>
+																				<div class="js-accordeon accordeon-01">
+																					<div class="tt-item tt-item__open">
+																						<div class="tt-item__title">Do I
+																							need to weigh my Wash,
+																							Tumble Dry & Fold bag?</div>
+																						<div class="tt-item__content">
+																							You are adivies to pack yout
+																							cloths
+																							in a laundry basket. Items
+																							would be weighted at the
+																							laundry center. </div>
+																					</div>
+																					<div class="tt-item ">
+																						<div class="tt-item__title">What
+																							temperature do you wash the
+																							clothes at?</div>
+																						<div class="tt-item__content">
+																							Cloths are washed at the
+																							appropriate temperature
+																						</div>
+																					</div>
+
+
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</section>
+									<section
+										class="elementor-section elementor-top-section elementor-element elementor-element-0c2a988 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+										data-id="0c2a988" data-element_type="section">
+										<div class="elementor-container elementor-column-gap-no">
+											<div class="elementor-row">
+												<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-52464eb"
+													data-id="52464eb" data-element_type="column">
+													<div class="elementor-column-wrap elementor-element-populated">
+														<div class="elementor-widget-wrap">
+															<div class="elementor-element elementor-element-42d1563 elementor-widget elementor-widget-laundry_contact_form"
+																data-id="42d1563" data-element_type="widget"
+																data-widget_type="laundry_contact_form.default">
+																<div class="elementor-widget-container">
+																	<div class="section-inner">
+																		<div class="container container-fluid-lg">
+																			<div class="title-block text-center">
+																				<h4 class="title-block__title">
+																					Ask Your Question </h4>
+																				<div
+																					class="title-block__text tt-limit-width">
+																					We look forward to helping you
+																					create and maintain a clean, healthy
+																					environment that’s as enjoyable as
+																					it is functional. </div>
+																			</div>
+																			<div class="row justify-content-md-center">
+																				<div class="col-md-9 col-lg-8">
+																					<div class="form-default form-default__top text-center"
+																						id="faq-form">
+																						<div role="form" class="wpcf7"
+																							id="wpcf7-f675-p509-o1"
+																							lang="en-US" dir="ltr">
+																							<div
+																								class="screen-reader-response">
+																								<p role="status"
+																									aria-live="polite"
+																									aria-atomic="true">
+																								</p>
+																								<ul></ul>
+																							</div>
+																							<form
+																								action="https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/#wpcf7-f675-p509-o1"
+																								method="post"
+																								class="wpcf7-form init"
+																								novalidate="novalidate"
+																								data-status="init">
+																								<div
+																									style="display: none;">
+																									<input type="hidden"
+																										name="_wpcf7"
+																										value="675" />
+																									<input type="hidden"
+																										name="_wpcf7_version"
+																										value="5.6.2" />
+																									<input type="hidden"
+																										name="_wpcf7_locale"
+																										value="en_US" />
+																									<input type="hidden"
+																										name="_wpcf7_unit_tag"
+																										value="wpcf7-f675-p509-o1" />
+																									<input type="hidden"
+																										name="_wpcf7_container_post"
+																										value="509" />
+																									<input type="hidden"
+																										name="_wpcf7_posted_data_hash"
+																										value="" />
+																								</div>
+																								<div class="form-group">
+																									<span
+																										class="wpcf7-form-control-wrap"
+																										data-name="your-name"><input
+																											type="text"
+																											name="your-name"
+																											value=""
+																											size="40"
+																											class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
+																											aria-required="true"
+																											aria-invalid="false"
+																											placeholder="Your name" /></span>
+																								</div>
+																								<div
+																									class="row row-align-col">
+																									<div
+																										class="col-md-6">
+																										<div
+																											class="form-group">
+																											<span
+																												class="wpcf7-form-control-wrap"
+																												data-name="your-email"><input
+																													type="email"
+																													name="your-email"
+																													value=""
+																													size="40"
+																													class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control"
+																													aria-required="true"
+																													aria-invalid="false"
+																													placeholder="E-mail" /></span>
+																										</div>
+																									</div>
+																									<div
+																										class="col-md-6">
+																										<div
+																											class="form-group">
+																											<span
+																												class="wpcf7-form-control-wrap"
+																												data-name="your-phone"><input
+																													type="text"
+																													name="your-phone"
+																													value=""
+																													size="40"
+																													class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
+																													aria-required="true"
+																													aria-invalid="false"
+																													placeholder="Phone" /></span>
+																										</div>
+																									</div>
+																								</div>
+																								<div class="form-group">
+																									<span
+																										class="wpcf7-form-control-wrap"
+																										data-name="your-message"><textarea
+																											name="your-message"
+																											cols="40"
+																											rows="10"
+																											class="wpcf7-form-control wpcf7-textarea form-control"
+																											aria-invalid="false"
+																											placeholder="Your question"></textarea></span>
+																								</div>
+																								<div
+																									class="tt-btn tt-btn__wide">
+																									<span
+																										class="mask">Send
+																										Question</span><button
+																										type="submit"
+																										class="button wpcf7-form-control wpcf7-submit">Send
+																										Question</button>
+																								</div>
+																								<div class="wpcf7-response-output"
+																									aria-hidden="true">
+																								</div>
+																							</form>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</section>
 								</div>
-
-
-
 							</div>
-
 						</div>
-
-						<ul class="products columns-3">
-
-
-
-
-							<li
-								class="prd product type-product post-1498 status-publish first instock product_cat-accessories has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-								<a href="../../product/beanie/index.html"
-									class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-									<div class="prd-img">
-
-
-
-									
-										<img width="300" height="300"
-											src="9.svg"
-											class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt=""
-											loading="lazy"
-											srcset="9.svg 300w, 9.svg 150w, 9.svg 768w, 9.svg 600w, 9.svg 100w, 9.svg 801w"
-											sizes="(max-width: 300px) 100vw, 300px" />
-									</div>
-									<div class="prd-info">
-										<h2 class="woocommerce-loop-product__title">Duvet</h2>
-										<span class="price">
-											<ins><span class="woocommerce-Price-amount amount"><bdi><span
-															class="woocommerce-Price-currencySymbol">&#36;</span>18.00</bdi>
-														</span>
-														</ins>
-														</span>
-									</div>
-								</a><a rel="nofollow" href="index39d3.html?add-to-cart=1498" data-quantity="1"
-									data-product_id="1498" data-product_sku="woo-beanie"
-									class="btn btn-default button product_type_simple add_to_cart_button ajax_add_to_cart"
-									data-product_id="1498" data-product_sku="woo-beanie"
-									aria-label="Add &ldquo;Beanie&rdquo; to your cart" rel="nofollow"><span>Add to
-										cart</span></a>
-							</li>
-
-						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
-
-
-
 	</main>
 	<footer id="tt-footer">`
 		<div class="footer-wrapper01">
 			<div class="container container-fluid-xl">
 				<div class="row f-col-wrapper">
 					<div class="col-md-4">
-						<a href="index.html" class="f-logo">
+						<a href="index.php" class="f-logo">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<div class="f-text">
 							We are professionals in the laundry and dry cleaning business, which means we always stay up
@@ -3907,6 +4239,7 @@
 			</div>
 		</div>
 	</footer>
+	</footer>
 	<a href="#" class="tt-btn tt-back-to-top" id="js-backtotop">
 		<span class="mask">
 			<svg version="1.1" x="0px" y="0px" width="24" height="24" viewBox="0 0 24 24"
@@ -3934,22 +4267,25 @@
 			document.body.className = c;
 		})();
 	</script>
+	<link rel='stylesheet' id='e-animations-css'
+		href='../wp-content/plugins/elementor/assets/lib/animations/animations.min3088.css?ver=3.7.0' type='text/css'
+		media='all' />
 	<script type='text/javascript'
-		src='../../wp-content/plugins/laundry-helper/assets/elementor/js/addons-script-24186.js?ver=1667819278'
+		src='../wp-content/plugins/laundry-helper/assets/elementor/js/addons-script-2978a.js?ver=1667819217'
 		id='laundry-core-script-2-js'></script>
-	<script type='text/javascript' src='../../wp-includes/js/dist/vendor/regenerator-runtime.min3937.js?ver=0.13.9'
+	<script type='text/javascript' src='../wp-includes/js/dist/vendor/regenerator-runtime.min3937.js?ver=0.13.9'
 		id='regenerator-runtime-js'></script>
-	<script type='text/javascript' src='../../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0'
+	<script type='text/javascript' src='../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0'
 		id='wp-polyfill-js'></script>
 	<script type='text/javascript' id='contact-form-7-js-extra'>
 		/* <![CDATA[ */
 		var wpcf7 = { "api": { "root": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-json\/", "namespace": "contact-form-7\/v1" }, "cached": "1" };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='../../wp-content/plugins/contact-form-7/includes/js/index4c7e.js?ver=5.6.2'
+	<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/index4c7e.js?ver=5.6.2'
 		id='contact-form-7-js'></script>
 	<script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minf13c.js?ver=2.7.0-wc.6.8.0'
+		src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minf13c.js?ver=2.7.0-wc.6.8.0'
 		id='jquery-blockui-js'></script>
 	<script type='text/javascript' id='wc-add-to-cart-js-extra'>
 		/* <![CDATA[ */
@@ -3957,10 +4293,10 @@
 /* ]]> */
 	</script>
 	<script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min8e94.js?ver=6.8.0'
+		src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min8e94.js?ver=6.8.0'
 		id='wc-add-to-cart-js'></script>
 	<script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min1c36.js?ver=2.1.4-wc.6.8.0'
+		src='../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min1c36.js?ver=2.1.4-wc.6.8.0'
 		id='js-cookie-js'></script>
 	<script type='text/javascript' id='woocommerce-js-extra'>
 		/* <![CDATA[ */
@@ -3968,7 +4304,7 @@
 /* ]]> */
 	</script>
 	<script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min8e94.js?ver=6.8.0'
+		src='../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min8e94.js?ver=6.8.0'
 		id='woocommerce-js'></script>
 	<script type='text/javascript' id='wc-cart-fragments-js-extra'>
 		/* <![CDATA[ */
@@ -3976,16 +4312,16 @@
 /* ]]> */
 	</script>
 	<script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min8e94.js?ver=6.8.0'
+		src='../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min8e94.js?ver=6.8.0'
 		id='wc-cart-fragments-js'></script>
 	<script type='text/javascript' id='laundry-bundle-js-js-extra'>
 		/* <![CDATA[ */
 		var ajax_object = { "ajax_nonce_servicecart": "a8bd2e8299", "ajax_url": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php" };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='../../wp-content/themes/laundry/js/bundle4186.js?ver=1667819278'
+	<script type='text/javascript' src='../wp-content/themes/laundry/js/bundle978a.js?ver=1667819217'
 		id='laundry-bundle-js-js'></script>
-	<script type='text/javascript' src='../../wp-content/themes/laundry/js/custom82c4.js?ver=1653566665'
+	<script type='text/javascript' src='../wp-content/themes/laundry/js/custom82c4.js?ver=1653566665'
 		id='laundry-custom-js'></script>
 	<script type='text/javascript' id='colorswatch-js-js-extra'>
 		/* <![CDATA[ */
@@ -3993,8 +4329,32 @@
 /* ]]> */
 	</script>
 	<script type='text/javascript'
-		src='../../wp-content/plugins/color-sds-picker-laundry/js/switcher4186.js?ver=1667819278'
+		src='../wp-content/plugins/color-sds-picker-laundry/js/switcher978a.js?ver=1667819217'
 		id='colorswatch-js-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/webpack.runtime.min3088.js?ver=3.7.0'
+		id='elementor-webpack-runtime-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend-modules.min3088.js?ver=3.7.0'
+		id='elementor-frontend-modules-js'></script>
+	<script type='text/javascript'
+		src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
+		id='elementor-waypoints-js'></script>
+	<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1'
+		id='jquery-ui-core-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6'
+		id='swiper-js'></script>
+	<script type='text/javascript'
+		src='../wp-content/plugins/elementor/assets/lib/share-link/share-link.min3088.js?ver=3.7.0'
+		id='share-link-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0'
+		id='elementor-dialog-js'></script>
+	<script type='text/javascript' id='elementor-frontend-js-before'>
+		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Extra", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Extra", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } }, "version": "3.7.0", "is_static": false, "experimentalFeatures": { "e_import_export": true, "e_hidden_wordpress_widgets": true, "landing-pages": true, "elements-color-picker": true, "favorite-widgets": true, "admin-top-bar": true }, "urls": { "assets": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 509, "title": "FAQ%20-%20Laundry", "excerpt": "", "featuredImage": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/uploads\/sites\/2\/2020\/11\/subtitle-wrapper01-1024x154.jpg" } };
+	</script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min3088.js?ver=3.7.0'
+		id='elementor-frontend-js'></script>
+	<script type='text/javascript'
+		src='../wp-content/plugins/elementor/assets/js/preloaded-modules.min3088.js?ver=3.7.0'
+		id='preloaded-modules-js'></script>
 	<div class="modal fade" id="modalMRequestQuote" tabindex="-1" role="dialog" aria-label="myModalLabel"
 		aria-hidden="true">
 		<div class="modal-dialog modal-md">
@@ -4005,19 +4365,18 @@
 					<div class="modal-titleblock">
 						<div class="modal-title">Schedule a Pickup</div>
 					</div>
-					<div role="form" class="wpcf7" id="wpcf7-f822-o2" lang="en-US" dir="ltr">
+					<div role="form" class="wpcf7" id="wpcf7-f822-o3" lang="en-US" dir="ltr">
 						<div class="screen-reader-response">
 							<p role="status" aria-live="polite" aria-atomic="true"></p>
 							<ul></ul>
 						</div>
-						<form
-							action="https://smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/#wpcf7-f822-o2"
+						<form action="https://smartdata.tonytemplates.com/laundry-v2/demo2/faq/#wpcf7-f822-o3"
 							method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
 							<div style="display: none;">
 								<input type="hidden" name="_wpcf7" value="822" />
 								<input type="hidden" name="_wpcf7_version" value="5.6.2" />
 								<input type="hidden" name="_wpcf7_locale" value="en_US" />
-								<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f822-o2" />
+								<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f822-o3" />
 								<input type="hidden" name="_wpcf7_container_post" value="0" />
 								<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 							</div>
@@ -4109,6 +4468,6 @@
 	</div>
 </body>
 
-<!-- Mirrored from smartdata.tonytemplates.com/laundry-v2/demo2/product-category/accessories/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Nov 2022 11:09:39 GMT -->
+<!-- Mirrored from smartdata.tonytemplates.com/laundry-v2/demo2/faq/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Nov 2022 11:08:01 GMT -->
 
 </html>

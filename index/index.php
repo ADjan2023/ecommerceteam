@@ -11,13 +11,13 @@
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<title>Laundry Men</title>
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="index.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Home - Laundry" />
 	<meta property="og:description"
 		content="Laundry Service We Care for the Clothes You Wear Order Now Order Now Dry Cleaning Cleaning Excellence Guaranteed! Order Now Order Now Laundry Service We Care for the Clothes You Wear Order Now Order Now Dry Cleaning Cleaning Excellence Guaranteed! Order Now Order Now ProLaundry Laundry Service We Care for the Clothes You Wear Order [&hellip;]" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Laundry" />
 	<meta property="article:modified_time" content="2022-08-11T10:07:39+00:00" />
 	<meta property="og:image" content="wp-content/uploads/sites/2/2020/11/mainslide01-01.jpg" />
@@ -32,9 +32,9 @@
 	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="feed/index.html" />
+	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="feed/index.php" />
 	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Comments Feed"
-		href="comments/feed/index.html" />
+		href="comments/feed/index.php" />
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3" } };
 		/*! This file is auto-generated */
@@ -3394,7 +3394,7 @@
 	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 	<meta name="generator" content="WordPress 6.0.3" />
 	<meta name="generator" content="WooCommerce 6.8.0" />
-	<link rel='shortlink' href='index.html' />
+	<link rel='shortlink' href='index.php' />
 	<link rel="alternate" type="application/json+oembed"
 		href="wp-json/oembed/1.0/embeddd0b.json?url=https%3A%2F%2Fsmartdata.tonytemplates.com%2Flaundry-v2%2Fdemo2%2F" />
 	<link rel="alternate" type="text/xml+oembed"
@@ -3574,7 +3574,7 @@
 					</div>
 					<div class="tt-item__text">
 						<address>
-							<a class="not-style" href="tel:1 (800) 765-43-21">
+							<a class="not-style" href="tel:020 95 35 914">
 								0209535914 </a>
 						</address>
 					</div>
@@ -3633,7 +3633,7 @@
 				<div class="tt-holder">
 					<div class="tt-col-left">
 						<!-- logo -->
-						<a href="index.html" class="tt-logo tt-logo-alignment">
+						<a href="index.php" class="tt-logo tt-logo-alignment">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<!-- /logo -->
 					</div>
@@ -3644,35 +3644,35 @@
 								<ul id="menu-primary-menu" class="menu">
 									<li id="nav-menu-item-317"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item">
-										<a href="index.html" class="menu-link main-menu-link">Home</a>
+										<a href="index.php" class="menu-link main-menu-link">Home</a>
 									</li>
 									<li id="nav-menu-item-318"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="about-us/index.html" class="menu-link main-menu-link">About Us</a>
+										<a href="about-us/index.php" class="menu-link main-menu-link">About Us</a>
 									</li>
 									<li id="nav-menu-item-527"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-										<a href="services/index.html" class="menu-link main-menu-link">Services</a>
+										<a href="services/index.php" class="menu-link main-menu-link">Services</a>
 									</li>
 									<li id="nav-menu-item-502"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="prices/index.html" class="menu-link main-menu-link">Subscriptions</a>
+										<a href="prices/index.php" class="menu-link main-menu-link">Subscriptions</a>
 									</li>
 									<li id="nav-menu-item-656"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="blog-posts/index.html" class="menu-link main-menu-link">Blog</a>
+										<a href="blog-posts/index.php" class="menu-link main-menu-link">Blog</a>
 									</li>
 									<li id="nav-menu-item-1377"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="shop/index.html" class="menu-link main-menu-link">Shop</a>
+										<a href="shop/index.php" class="menu-link main-menu-link">Shop</a>
 									</li>
 									<li id="nav-menu-item-526"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="faq/index.html" class="menu-link main-menu-link">FAQ</a>
+										<a href="faq/index.php" class="menu-link main-menu-link">FAQ</a>
 									</li>
 									<li id="nav-menu-item-604"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="contact-us/index.html" class="menu-link main-menu-link">Contacts</a>
+										<a href="contact-us/index.php" class="menu-link main-menu-link">Contacts</a>
 									</li>
 								</ul>
 							</nav>
@@ -3692,7 +3692,7 @@
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="cart/index.html" class="tt-obj__btn cart-contents">
+								<a href="cart/index.php" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
@@ -4244,7 +4244,7 @@
 								]
 							}'>
 																<div class="tt-item">
-																	<a href="laundry-helper/laundry-services/index.html"
+																	<a href="laundry-helper/laundry-services/index.php"
 																		class="imgbox-inner svg-animation-02">
 																		<div class="imgbox-inner__img">
 																			<img width="600" style="height:340px"
@@ -4319,7 +4319,7 @@
 																	</a>
 																</div>
 																<div class="tt-item">
-																	<a href="laundry-helper/dry-cleaning-services/index.html"
+																	<a href="laundry-helper/dry-cleaning-services/index.php"
 																		class="imgbox-inner svg-animation-03">
 																		<div class="imgbox-inner__img">
 																			<img width="600" style="height:340px"
@@ -4361,7 +4361,7 @@
 																</div>
 											
 																<div class="tt-item">
-																	<a href="laundry-helper/steam-iron/index.html"
+																	<a href="laundry-helper/steam-iron/index.php"
 																		class="imgbox-inner ">
 																		<div class="imgbox-inner__img">
 																			<img width="600" style="height:340px"
@@ -4438,7 +4438,7 @@
 																		a years and would love to earn your
 																		business. Try us today and save Ghc10 Off your
 																		first laundry service of 20 pounds or more.</p>
-																	<a href="prices/index.html"
+																	<a href="prices/index.php"
 																		class="tt-btn tt-btn__top">
 																		<span class="mask">Get Service Now</span>
 																		<div class="button">Get Service Now</div>
@@ -4671,1013 +4671,7 @@
 						</div>
 					</section>
 					<div class="sp" style="margin-bottom:-290px"></div>
-					<!-- <section
-						class="elementor-section elementor-top-section elementor-element elementor-element-f2991b0 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-						data-id="f2991b0" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-							<div class="elementor-row">
-								<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-863409c"
-									data-id="863409c" data-element_type="column">
-									<div class="elementor-column-wrap elementor-element-populated">
-										<div class="elementor-widget-wrap">
-											<div class="elementor-element elementor-element-aa5f86e elementor-widget elementor-widget-laundry_service_tab"
-												data-id="aa5f86e" data-element_type="widget"
-												data-widget_type="laundry_service_tab.default">
-												<div class="elementor-widget-container">
-
-													<div class="tt-position-relative">
-														<div class="lazyload tt-obj01-bg"
-															data-bg="wp-content/uploads/sites/2/2020/11/wrapper04.png">
-														</div>
-														<div class="section-indent no-margin ">
-															<div class="container container-fluid-lg">
-																<div class="title-block text-center">
-																	<div class="title-block__label">
-																		Important Information </div>
-																	<h4 class="title-block__title">Trusted Laundry
-																		Service</h4>
-																</div>
-																<div class="tabs-default tab-layout01">
-																	<div class="tt-ajax-tabs">
-																		<ul class="nav nav-tabs" role="tablist">
-																			<li class="nav-item"><a
-																					class="nav-link show active"
-																					data-toggle="tab" href="#tt-tab-01"
-																					role="tab">Our Approach</a></li>
-																			<li class="nav-item"><a class="nav-link "
-																					data-toggle="tab" href="#tt-tab-02"
-																					role="tab">Questions / Answers</a>
-																			</li>
-																			<li class="nav-item"><a class="nav-link "
-																					data-toggle="tab" href="#tt-tab-03"
-																					role="tab">Why Choose Us</a></li>
-
-																		</ul>
-																	</div>
-																	<div class="tab-content">
-																		<div class="tab-pane active fade" id="tt-tab-01"
-																			role="tabpanel">
-																			<div data-elementor-type="section"
-																				data-elementor-id="151"
-																				class="elementor elementor-151">
-																				<div class="elementor-inner">
-																					<div class="elementor-section-wrap">
-																						<section
-																							class="elementor-section elementor-top-section elementor-element elementor-element-9e718c6 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-																							data-id="9e718c6"
-																							data-element_type="section">
-																							<div
-																								class="elementor-container elementor-column-gap-default">
-																								<div
-																									class="elementor-row">
-																									<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7fe9ffe"
-																										data-id="7fe9ffe"
-																										data-element_type="column">
-																										<div
-																											class="elementor-column-wrap elementor-element-populated">
-																											<div
-																												class="elementor-widget-wrap">
-																												<div class="elementor-element elementor-element-a06118d elementor-widget elementor-widget-laundry_our_approach"
-																													data-id="a06118d"
-																													data-element_type="widget"
-																													data-widget_type="laundry_our_approach.default">
-																													<div
-																														class="elementor-widget-container">
-
-																														<div
-																															class="row align-items-lg-center">
-																															<div
-																																class="col-sm-6 col-lg-5">
-																																<h5
-																																	class="tab-layout01__title">
-																																	Our
-																																	Approach
-																																</h5>
-																																<p>We
-																																	approach
-																																	workforce
-																																	accommodations
-																																	with
-																																	a
-																																	property
-																																	development
-																																	mindset.
-																																	Our
-																																	“Develop.
-																																	Own.
-																																	Operate.”
-																																	business
-																																	model
-																																	produces
-																																	integrated
-																																	solutions
-																																	that
-																																	enable
-																																	clients
-																																	to
-																																	focus
-																																	on
-																																	their
-																																	core
-																																	business.
-																																</p>
-																																<p>Clients
-																																	benefit
-																																	from
-																																	consistent
-																																	service
-																																	delivery
-																																	with
-																																	greater
-																																	cost
-																																	and
-																																	quality
-																																	control
-																																	as
-																																	well
-																																	as
-																																	more
-																																	efficient
-																																	use
-																																	of
-																																	their
-																																	operational
-																																	and
-																																	financial
-																																	resources.
-																																</p>
-																															</div>
-																															<div
-																																class="divider-sm d-block d-sm-none">
-																															</div>
-																															<div
-																																class="col-sm-6 col-lg-6 offset-lg-1">
-																																<a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
-																																	class="tt-obj-video js-video-popup">
-																																	<img width="569"
-																																		height="321"
-																																		src="wp-content/uploads/sites/2/2020/11/video-img01.jpg"
-																																		class="attachment-full size-full"
-																																		alt=""
-																																		loading="lazy"
-																																		srcset="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/video-img01.jpg 569w, https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/video-img01-300x169.jpg 300w"
-																																		sizes="(max-width: 569px) 100vw, 569px" />
-																																	<div class="btn-video-holder"
-																																		data-video="https://www.youtube.com/watch?v=-cmnuHChEiA&t=28s&ab_channel=AshesiUniversity">
-																																		<div
-																																			class="btn-video icons-254434">
-																																		</div>
-																																	</div>
-																																</a>
-																															</div>
-																														</div>
-																														<div
-																															class="added-info02 added-info02__top row">
-																															<a href="#_"
-																																class="added-info02__item col-md-4">
-																																<div
-																																	class="added-info02__icon  icons-3022225">
-																																</div>
-																																<div
-																																	class="added-info02__description">
-																																	<h6
-																																		class="added-info02__title">
-																																		<span>High
-																																			Quality</span>
-																																	</h6>
-																																	We
-																																	work
-																																	hard
-																																	to
-																																	make
-																																	sure
-																																	that
-																																	the
-																																	clothes
-																																	you
-																																	get
-																																	back
-																																	are
-																																	spotless
-																																	and
-																																	ready
-																																	for
-																																	action.
-																																</div>
-																															</a>
-																															<a href="#_"
-																																class="added-info02__item col-md-4">
-																																<div
-																																	class="added-info02__icon  icons-3096677">
-																																</div>
-																																<div
-																																	class="added-info02__description">
-																																	<h6
-																																		class="added-info02__title">
-																																		<span>Cleaner
-																																			&
-																																			Greener</span>
-																																	</h6>
-																																	We
-																																	work
-																																	with
-																																	the
-																																	environment
-																																	in
-																																	mind.
-																																	No
-																																	harsh
-																																	chemicals.
-																																</div>
-																															</a>
-																															<a href="#_"
-																																class="added-info02__item col-md-4">
-																																<div
-																																	class="added-info02__icon  icons-686308">
-																																</div>
-																																<div
-																																	class="added-info02__description">
-																																	<h6
-																																		class="added-info02__title">
-																																		<span>Happiness
-																																			Guarantee</span>
-																																	</h6>
-																																	If
-																																	you're
-																																	not
-																																	completely
-																																	satisfied
-																																	with
-																																	the
-																																	wash
-																																	or
-																																	dry
-																																	cleaning,
-																																	we
-																																	will
-																																	re-process
-																																	your
-																																	clothes
-																																	for
-																																	free!
-																																</div>
-																															</a>
-
-																														</div>
-																													</div>
-																												</div>
-																											</div>
-																										</div>
-																									</div>
-																								</div>
-																							</div>
-																						</section>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="tab-pane " id="tt-tab-02"
-																			role="tabpanel">
-																			<div data-elementor-type="section"
-																				data-elementor-id="155"
-																				class="elementor elementor-155">
-																				<div class="elementor-inner">
-																					<div class="elementor-section-wrap">
-																						<section
-																							class="elementor-section elementor-top-section elementor-element elementor-element-4474a0d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-																							data-id="4474a0d"
-																							data-element_type="section">
-																							<div
-																								class="elementor-container elementor-column-gap-default">
-																								<div
-																									class="elementor-row">
-																									<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f14228c"
-																										data-id="f14228c"
-																										data-element_type="column">
-																										<div
-																											class="elementor-column-wrap elementor-element-populated">
-																											<div
-																												class="elementor-widget-wrap">
-																												<div class="elementor-element elementor-element-3d5e545 elementor-widget elementor-widget-laundry_questions_answers"
-																													data-id="3d5e545"
-																													data-element_type="widget"
-																													data-widget_type="laundry_questions_answers.default">
-																													<div
-																														class="elementor-widget-container">
-
-																														<div
-																															class="row">
-																															<div
-																																class="col-md-5">
-																																<img width="449"
-																																	height="497"
-																																	src="wp-content/uploads/sites/2/2020/11/img05.jpg"
-																																	class="tt-align-img02"
-																																	alt=""
-																																	loading="lazy"
-																																	srcset="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/img05.jpg 449w, https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/img05-271x300.jpg 271w"
-																																	sizes="(max-width: 449px) 100vw, 449px" />
-																															</div>
-																															<div
-																																class="divider-sm d-block d-md-none">
-																															</div>
-																															<div
-																																class="col-md-7">
-																																<h5
-																																	class="tab-layout01__title">
-																																	Questions
-																																	/
-																																	Answers
-																																</h5>
-																																<div
-																																	class="js-accordeon accordeon-01">
-																																	<div
-																																		class="tt-item tt-item__open">
-																																		<div
-																																			class="tt-item__title">
-																																			What
-																																			if
-																																			my
-																																			clothes
-																																			are
-																																			heavily
-																																			stained?
-																																		</div>
-																																		<div
-																																			class="tt-item__content">
-																																			We
-																																			try
-																																			our
-																																			best
-																																			to
-																																			remove
-																																			the
-																																			stains
-																																			by
-																																			adapting
-																																			the
-																																			best
-																																			washing
-																																			cycle,
-																																			detergent,
-																																			temperature
-																																			suitable
-																																			for
-																																			the
-																																			garment,
-																																			however
-																																			in
-																																			case
-																																			of
-																																			tough
-																																			stains,
-																																			we
-																																			would
-																																			recommend
-																																			you
-																																			to
-																																			use
-																																			our
-																																			stain
-																																			removal
-																																			or
-																																			dry
-																																			cleaning
-																																			service.
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="tt-item ">
-																																		<div
-																																			class="tt-item__title">
-																																			How
-																																			long
-																																			you
-																																			take
-																																			to
-																																			return
-																																			the
-																																			garments?
-																																		</div>
-																																		<div
-																																			class="tt-item__content">
-																																			We
-																																			try
-																																			our
-																																			best
-																																			to
-																																			remove
-																																			the
-																																			stains
-																																			by
-																																			adapting
-																																			the
-																																			best
-																																			washing
-																																			cycle,
-																																			detergent,
-																																			temperature
-																																			suitable
-																																			for
-																																			the
-																																			garment,
-																																			however
-																																			in
-																																			case
-																																			of
-																																			tough
-																																			stains,
-																																			we
-																																			would
-																																			recommend
-																																			you
-																																			to
-																																			use
-																																			our
-																																			stain
-																																			removal
-																																			or
-																																			dry
-																																			cleaning
-																																			service.
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="tt-item ">
-																																		<div
-																																			class="tt-item__title">
-																																			How
-																																			can
-																																			I
-																																			pay
-																																			for
-																																			the
-																																			services?
-																																		</div>
-																																		<div
-																																			class="tt-item__content">
-																																			We
-																																			try
-																																			our
-																																			best
-																																			to
-																																			remove
-																																			the
-																																			stains
-																																			by
-																																			adapting
-																																			the
-																																			best
-																																			washing
-																																			cycle,
-																																			detergent,
-																																			temperature
-																																			suitable
-																																			for
-																																			the
-																																			garment,
-																																			however
-																																			in
-																																			case
-																																			of
-																																			tough
-																																			stains,
-																																			we
-																																			would
-																																			recommend
-																																			you
-																																			to
-																																			use
-																																			our
-																																			stain
-																																			removal
-																																			or
-																																			dry
-																																			cleaning
-																																			service.
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="tt-item ">
-																																		<div
-																																			class="tt-item__title">
-																																			Does
-																																			Dry
-																																			cleaning
-																																			process
-																																			removes
-																																			all
-																																			the
-																																			stains?
-																																		</div>
-																																		<div
-																																			class="tt-item__content">
-																																			We
-																																			try
-																																			our
-																																			best
-																																			to
-																																			remove
-																																			the
-																																			stains
-																																			by
-																																			adapting
-																																			the
-																																			best
-																																			washing
-																																			cycle,
-																																			detergent,
-																																			temperature
-																																			suitable
-																																			for
-																																			the
-																																			garment,
-																																			however
-																																			in
-																																			case
-																																			of
-																																			tough
-																																			stains,
-																																			we
-																																			would
-																																			recommend
-																																			you
-																																			to
-																																			use
-																																			our
-																																			stain
-																																			removal
-																																			or
-																																			dry
-																																			cleaning
-																																			service.
-																																		</div>
-																																	</div>
-
-																																</div>
-																															</div>
-																														</div>
-
-																													</div>
-																												</div>
-																											</div>
-																										</div>
-																									</div>
-																								</div>
-																							</div>
-																						</section>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="tab-pane " id="tt-tab-03"
-																			role="tabpanel">
-																			<div data-elementor-type="section"
-																				data-elementor-id="282"
-																				class="elementor elementor-282">
-																				<div class="elementor-inner">
-																					<div class="elementor-section-wrap">
-																						<section
-																							class="elementor-section elementor-top-section elementor-element elementor-element-80552d3 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-																							data-id="80552d3"
-																							data-element_type="section">
-																							<div
-																								class="elementor-container elementor-column-gap-default">
-																								<div
-																									class="elementor-row">
-																									<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dc5ab90"
-																										data-id="dc5ab90"
-																										data-element_type="column">
-																										<div
-																											class="elementor-column-wrap elementor-element-populated">
-																											<div
-																												class="elementor-widget-wrap">
-																												<div class="elementor-element elementor-element-2301f69 elementor-widget elementor-widget-laundry_why_choose_us"
-																													data-id="2301f69"
-																													data-element_type="widget"
-																													data-widget_type="laundry_why_choose_us.default">
-																													<div
-																														class="elementor-widget-container">
-
-																														<div
-																															class="row">
-																															<div
-																																class="col-md-12 col-lg-4">
-																																<h5
-																																	class="tab-layout01__title">
-																																	Why
-																																	Choose
-																																	Us
-																																</h5>
-																																<p>We
-																																	know
-																																	that
-																																	a
-																																	strong,
-																																	client-focused
-																																	business
-																																	is
-																																	a
-																																	smart
-																																	business.
-																																	We
-																																	have
-																																	a
-																																	20,000-square-foot,
-																																	state-of-the-art
-																																	workshop
-																																	where
-																																	all
-																																	cleaning,
-																																	specialized
-																																	spot
-																																	removal,
-																																	pressing,
-																																	inspection
-																																	and
-																																	packaging
-																																	of
-																																	your
-																																	items
-																																	take
-																																	place.
-																																</p>
-																																<h5
-																																	class="tt-subtitle indent-top">
-																																	Values
-																																	&
-																																	Experience
-																																</h5>
-																																<p>We
-																																	know
-																																	that
-																																	a
-																																	strong,
-																																	client-focused
-																																	business
-																																	is
-																																	a
-																																	smart
-																																	business.
-																																	We
-																																	have
-																																	a
-																																	20,000-square-foot,
-																																	state-of-the-art
-																																	workshop
-																																	where
-																																	all
-																																	cleaning,
-																																	specialized
-																																	spot
-																																	removal,
-																																	pressing,
-																																	inspection
-																																	and
-																																	packaging
-																																	of
-																																	your
-																																	items
-																																	take
-																																	place.
-																																</p>
-																																<a href="services/index.html"
-																																	class="tt-btn tt-btn__top">
-																																	<span
-																																		class="mask">Get
-																																		Service
-																																		Now</span>
-																																	<div
-																																		class="button">
-																																		Get
-																																		Service
-																																		Now
-																																	</div>
-																																</a>
-																															</div>
-																															<div
-																																class="divider d-block d-lg-none">
-																															</div>
-																															<div
-																																class="col-md-6 col-lg-4">
-																																<div
-																																	class="info02__wrapper">
-																																	<div
-																																		class="info02__item">
-																																		<div
-																																			class="info02">
-																																			<div
-																																				class="info02__icon">
-																																				<i aria-hidden="true"
-																																					class=" icons-bright-lightbulb"></i>
-																																			</div>
-																																			<div
-																																				class="info02__content">
-																																				<h6
-																																					class="info02__title">
-																																					Persionalized
-																																					Experience
-																																				</h6>
-																																				<p>We
-																																					take
-																																					utmost
-																																					care
-																																					of
-																																					your
-																																					clothes,
-																																					segregating
-																																					based
-																																					on
-																																					the
-																																					cloth
-																																					type
-																																					and
-																																					giving
-																																					you
-																																					instant
-																																					clothes
-																																					to
-																																					make
-																																					a
-																																					statement.
-																																				</p>
-																																			</div>
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="info02__item">
-																																		<div
-																																			class="info02">
-																																			<div
-																																				class="info02__icon">
-																																				<i aria-hidden="true"
-																																					class=" icons-reading-book"></i>
-																																			</div>
-																																			<div
-																																				class="info02__content">
-																																				<h6
-																																					class="info02__title">
-																																					Convenience
-																																				</h6>
-																																				<p>With
-																																					just
-																																					a
-																																					tap
-																																					of
-																																					a
-																																					button,
-																																					your
-																																					laundry
-																																					gets
-																																					done,
-																																					giving
-																																					your
-																																					leisure
-																																					time
-																																					to
-																																					spend
-																																					with
-																																					family
-																																					and
-																																					friends.
-																																				</p>
-																																			</div>
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="info02__item">
-																																		<div
-																																			class="info02">
-																																			<div
-																																				class="info02__icon">
-																																				<i aria-hidden="true"
-																																					class=" icons-express-delivery"></i>
-																																			</div>
-																																			<div
-																																				class="info02__content">
-																																				<h6
-																																					class="info02__title">
-																																					Express
-																																					Delivery
-																																				</h6>
-																																				<p>With
-																																					our
-																																					super
-																																					express
-																																					delivery,
-																																					we
-																																					would
-																																					get
-																																					your
-																																					laundry
-																																					done
-																																					in
-																																					less
-																																					than
-																																					8
-																																					hours.
-																																				</p>
-																																			</div>
-																																		</div>
-																																	</div>
-
-																																</div>
-																															</div>
-																															<div
-																																class="divider-sm d-block d-md-none">
-																															</div>
-																															<div
-																																class="col-md-6 col-lg-4">
-																																<div
-																																	class="info02__wrapper">
-																																	<div
-																																		class="info02__item">
-																																		<div
-																																			class="info02">
-																																			<div
-																																				class="info02__icon">
-																																				<i aria-hidden="true"
-																																					class=" icons-tag-1"></i>
-																																			</div>
-																																			<div
-																																				class="info02__content">
-																																				<h6
-																																					class="info02__title">
-																																					Affordable
-																																					Pricing
-																																				</h6>
-																																				<p>Prices
-																																					that
-																																					suits
-																																					your
-																																					pocket
-																																					is
-																																					one
-																																					of
-																																					our
-																																					USP.
-																																					An
-																																					option
-																																					of
-																																					choosing
-																																					between
-																																					2
-																																					types
-																																					of
-																																					pricing
-																																					is
-																																					available.
-																																				</p>
-																																			</div>
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="info02__item">
-																																		<div
-																																			class="info02">
-																																			<div
-																																				class="info02__icon">
-																																				<i aria-hidden="true"
-																																					class=" icons-3022225"></i>
-																																			</div>
-																																			<div
-																																				class="info02__content">
-																																				<h6
-																																					class="info02__title">
-																																					Quality
-																																				</h6>
-																																				<p>We
-																																					use
-																																					the
-																																					best
-																																					in
-																																					class
-																																					products,
-																																					to
-																																					assure
-																																					that
-																																					your
-																																					favorite
-																																					clothes
-																																					are
-																																					always
-																																					there
-																																					for
-																																					you
-																																					to
-																																					wear.
-																																				</p>
-																																			</div>
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="info02__item">
-																																		<div
-																																			class="info02">
-																																			<div
-																																				class="info02__icon">
-																																				<i aria-hidden="true"
-																																					class=" icons-interface"></i>
-																																			</div>
-																																			<div
-																																				class="info02__content">
-																																				<h6
-																																					class="info02__title">
-																																					Instant
-																																					Order
-																																					Update
-																																				</h6>
-																																				<p>Regular
-																																					updates
-																																					of
-																																					your
-																																					order,
-																																					to
-																																					help
-																																					you
-																																					keep
-																																					a
-																																					track
-																																					of
-																																					your
-																																					laundry
-																																					and
-																																					plan
-																																					accordingly.
-																																				</p>
-																																			</div>
-																																		</div>
-																																	</div>
-																																	<div
-																																		class="info02__item">
-																																		<div
-																																			class="info02">
-																																			<div
-																																				class="info02__icon">
-																																			</div>
-																																			<div
-																																				class="info02__content">
-																																				<h6
-																																					class="info02__title">
-																																					Persionalized
-																																					Experience
-																																				</h6>
-																																				<p>We
-																																					take
-																																					utmost
-																																					care
-																																					of
-																																					your
-																																					clothes,
-																																					segregating
-																																					based
-																																					on
-																																					the
-																																					cloth
-																																					type
-																																					and
-																																					giving
-																																					you
-																																					instant
-																																					clothes
-																																					to
-																																					make
-																																					a
-																																					statement.
-																																				</p>
-																																			</div>
-																																		</div>
-																																	</div>
-
-																																</div>
-																															</div>
-																														</div>
-																													</div>
-																												</div>
-																											</div>
-																										</div>
-																									</div>
-																								</div>
-																							</div>
-																						</section>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section> -->
+				
 					<section
 						class="elementor-section elementor-top-section elementor-element elementor-element-f183842 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
 						data-id="f183842" data-element_type="section">
@@ -5694,47 +4688,6 @@
 													<div class="container-fluid no-gutters ">
 														<div class="section-indent">
 															<div class="box02 box02__img-right">
-																<!-- <div class="box02__img">
-
-																	<picture>
-																		<source
-																			srcset="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/12/box02-img02-sm.jpg"
-																			media="(max-width: 650px)" type="image/png">
-																		<source
-																			srcset="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/12/box02-img02-md.jpg"
-																			media="(max-width: 1024px)"
-																			type="image/png">
-																		<img src="wp-content/uploads/sites/2/2020/11/box02-img02.jpg"
-																			alt="">
-																	</picture>
-																	<img width="151" height="42"
-																		src="wp-content/uploads/sites/2/2020/11/arrow-img-left02.png"
-																		class="tt-arrow" alt="" loading="lazy" />
-																</div> -->
-																<!-- <div class="box02__content">
-																	<div class="title-block">
-																		<div class="title-block__label">
-																			Laundry service for your business! </div>
-																		<h4 class="title-block__title">Tap. Clean.
-																			Deliver.</h4>
-																	</div>
-																	<p>Download the our app and request our laundry
-																		service. Your clothes washed, folded and
-																		delivered to your doorstep. So go ahead and say
-																		yes to more time with the family, more happy
-																		hours, and more slapping the snooze button every
-																		morning — we've got laundry day covered.</p>
-																	<ul class="tt-list-img tt-list-img__top">
-																		<li><a href="#_"><img class="lazyload"
-																					src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																					data-src="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/themes/laundry/images/img05.png"
-																					alt=""></a></li>
-																		<li><a href="#_"><img class="lazyload"
-																					src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-																					data-src="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/themes/laundry/images/img06.png"
-																					alt=""></a></li>
-																	</ul>
-																</div> -->
 															</div>
 														</div>
 													</div>
@@ -5942,7 +4895,7 @@
 																		<div class="promo02__price">
 																			GH₵ 30 </div>
 																		<div class="promo02__show-btn">
-																			<a href="prices/index.html"
+																			<a href="prices/index.php"
 																				class="tt-btn tt-btn__wide">
 																				<span class="mask">Order Now</span>
 																				<div class="button">Order Now</div>
@@ -5970,7 +4923,7 @@
 																		<div class="promo02__price">
 																			GH₵ 450</div>
 																		<div class="promo02__show-btn">
-																			<a href="prices/index.html"
+																			<a href="prices/index.php"
 																				class="tt-btn tt-btn__wide">
 																				<span class="mask">Order Now</span>
 																				<div class="button">Order Now</div>
@@ -5997,7 +4950,7 @@
 																		<div class="promo02__price">
 																			GH₵ 560 </div>
 																		<div class="promo02__show-btn">
-																			<a href="prices/index.html"
+																			<a href="prices/index.php"
 																				class="tt-btn tt-btn__wide">
 																				<span class="mask">Order Now</span>
 																				<div class="button">Order Now</div>
@@ -6044,7 +4997,7 @@
 																	It is our goal to offer you the best possible
 																	laundry<br> and dry cleaning service available. </p>
 																<address>
-																	<a href="tel:1 (800) 765-43-21">+ (233)
+																	<a href="tel:020 95 35 914
 																		20 95 35 914</a>
 																</address>
 															</div>
@@ -6108,7 +5061,7 @@
 			<div class="container container-fluid-xl">
 				<div class="row f-col-wrapper">
 					<div class="col-md-4">
-						<a href="index.html" class="f-logo">
+						<a href="index.php" class="f-logo">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<div class="f-text">
 							We are professionals in the laundry and dry cleaning business, which means we always stay up
@@ -6125,10 +5078,10 @@
 						<ul class="f-info">
 							<li><i class="icons-484169"></i> Ashesi University</li>
 							<li><i class="icons-59252"></i> Mon-Fri: 7:00am-7:00pm</li>
-							<li><a href="mailto:noreply@envato.com"><i class="icons-1004017"></i>
+							<li><a href="mailto:info@laundrymen.com"><i class="icons-1004017"></i>
 									info@laundrymen.com</a>
 							</li>
-							<li><strong><a href="tel: 1 (800) 765-43-21"><i class="icons-4839471"></i> + (233)
+							<li><strong><a href="tel: 020 95 35 914"><i class="icons-4839471"></i> + (233)
 										95 35 914</a></strong></li>
 						</ul>
 					</div>
