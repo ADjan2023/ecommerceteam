@@ -1,65 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 
-<channel>
-	<title>Laundry</title>
-	<atom:link href="https://smartdata.tonytemplates.com/laundry-v2/demo2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/</link>
-	<description>Just another Laundry &#038; Dry Cleaning Sites site</description>
-	<lastBuildDate>Wed, 03 Aug 2022 08:54:08 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
-	<item>
-		<title>test</title>
-		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/test/</link>
-					<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/test/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 08 Dec 2020 07:31:03 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=1278</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/test/">test</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/test/">test</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/test/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
+	<channel>
+		<title>Laundry</title>
+		<atom:link href="https://smartdata.tonytemplates.com/laundry-v2/demo2/feed/" rel="self"
+			type="application/rss+xml" />
+		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/</link>
+		<description>Just another Laundry &#038; Dry Cleaning Sites site</description>
+		<lastBuildDate>Wed, 03 Aug 2022 08:54:08 +0000</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod>
+			hourly </sy:updatePeriod>
+		<sy:updateFrequency>
+			1 </sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.0.3</generator>
 		<item>
-		<title>A Guide to Doing Laundry and Finding the Best Local Laundromat Near You</title>
-		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/</link>
-					<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 23 Nov 2020 06:32:41 +0000</pubDate>
-				<category><![CDATA[Alterations & Repairs]]></category>
-		<category><![CDATA[Carpet Cleaning]]></category>
-		<category><![CDATA[Dry Cleaning Services]]></category>
-		<category><![CDATA[Laundry Services]]></category>
-		<category><![CDATA[Shoes Cleaning]]></category>
-		<category><![CDATA[Steam Iron]]></category>
-		<category><![CDATA[Dry Cleaning]]></category>
-		<category><![CDATA[Steam Ironing]]></category>
-		<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=1001</guid>
+			<title>test</title>
+			<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/test/</link>
+			<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/test/#respond</comments>
 
-					<description><![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
+			<dc:creator>
+				<![CDATA[admin]]>
+			</dc:creator>
+			<pubDate>Tue, 08 Dec 2020 07:31:03 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=1278</guid>
+
+			<description>
+				<![CDATA[<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/test/">test</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/test/">test</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
+]]>
+			</content:encoded>
+
+			<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+
+
+		</item>
+		<item>
+			<title>A Guide to Doing Laundry and Finding the Best Local Laundromat Near You</title>
+			<link>
+			https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/
+			</link>
+			<comments>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/#comments
+			</comments>
+
+			<dc:creator>
+				<![CDATA[admin]]>
+			</dc:creator>
+			<pubDate>Mon, 23 Nov 2020 06:32:41 +0000</pubDate>
+			<category>
+				<![CDATA[Alterations & Repairs]]>
+			</category>
+			<category>
+				<![CDATA[Carpet Cleaning]]>
+			</category>
+			<category>
+				<![CDATA[Dry Cleaning Services]]>
+			</category>
+			<category>
+				<![CDATA[Laundry Services]]>
+			</category>
+			<category>
+				<![CDATA[Shoes Cleaning]]>
+			</category>
+			<category>
+				<![CDATA[Steam Iron]]>
+			</category>
+			<category>
+				<![CDATA[Dry Cleaning]]>
+			</category>
+			<category>
+				<![CDATA[Steam Ironing]]>
+			</category>
+			<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=1001</guid>
+
+			<description>
+				<![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
 <p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/">A Guide to Doing Laundry and Finding the Best Local Laundromat Near You</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1001" class="elementor elementor-1001">
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1001" class="elementor elementor-1001">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-fcecced elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fcecced" data-element_type="section">
@@ -174,27 +205,39 @@
 			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/">A Guide to Doing Laundry and Finding the Best Local Laundromat Near You</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>How Much Time Do You Spend Doing Laundry?</title>
-		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/</link>
-					<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 23 Nov 2020 06:32:07 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=999</guid>
+]]>
+			</content:encoded>
 
-					<description><![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
+			<wfw:commentRss>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-doing-laundry-and-finding-the-best-local-laundromat-near-you/feed/
+			</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+
+
+		</item>
+		<item>
+			<title>How Much Time Do You Spend Doing Laundry?</title>
+			<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/</link>
+			<comments>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/#respond
+			</comments>
+
+			<dc:creator>
+				<![CDATA[admin]]>
+			</dc:creator>
+			<pubDate>Mon, 23 Nov 2020 06:32:07 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=999</guid>
+
+			<description>
+				<![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
 <p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/">How Much Time Do You Spend Doing Laundry?</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="999" class="elementor elementor-999">
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="999" class="elementor elementor-999">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-28c44370 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="28c44370" data-element_type="section">
@@ -309,27 +352,39 @@
 			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/">How Much Time Do You Spend Doing Laundry?</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Dangers of PERC in Dry Cleaning</title>
-		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/</link>
-					<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 23 Nov 2020 06:31:20 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=997</guid>
+]]>
+			</content:encoded>
 
-					<description><![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
+			<wfw:commentRss>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/how-much-time-do-you-spend-doing-laundry/feed/
+			</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+
+
+		</item>
+		<item>
+			<title>The Dangers of PERC in Dry Cleaning</title>
+			<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/</link>
+			<comments>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/#respond
+			</comments>
+
+			<dc:creator>
+				<![CDATA[admin]]>
+			</dc:creator>
+			<pubDate>Mon, 23 Nov 2020 06:31:20 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=997</guid>
+
+			<description>
+				<![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
 <p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/">The Dangers of PERC in Dry Cleaning</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="997" class="elementor elementor-997">
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="997" class="elementor elementor-997">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-57f1bfb6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57f1bfb6" data-element_type="section">
@@ -444,27 +499,41 @@
 			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/">The Dangers of PERC in Dry Cleaning</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>A Guide to Dry Cleaning and Finding a Reputable Local Dry Cleaner</title>
-		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/</link>
-					<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 23 Nov 2020 06:30:41 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=995</guid>
+]]>
+			</content:encoded>
 
-					<description><![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
+			<wfw:commentRss>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning-2/feed/
+			</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+
+
+		</item>
+		<item>
+			<title>A Guide to Dry Cleaning and Finding a Reputable Local Dry Cleaner</title>
+			<link>
+			https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/
+			</link>
+			<comments>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/#respond
+			</comments>
+
+			<dc:creator>
+				<![CDATA[admin]]>
+			</dc:creator>
+			<pubDate>Mon, 23 Nov 2020 06:30:41 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=995</guid>
+
+			<description>
+				<![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
 <p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/">A Guide to Dry Cleaning and Finding a Reputable Local Dry Cleaner</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="995" class="elementor elementor-995">
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="995" class="elementor elementor-995">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-2b59e9cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b59e9cb" data-element_type="section">
@@ -579,27 +648,41 @@
 			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/">A Guide to Dry Cleaning and Finding a Reputable Local Dry Cleaner</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>7 Dry Cleaning &#038; Laundry Tips for Cleaner Clothes in OKC</title>
-		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/</link>
-					<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 23 Nov 2020 06:30:02 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=993</guid>
+]]>
+			</content:encoded>
 
-					<description><![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
+			<wfw:commentRss>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/a-guide-to-dry-cleaning-and-finding-a-reputable-local-dry-cleaner/feed/
+			</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+
+
+		</item>
+		<item>
+			<title>7 Dry Cleaning &#038; Laundry Tips for Cleaner Clothes in OKC</title>
+			<link>
+			https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/
+			</link>
+			<comments>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/#respond
+			</comments>
+
+			<dc:creator>
+				<![CDATA[admin]]>
+			</dc:creator>
+			<pubDate>Mon, 23 Nov 2020 06:30:02 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=993</guid>
+
+			<description>
+				<![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
 <p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/">7 Dry Cleaning &#038; Laundry Tips for Cleaner Clothes in OKC</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="993" class="elementor elementor-993">
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="993" class="elementor elementor-993">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-30300aab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30300aab" data-element_type="section">
@@ -714,27 +797,38 @@
 			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/">7 Dry Cleaning &#038; Laundry Tips for Cleaner Clothes in OKC</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The Dangers of PERC in Dry Cleaning</title>
-		<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/</link>
-					<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 23 Nov 2020 06:29:16 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=990</guid>
+]]>
+			</content:encoded>
 
-					<description><![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
+			<wfw:commentRss>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/7-dry-cleaning-laundry-tips-for-cleaner-clothes-in-okc/feed/
+			</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+
+
+		</item>
+		<item>
+			<title>The Dangers of PERC in Dry Cleaning</title>
+			<link>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/</link>
+			<comments>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/#respond
+			</comments>
+
+			<dc:creator>
+				<![CDATA[admin]]>
+			</dc:creator>
+			<pubDate>Mon, 23 Nov 2020 06:29:16 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://smartdata.tonytemplates.com/laundry-v2/demo2/?p=990</guid>
+
+			<description>
+				<![CDATA[<p>Finding the best laundromat near you isn’t as simple as just looking for a local location and heading over. Locations with older machines may mean that you’re not getting the best quality you can, and you...</p>
 <p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/">The Dangers of PERC in Dry Cleaning</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="990" class="elementor elementor-990">
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="990" class="elementor elementor-990">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-73a83d85 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="73a83d85" data-element_type="section">
@@ -849,12 +943,15 @@
 			</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/">The Dangers of PERC in Dry Cleaning</a> appeared first on <a rel="nofollow" href="https://smartdata.tonytemplates.com/laundry-v2/demo2">Laundry</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/feed/</wfw:commentRss>
+]]>
+			</content:encoded>
+
+			<wfw:commentRss>
+				https://smartdata.tonytemplates.com/laundry-v2/demo2/the-dangers-of-perc-in-dry-cleaning/feed/
+			</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
+
+
+		</item>
 	</channel>
 </rss>

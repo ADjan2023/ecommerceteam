@@ -14,13 +14,13 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Prices - Laundry</title>
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="index.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Prices - Laundry" />
 	<meta property="og:description"
 		content="Affordable Prices Our Dry Cleaning &#038; Laundry Prices Our prices are simple and affordable which are easy on pocket in comparison with the high street prices Shirts Service Washed and Pressed From &#036;1.00 &#036;2.00 Order Now Order Now Day Dress Service Dry Clean From &#036;10.00 Order Now Order Now Dry Cleaning Wash, Dry and Fold [&hellip;]" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Laundry" />
 	<meta property="article:modified_time" content="2022-08-11T10:50:45+00:00" />
 	<meta property="og:image" content="../wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg" />
@@ -38,9 +38,9 @@
 	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../feed/index.html" />
+	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../feed/index.php" />
 	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Comments Feed"
-		href="../comments/feed/index.html" />
+		href="../comments/feed/index.php" />
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3" } };
 		/*! This file is auto-generated */
@@ -3349,7 +3349,7 @@
 	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/customab3f.css?ver=1667819216'
 		type='text/css' media='all' />
 	<style id='laundry-custom-inline-css' type='text/css'>
-		
+
 	</style>
 	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shopab3f.css?ver=1667819216'
 		type='text/css' media='all' />
@@ -3678,7 +3678,7 @@
 				<div class="tt-holder">
 					<div class="tt-col-left">
 						<!-- logo -->
-						<a href="../index.html" class="tt-logo tt-logo-alignment">
+						<a href="../index.php" class="tt-logo tt-logo-alignment">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men</a>
 						<!-- /logo -->
 					</div>
@@ -3689,31 +3689,35 @@
 								<ul id="menu-primary-menu" class="menu">
 									<li id="nav-menu-item-317"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
-										<a href="../index.html" class="menu-link main-menu-link">Home</a></li>
+										<a href="../index.php" class="menu-link main-menu-link">Home</a>
+									</li>
 									<li id="nav-menu-item-318"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../about-us/index.html" class="menu-link main-menu-link">About Us</a>
+										<a href="../about-us/index.php" class="menu-link main-menu-link">About Us</a>
 									</li>
 									<li id="nav-menu-item-527"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-										<a href="../services/index.html" class="menu-link main-menu-link">Services</a>
+										<a href="../services/index.php" class="menu-link main-menu-link">Services</a>
 									</li>
 									<li id="nav-menu-item-502"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-429 current_page_item">
-										<a href="index.html" class="menu-link main-menu-link">Subscriptions</a></li>
+										<a href="index.php" class="menu-link main-menu-link">Subscriptions</a>
+									</li>
 									<li id="nav-menu-item-656"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../blog-posts/index.html" class="menu-link main-menu-link">Blog</a>
+										<a href="../blog-posts/index.php" class="menu-link main-menu-link">Blog</a>
 									</li>
 									<li id="nav-menu-item-1377"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../shop/index.html" class="menu-link main-menu-link">Shop</a></li>
+										<a href="../shop/index.php" class="menu-link main-menu-link">Shop</a>
+									</li>
 									<li id="nav-menu-item-526"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../faq/index.html" class="menu-link main-menu-link">FAQ</a></li>
+										<a href="../faq/index.php" class="menu-link main-menu-link">FAQ</a>
+									</li>
 									<li id="nav-menu-item-604"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../contact-us/index.html" class="menu-link main-menu-link">Contacts</a>
+										<a href="../contact-us/index.php" class="menu-link main-menu-link">Contacts</a>
 									</li>
 								</ul>
 							</nav>
@@ -3733,7 +3737,7 @@
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="../cart/index.html" class="tt-obj__btn cart-contents">
+								<a href="../cart/indphp" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
@@ -3753,7 +3757,7 @@
 	<div id="subtitle-wrapper" class="lazyload" data-bg="../wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg">
 		<div class="container container-fluid-xl">
 			<div class="tt-breadcrumbs">
-				<span><span><a href="../index.html">Home</a> / <span class="breadcrumb_last"
+				<span><span><a href="../index.php">Home</a> / <span class="breadcrumb_last"
 							aria-current="page">Prices</span></span></span>
 			</div>
 			<h1 class="subtitle__title">
@@ -3823,10 +3827,14 @@
 																						<div
 																							class="promo02__show-layout">
 																							<ul>
-																								<li>One time pickup and delivery from hostel</li>
-																								<li>One laundry bag will be provided
+																								<li>One time pickup and
+																									delivery from hostel
 																								</li>
-																								<li>Laundry will be washed and dried
+																								<li>One laundry bag will
+																									be provided
+																								</li>
+																								<li>Laundry will be
+																									washed and dried
 																							</ul>
 																						</div>
 																						<div class="promo02__price">
@@ -3861,15 +3869,20 @@
 																						<div class="promo02__title">
 																							Standard Package</div>
 																						<div class="promo02__subtitle">
-																							Every two weeks laundry</div>
+																							Every two weeks laundry
+																						</div>
 																						<div
 																							class="promo02__show-layout">
 																							<ul>
-																								<li>Bi-weekly pickup and delivery from hostel</li>
-																								<li>One laundry bag will be provided
+																								<li>Bi-weekly pickup and
+																									delivery from hostel
 																								</li>
-																								<li>Laundry will be washed and dried
-																					
+																								<li>One laundry bag will
+																									be provided
+																								</li>
+																								<li>Laundry will be
+																									washed and dried
+
 																							</ul>
 																						</div>
 																						<div class="promo02__price">
@@ -3908,10 +3921,14 @@
 																						<div
 																							class="promo02__show-layout">
 																							<ul>
-																								<li>Weekly pickup and delivery from hostel</li>
-																								<li>One laundry bag will be provided
+																								<li>Weekly pickup and
+																									delivery from hostel
 																								</li>
-																								<li>Laundry will be washed and dried
+																								<li>One laundry bag will
+																									be provided
+																								</li>
+																								<li>Laundry will be
+																									washed and dried
 																							</ul>
 																						</div>
 																						<div class="promo02__price">
@@ -3961,7 +3978,7 @@
 			<div class="container container-fluid-xl">
 				<div class="row f-col-wrapper">
 					<div class="col-md-4">
-						<a href="index.html" class="f-logo">
+						<a href="index.php" class="f-logo">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<div class="f-text">
 							We are professionals in the laundry and dry cleaning business, which means we always stay up

@@ -18,7 +18,7 @@
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Accessories Archives - Laundry" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Laundry" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<script type="application/ld+json"
@@ -3720,7 +3720,7 @@
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="../../cart/index.html" class="tt-obj__btn cart-contents">
+								<a href="../../cart/index.php" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
@@ -3861,7 +3861,7 @@
 			<div class="container container-fluid-xl">
 				<div class="row f-col-wrapper">
 					<div class="col-md-4">
-						<a href="index.html" class="f-logo">
+						<a href="index.php" class="f-logo">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<div class="f-text">
 							We are professionals in the laundry and dry cleaning business, which means we always stay up
