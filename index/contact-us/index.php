@@ -3902,39 +3902,16 @@
 																					<ul></ul>
 																				</div>
 																				<form
-																					action="https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#wpcf7-f638-p602-o1"
 																					method="post"
-																					class="wpcf7-form init"
-																					novalidate="novalidate"
-																					data-status="init">
-																					<div style="display: none;">
-																						<input type="hidden"
-																							name="_wpcf7" value="638" />
-																						<input type="hidden"
-																							name="_wpcf7_version"
-																							value="5.6.2" />
-																						<input type="hidden"
-																							name="_wpcf7_locale"
-																							value="en_US" />
-																						<input type="hidden"
-																							name="_wpcf7_unit_tag"
-																							value="wpcf7-f638-p602-o1" />
-																						<input type="hidden"
-																							name="_wpcf7_container_post"
-																							value="602" />
-																						<input type="hidden"
-																							name="_wpcf7_posted_data_hash"
-																							value="" />
-																					</div>
+																					class="wpcf7-form init">
+																					<input hidden type="email" class="form-control" id="email" name="email" value="johnmahama65@gmail.com">
 																					<div class="form-group"><span
 																							class="wpcf7-form-control-wrap"
-																							data-name="your-name"><input
+																							><input
 																								type="text"
-																								name="your-name"
+																								name="fullname"
 																								value="" size="40"
 																								class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-																								aria-required="true"
-																								aria-invalid="false"
 																								placeholder="Your name" /></span>
 																					</div>
 																					<div class="row row-align-col">
@@ -3943,14 +3920,11 @@
 																								<span
 																									class="wpcf7-form-control-wrap"
 																									data-name="your-email"><input
-																										type="email"
-																										name="your-email"
-																										value=""
-																										size="40"
-																										class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control"
-																										aria-required="true"
-																										aria-invalid="false"
-																										placeholder="E-mail" /></span>
+																								type="email"
+																								name="email"
+																								value="" size="40"
+																								class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
+																								placeholder="Your name" /></span>
 																							</div>
 																						</div>
 																						<div class="col-md-6">
@@ -3958,14 +3932,11 @@
 																								<span
 																									class="wpcf7-form-control-wrap"
 																									data-name="your-phone"><input
-																										type="text"
-																										name="your-phone"
-																										value=""
-																										size="40"
-																										class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-																										aria-required="true"
-																										aria-invalid="false"
-																										placeholder="Phone" /></span>
+																								type="tel"
+																								name="phone"
+																								value="" size="40"
+																								class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
+																								placeholder="Your name" /></span>
 																							</div>
 																						</div>
 																					</div>
@@ -3975,7 +3946,6 @@
 																								name="your-message"
 																								cols="40" rows="10"
 																								class="wpcf7-form-control wpcf7-textarea form-control"
-																								aria-invalid="false"
 																								placeholder="Your message"></textarea></span>
 																					</div>
 																					<div class="tt-btn tt-btn__wide">
