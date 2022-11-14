@@ -18,8 +18,7 @@
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Contact Us - Laundry" />
-	<meta property="og:description"
-		content="[Get in Touch With Us] Contact Information Post Address 8494 Signal Hill Road Manassas,VA, 20110 Contact Phone 1 (800) 765-43-21 E-mail Address info@yourlaundrysite.com Opening Hours Mon-Fri 08:00 AM &#8211; 05:00 PMSat-Sun 10:00 AM &#8211; 5:00 PM Get in Touch. We are Here to Help. We look forward to helping you create and maintain a clean, [&hellip;]" />
+	<meta property="og:description" content="[Get in Touch With Us] Contact Information Post Address 8494 Signal Hill Road Manassas,VA, 20110 Contact Phone 1 (800) 765-43-21 E-mail Address info@yourlaundrysite.com Opening Hours Mon-Fri 08:00 AM &#8211; 05:00 PMSat-Sun 10:00 AM &#8211; 5:00 PM Get in Touch. We are Here to Help. We look forward to helping you create and maintain a clean, [&hellip;]" />
 	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Laundry" />
 	<meta property="article:modified_time" content="2021-06-14T12:28:38+00:00" />
@@ -30,8 +29,73 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="1 minute" />
-	<script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/","name":"Contact Us - Laundry","isPartOf":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website"},"primaryImageOfPage":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#primaryimage"},"image":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#primaryimage"},"thumbnailUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","datePublished":"2020-11-16T06:20:19+00:00","dateModified":"2021-06-14T12:28:38+00:00","breadcrumb":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#primaryimage","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","contentUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","width":1920,"height":288},{"@type":"BreadcrumbList","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://smartdata.tonytemplates.com/laundry-v2/demo2/"},{"@type":"ListItem","position":2,"name":"Contact Us"}]},{"@type":"WebSite","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/","name":"Laundry","description":"Just another Laundry & Dry Cleaning Sites site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://smartdata.tonytemplates.com/laundry-v2/demo2/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">
+		{
+			"@context": "https://schema.org",
+			"@graph": [{
+				"@type": "WebPage",
+				"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/",
+				"url": "https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/",
+				"name": "Contact Us - Laundry",
+				"isPartOf": {
+					"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/#website"
+				},
+				"primaryImageOfPage": {
+					"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#primaryimage"
+				},
+				"image": {
+					"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#primaryimage"
+				},
+				"thumbnailUrl": "https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg",
+				"datePublished": "2020-11-16T06:20:19+00:00",
+				"dateModified": "2021-06-14T12:28:38+00:00",
+				"breadcrumb": {
+					"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/"]
+				}]
+			}, {
+				"@type": "ImageObject",
+				"inLanguage": "en-US",
+				"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#primaryimage",
+				"url": "https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg",
+				"contentUrl": "https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg",
+				"width": 1920,
+				"height": 288
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https://smartdata.tonytemplates.com/laundry-v2/demo2/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Contact Us"
+				}]
+			}, {
+				"@type": "WebSite",
+				"@id": "https://smartdata.tonytemplates.com/laundry-v2/demo2/#website",
+				"url": "https://smartdata.tonytemplates.com/laundry-v2/demo2/",
+				"name": "Laundry",
+				"description": "Just another Laundry & Dry Cleaning Sites site",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https://smartdata.tonytemplates.com/laundry-v2/demo2/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}]
+		}
+	</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -39,12 +103,53 @@
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
 	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../feed/index.php" />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Comments Feed"
-		href="../comments/feed/index.php" />
+	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Comments Feed" href="../comments/feed/index.php" />
 	<script type="text/javascript">
-		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3" } };
+		window._wpemojiSettings = {
+			"baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
+			"ext": ".png",
+			"svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
+			"svgExt": ".svg",
+			"source": {
+				"concatemoji": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"
+			}
+		};
 		/*! This file is auto-generated */
-		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode, e = (p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0), i.toDataURL()); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([129777, 127995, 8205, 129778, 127999], [129777, 127995, 8203, 129778, 127999]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji))) }(window, document, window._wpemojiSettings);
+		! function(e, a, t) {
+			var n, r, o, i = a.createElement("canvas"),
+				p = i.getContext && i.getContext("2d");
+
+			function s(e, t) {
+				var a = String.fromCharCode,
+					e = (p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0), i.toDataURL());
+				return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL()
+			}
+
+			function c(e) {
+				var t = a.createElement("script");
+				t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
+			}
+			for (o = Array("flag", "emoji"), t.supports = {
+					everything: !0,
+					everythingExceptFlag: !0
+				}, r = 0; r < o.length; r++) t.supports[o[r]] = function(e) {
+				if (!p || !p.fillText) return !1;
+				switch (p.textBaseline = "top", p.font = "600 32px Arial", e) {
+					case "flag":
+						return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]);
+					case "emoji":
+						return !s([129777, 127995, 8205, 129778, 127999], [129777, 127995, 8203, 129778, 127999])
+				}
+				return !1
+			}(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]);
+			t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function() {
+				t.DOMReady = !0
+			}, t.supports.everything || (n = function() {
+				t.readyCallback()
+			}, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
+				"complete" === a.readyState && t.readyCallback()
+			})), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji)))
+		}(window, document, window._wpemojiSettings);
 	</script>
 	<style type="text/css">
 		img.wp-smiley,
@@ -60,8 +165,7 @@
 			padding: 0 !important;
 		}
 	</style>
-	<link rel='stylesheet' id='wp-block-library-css'
-		href='../wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.min1eb7.css?ver=6.0.3' type='text/css' media='all' />
 	<style id='wp-block-library-theme-inline-css' type='text/css'>
 		.wp-block-audio figcaption {
 			color: #555;
@@ -235,12 +339,8 @@
 			margin-bottom: 0
 		}
 	</style>
-	<link rel='stylesheet' id='wc-blocks-vendors-style-css'
-		href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style8c3f.css?ver=8.0.0'
-		type='text/css' media='all' />
-	<link rel='stylesheet' id='wc-blocks-style-css'
-		href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style8c3f.css?ver=8.0.0'
-		type='text/css' media='all' />
+	<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style8c3f.css?ver=8.0.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='wc-blocks-style-css' href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style8c3f.css?ver=8.0.0' type='text/css' media='all' />
 	<style id='global-styles-inline-css' type='text/css'>
 		body {
 			--wp--preset--color--black: #000000;
@@ -3324,30 +3424,19 @@
 			}
 		}
 	</style>
-	<link rel='stylesheet' id='contact-form-7-css'
-		href='../wp-content/plugins/contact-form-7/includes/css/styles4c7e.css?ver=5.6.2' type='text/css' media='all' />
-	<link rel='stylesheet' id='woocommerce-layout-css'
-		href='../wp-content/plugins/woocommerce/assets/css/woocommerce-layout8e94.css?ver=6.8.0' type='text/css'
-		media='all' />
-	<link rel='stylesheet' id='woocommerce-smallscreen-css'
-		href='../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen8e94.css?ver=6.8.0' type='text/css'
-		media='only screen and (max-width: 768px)' />
-	<link rel='stylesheet' id='woocommerce-general-css'
-		href='../wp-content/plugins/woocommerce/assets/css/woocommerce8e94.css?ver=6.8.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='contact-form-7-css' href='../wp-content/plugins/contact-form-7/includes/css/styles4c7e.css?ver=5.6.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='woocommerce-layout-css' href='../wp-content/plugins/woocommerce/assets/css/woocommerce-layout8e94.css?ver=6.8.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='woocommerce-smallscreen-css' href='../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen8e94.css?ver=6.8.0' type='text/css' media='only screen and (max-width: 768px)' />
+	<link rel='stylesheet' id='woocommerce-general-css' href='../wp-content/plugins/woocommerce/assets/css/woocommerce8e94.css?ver=6.8.0' type='text/css' media='all' />
 	<style id='woocommerce-inline-inline-css' type='text/css'>
 		.woocommerce form .form-row .required {
 			visibility: visible;
 		}
 	</style>
-	<link rel='stylesheet' id='laundry-google-fonts-css'
-		href='https://fonts.googleapis.com/css?family=Poppins%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C900%2C900i%7CRoboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C900%2C900i&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic%2Cgreek-ext%2Cgreek%2Cvietnamese'
-		type='text/css' media='all' />
-	<link rel='stylesheet' id='laundry-blog-css'
-		href='../wp-content/themes/laundry/css/style-blog0d63.css?ver=1667819218' type='text/css' media='all' />
-	<link rel='stylesheet' id='laundry-style-2-css'
-		href='../wp-content/themes/laundry/css/style-20d63.css?ver=1667819218' type='text/css' media='all' />
-	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom0d63.css?ver=1667819218'
-		type='text/css' media='all' />
+	<link rel='stylesheet' id='laundry-google-fonts-css' href='https://fonts.googleapis.com/css?family=Poppins%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C900%2C900i%7CRoboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C900%2C900i&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic%2Cgreek-ext%2Cgreek%2Cvietnamese' type='text/css' media='all' />
+	<link rel='stylesheet' id='laundry-blog-css' href='../wp-content/themes/laundry/css/style-blog0d63.css?ver=1667819218' type='text/css' media='all' />
+	<link rel='stylesheet' id='laundry-style-2-css' href='../wp-content/themes/laundry/css/style-20d63.css?ver=1667819218' type='text/css' media='all' />
+	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom0d63.css?ver=1667819218' type='text/css' media='all' />
 	<style id='laundry-custom-inline-css' type='text/css'>
 		/* body */
 		body {}
@@ -3360,39 +3449,27 @@
 		h5,
 		h6 {}
 	</style>
-	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop0d63.css?ver=1667819218'
-		type='text/css' media='all' />
-	<link rel='stylesheet' id='elementor-icons-css'
-		href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min91ce.css?ver=5.16.0'
-		type='text/css' media='all' />
-	<link rel='stylesheet' id='elementor-frontend-legacy-css'
-		href='../wp-content/plugins/elementor/assets/css/frontend-legacy.min3088.css?ver=3.7.0' type='text/css'
-		media='all' />
-	<link rel='stylesheet' id='elementor-frontend-css'
-		href='../wp-content/plugins/elementor/assets/css/frontend.min3088.css?ver=3.7.0' type='text/css' media='all' />
-	<link rel='stylesheet' id='elementor-post-267-css'
-		href='../wp-content/uploads/sites/2/elementor/css/post-2670e89.css?ver=1622960623' type='text/css'
-		media='all' />
-	<link rel='stylesheet' id='colorswatch-style-color-css'
-		href='../wp-content/plugins/color-sds-picker-laundry/css/color/style0d63.css?ver=1667819218' type='text/css'
-		media='all' />
-	<link rel='stylesheet' id='colorswatch-style-css'
-		href='../wp-content/plugins/color-sds-picker-laundry/css/switcher-style0d63.css?ver=1667819218' type='text/css'
-		media='all' />
-	<link rel='stylesheet' id='google-fonts-1-css'
-		href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.0.3'
-		type='text/css' media='all' />
-	<script type='text/javascript' src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0'
-		id='jquery-core-js'></script>
-	<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
-		id='jquery-migrate-js'></script>
+	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop0d63.css?ver=1667819218' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min91ce.css?ver=5.16.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-frontend-legacy-css' href='../wp-content/plugins/elementor/assets/css/frontend-legacy.min3088.css?ver=3.7.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/plugins/elementor/assets/css/frontend.min3088.css?ver=3.7.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-post-267-css' href='../wp-content/uploads/sites/2/elementor/css/post-2670e89.css?ver=1622960623' type='text/css' media='all' />
+	<link rel='stylesheet' id='colorswatch-style-color-css' href='../wp-content/plugins/color-sds-picker-laundry/css/color/style0d63.css?ver=1667819218' type='text/css' media='all' />
+	<link rel='stylesheet' id='colorswatch-style-css' href='../wp-content/plugins/color-sds-picker-laundry/css/switcher-style0d63.css?ver=1667819218' type='text/css' media='all' />
+	<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.0.3' type='text/css' media='all' />
+	<script type='text/javascript' src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
+	<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
 	<script type='text/javascript' id='laundry-contact-googlemap-js-extra'>
 		/* <![CDATA[ */
-		var laundry_gmap_vars = { "GMAP_LAT": "55.8610112", "GMAP_LNG": "-4.2547319", "GMAP_ZOOM": "14", "GMAP_THEME_PATH": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/themes\/laundry" };
-/* ]]> */
+		var laundry_gmap_vars = {
+			"GMAP_LAT": "55.8610112",
+			"GMAP_LNG": "-4.2547319",
+			"GMAP_ZOOM": "14",
+			"GMAP_THEME_PATH": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/themes\/laundry"
+		};
+		/* ]]> */
 	</script>
-	<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?sensor=false&amp;key&amp;ver=201202124'
-		id='laundry-contact-googlemap-js'></script>
+	<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?sensor=false&amp;key&amp;ver=201202124' id='laundry-contact-googlemap-js'></script>
 	<link rel="https://api.w.org/" href="../wp-json/index.html" />
 	<link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/602.json" />
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
@@ -3400,10 +3477,8 @@
 	<meta name="generator" content="WordPress 6.0.3" />
 	<meta name="generator" content="WooCommerce 6.8.0" />
 	<link rel='shortlink' href='../indexca7f.html?p=602' />
-	<link rel="alternate" type="application/json+oembed"
-		href="../wp-json/oembed/1.0/embed66f9.json?url=https%3A%2F%2Fsmartdata.tonytemplates.com%2Flaundry-v2%2Fdemo2%2Fcontact-us%2F" />
-	<link rel="alternate" type="text/xml+oembed"
-		href="../wp-json/oembed/1.0/embedf0f9?url=https%3A%2F%2Fsmartdata.tonytemplates.com%2Flaundry-v2%2Fdemo2%2Fcontact-us%2F&amp;format=xml" />
+	<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed66f9.json?url=https%3A%2F%2Fsmartdata.tonytemplates.com%2Flaundry-v2%2Fdemo2%2Fcontact-us%2F" />
+	<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedf0f9?url=https%3A%2F%2Fsmartdata.tonytemplates.com%2Flaundry-v2%2Fdemo2%2Fcontact-us%2F&amp;format=xml" />
 	<meta name="generator" content="Redux 4.3.14" /> <noscript>
 		<style>
 			.woocommerce-product-gallery {
@@ -3413,14 +3488,11 @@
 	</noscript>
 </head>
 
-<body
-	class="page-template page-template-elementor_header_footer page page-id-602 wp-embed-responsive theme-laundry woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-267 elementor-page elementor-page-602">
-	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<body class="page-template page-template-elementor_header_footer page page-id-602 wp-embed-responsive theme-laundry woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-267 elementor-page elementor-page-602">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-dark-grayscale">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0 0.49803921568627" />
 					<feFuncG type="table" tableValues="0 0.49803921568627" />
@@ -3430,12 +3502,10 @@
 				<feComposite in2="SourceGraphic" operator="in" />
 			</filter>
 		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-grayscale">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0 1" />
 					<feFuncG type="table" tableValues="0 1" />
@@ -3445,12 +3515,10 @@
 				<feComposite in2="SourceGraphic" operator="in" />
 			</filter>
 		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-purple-yellow">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
 					<feFuncG type="table" tableValues="0 1" />
@@ -3460,12 +3528,10 @@
 				<feComposite in2="SourceGraphic" operator="in" />
 			</filter>
 		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-blue-red">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0 1" />
 					<feFuncG type="table" tableValues="0 0.27843137254902" />
@@ -3475,12 +3541,10 @@
 				<feComposite in2="SourceGraphic" operator="in" />
 			</filter>
 		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-midnight">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0 0" />
 					<feFuncG type="table" tableValues="0 0.64705882352941" />
@@ -3490,12 +3554,10 @@
 				<feComposite in2="SourceGraphic" operator="in" />
 			</filter>
 		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-magenta-yellow">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0.78039215686275 1" />
 					<feFuncG type="table" tableValues="0 0.94901960784314" />
@@ -3505,12 +3567,10 @@
 				<feComposite in2="SourceGraphic" operator="in" />
 			</filter>
 		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-purple-green">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
 					<feFuncG type="table" tableValues="0 1" />
@@ -3520,12 +3580,10 @@
 				<feComposite in2="SourceGraphic" operator="in" />
 			</filter>
 		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-		style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
 		<defs>
 			<filter id="wp-duotone-blue-orange">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-					values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
 				<feComponentTransfer color-interpolation-filters="sRGB">
 					<feFuncR type="table" tableValues="0.098039215686275 1" />
 					<feFuncG type="table" tableValues="0 0.66274509803922" />
@@ -3537,21 +3595,8 @@
 		</defs>
 	</svg>
 	<div class="tt-colorswatch">
-		<div class="tt-colorswatch-options"><a href="#" class="colorswatch2 js-swatch-color" data-color="2"
-				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x.png"></a> <a href="#"
-				class="colorswatch3 js-swatch-color" data-color="3"
-				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color02.png"></a> <a
-				href="#" class="colorswatch4 js-swatch-color" data-color="4"
-				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color03.png"></a> <a
-				href="#" class="colorswatch5 js-swatch-color" data-color="5"
-				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color04.png"></a> <a
-				href="#" class="colorswatch6 js-swatch-color" data-color="6"
-				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color05.png"></a> <a
-				href="#" class="colorswatch6 js-swatch-color" data-color="7"
-				data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color06.png"></a></div>
-		<div class="tt-colorswatch-btn js-colorswatch"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
-				xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="347.523px" height="347.523px"
-				viewBox="0 0 347.523 347.523" style="enable-background:new 0 0 347.523 347.523;" xml:space="preserve">
+		<div class="tt-colorswatch-options"><a href="#" class="colorswatch2 js-swatch-color" data-color="2" data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x.png"></a> <a href="#" class="colorswatch3 js-swatch-color" data-color="3" data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color02.png"></a> <a href="#" class="colorswatch4 js-swatch-color" data-color="4" data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color03.png"></a> <a href="#" class="colorswatch5 js-swatch-color" data-color="5" data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color04.png"></a> <a href="#" class="colorswatch6 js-swatch-color" data-color="6" data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color05.png"></a> <a href="#" class="colorswatch6 js-swatch-color" data-color="7" data-img="../wp-content/plugins/color-sds-picker-laundry/css/images/step-line2-x-color06.png"></a></div>
+		<div class="tt-colorswatch-btn js-colorswatch"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="347.523px" height="347.523px" viewBox="0 0 347.523 347.523" style="enable-background:new 0 0 347.523 347.523;" xml:space="preserve">
 				<g>
 					<g>
 						<path d="M108.674,196.125c-2.857-0.402-5.777-0.592-8.746-0.534c-14.267,0.278-36.342,6.092-60.493,32.207
@@ -3696,37 +3741,28 @@
 							<!-- desktop-nav -->
 							<nav id="tt-nav">
 								<ul id="menu-primary-menu" class="menu">
-									<li id="nav-menu-item-317"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
+									<li id="nav-menu-item-317" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
 										<a href="../index.php" class="menu-link main-menu-link">Home</a>
 									</li>
-									<li id="nav-menu-item-318"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
+									<li id="nav-menu-item-318" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
 										<a href="../about-us/index.php" class="menu-link main-menu-link">About Us</a>
 									</li>
-									<li id="nav-menu-item-527"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+									<li id="nav-menu-item-527" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
 										<a href="../services/index.php" class="menu-link main-menu-link">Services</a>
 									</li>
-									<li id="nav-menu-item-502"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../prices/index.php"
-											class="menu-link main-menu-link">Subscriptions</a>
+									<li id="nav-menu-item-502" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="../prices/index.php" class="menu-link main-menu-link">Subscriptions</a>
 									</li>
-									<li id="nav-menu-item-656"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
+									<li id="nav-menu-item-656" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
 										<a href="../blog-posts/index.php" class="menu-link main-menu-link">Blog</a>
 									</li>
-									<li id="nav-menu-item-1377"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
+									<li id="nav-menu-item-1377" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
 										<a href="../shop/index.php" class="menu-link main-menu-link">Shop</a>
 									</li>
-									<li id="nav-menu-item-526"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
+									<li id="nav-menu-item-526" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
 										<a href="../faq/index.php" class="menu-link main-menu-link">FAQ</a>
 									</li>
-									<li id="nav-menu-item-604"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-602 current_page_item">
+									<li id="nav-menu-item-604" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-602 current_page_item">
 										<a href="index.php" class="menu-link main-menu-link">Contacts</a>
 									</li>
 								</ul>
@@ -3790,18 +3826,13 @@
 		<div data-elementor-type="wp-page" data-elementor-id="602" class="elementor elementor-602">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
-					<section
-						class="elementor-section elementor-top-section elementor-element elementor-element-e2939ab elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-						data-id="e2939ab" data-element_type="section">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-e2939ab elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e2939ab" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
-								<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f30a586"
-									data-id="f30a586" data-element_type="column">
+								<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f30a586" data-id="f30a586" data-element_type="column">
 									<div class="elementor-column-wrap elementor-element-populated">
 										<div class="elementor-widget-wrap">
-											<div class="elementor-element elementor-element-a5235f6 elementor-widget elementor-widget-laundry_contact_information"
-												data-id="a5235f6" data-element_type="widget"
-												data-widget_type="laundry_contact_information.default">
+											<div class="elementor-element elementor-element-a5235f6 elementor-widget elementor-widget-laundry_contact_information" data-id="a5235f6" data-element_type="widget" data-widget_type="laundry_contact_information.default">
 												<div class="elementor-widget-container">
 
 													<div class="section-inner">
@@ -3838,8 +3869,7 @@
 																		<i class="info03__icon  icons-1004017"></i>
 																		<h6 class="info03__title">E-mail Address</h6>
 																		<address>
-																			<a
-																				href="mailto:info@yourlaundrysite.com">info@laundrymen.com</a>
+																			<a href="mailto:info@yourlaundrysite.com">info@laundrymen.com</a>
 																		</address>
 																	</div>
 																</div>
@@ -3864,18 +3894,13 @@
 							</div>
 						</div>
 					</section>
-					<section
-						class="elementor-section elementor-top-section elementor-element elementor-element-3ad1980 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-						data-id="3ad1980" data-element_type="section">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3ad1980 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3ad1980" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
-								<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-14b167e"
-									data-id="14b167e" data-element_type="column">
+								<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-14b167e" data-id="14b167e" data-element_type="column">
 									<div class="elementor-column-wrap elementor-element-populated">
 										<div class="elementor-widget-wrap">
-											<div class="elementor-element elementor-element-7f42c8a elementor-widget elementor-widget-laundry_contact_form"
-												data-id="7f42c8a" data-element_type="widget"
-												data-widget_type="laundry_contact_form.default">
+											<div class="elementor-element elementor-element-7f42c8a elementor-widget elementor-widget-laundry_contact_form" data-id="7f42c8a" data-element_type="widget" data-widget_type="laundry_contact_form.default">
 												<div class="elementor-widget-container">
 
 													<div class="tt-posirion-relative">
@@ -3893,70 +3918,74 @@
 																			maintain a clean, healthy environment that
 																			is as enjoyable as it is functional. </p>
 																		<div class="form-default" id="contact-form">
-																			<div role="form" class="wpcf7"
-																				id="wpcf7-f638-p602-o1" lang="en-US"
-																				dir="ltr">
+																			<div role="form" class="wpcf7" id="wpcf7-f638-p602-o1" lang="en-US" dir="ltr">
 																				<div class="screen-reader-response">
-																					<p role="status" aria-live="polite"
-																						aria-atomic="true"></p>
+																					<p role="status" aria-live="polite" aria-atomic="true"></p>
 																					<ul></ul>
 																				</div>
-																				<form
-																					method="post"
-																					class="wpcf7-form init">
+																				<?php
+																				if (isset($_POST['sendmail'])) {
+																					require '../dash/PHPMailerAutoload.php';
+																					require '../dash/credential.php';
+
+																					$mail = new PHPMailer;
+
+																					$mail->SMTPDebug = 4;                               // Enable verbose debug output
+
+																					$mail->isSMTP();                                      // Set mailer to use SMTP
+																					$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
+																					$mail->SMTPAuth = true;                               // Enable SMTP authentication
+																					$mail->Username = EMAIL;                 // SMTP username
+																					$mail->Password = PASS;                           // SMTP password
+																					$mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+																					$mail->Port = 587;
+																					$mail->SMTPDebug  = SMTP::DEBUG_OFF;                                // TCP port to connect to
+
+																					$mail->setFrom(EMAIL, 'LaundryMen');
+																					$mail->addAddress($_POST['email']);     // Add a recipient
+
+																					$mail->addReplyTo(EMAIL);
+
+																					$mail->isHTML(true);                                  // Set email format to HTML
+
+																					$mail->Subject = "{$_POST['subject']} from LaundryMen";
+																					$mail->Body    = "<h3>From {$_POST["name"]}</h3> 
+										<br><p style=font-size:18px;>{$_POST["name"]} Phone number is :{$_POST['phone']}</p>
+										<br><p style=font-size:18px;>{$_POST['message']}</p>";
+
+
+																					if (!$mail->send()) {
+																						echo 'Message could not be sent.';
+																						echo 'Mailer Error: ' . $mail->ErrorInfo;
+																					} else {
+																						echo "<script> location.href='message.php'; </script>";
+																					}
+																				}
+																				?>
+																				<form method="post"  enctype="multipart/form-data">
 																					<input hidden type="email" class="form-control" id="email" name="email" value="johnmahama65@gmail.com">
-																					<div class="form-group"><span
-																							class="wpcf7-form-control-wrap"
-																							><input
-																								type="text"
-																								name="fullname"
-																								value="" size="40"
-																								class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-																								placeholder="Your name" /></span>
+																					<div class="form-group"><span class="wpcf7-form-control-wrap"><input type="text" name="fullname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your name" required/></span>
 																					</div>
 																					<div class="row row-align-col">
 																						<div class="col-md-6">
 																							<div class="form-group">
-																								<span
-																									class="wpcf7-form-control-wrap"
-																									data-name="your-email"><input
-																								type="email"
-																								name="email"
-																								value="" size="40"
-																								class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-																								placeholder="Your name" /></span>
+																								<span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your Email" required /></span>
 																							</div>
 																						</div>
 																						<div class="col-md-6">
 																							<div class="form-group">
-																								<span
-																									class="wpcf7-form-control-wrap"
-																									data-name="your-phone"><input
-																								type="tel"
-																								name="phone"
-																								value="" size="40"
-																								class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-																								placeholder="Your name" /></span>
+																								<span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Phone Number" required/></span>
 																							</div>
 																						</div>
 																					</div>
-																					<div class="form-group"><span
-																							class="wpcf7-form-control-wrap"
-																							data-name="your-message"><textarea
-																								name="your-message"
-																								cols="40" rows="10"
-																								class="wpcf7-form-control wpcf7-textarea form-control"
-																								placeholder="Your message"></textarea></span>
+																					<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" placeholder="Your message" required></textarea></span>
 																					</div>
 																					<div class="tt-btn tt-btn__wide">
 																						<span class="mask">Send
-																							Question</span><button
-																							type="submit"
-																							class="button wpcf7-form-control wpcf7-submit">Send
+																							Question</span><button type="submit" name="sendmail" class="button wpcf7-form-control wpcf7-submit">Send
 																							Message</button>
 																					</div>
-																					<div class="wpcf7-response-output"
-																						aria-hidden="true"></div>
+
 																				</form>
 																			</div>
 																		</div>
@@ -3965,11 +3994,7 @@
 																<div class="col-lg-6" style="margin-top:80px;">
 																	<h1 style="color:black; font-size:40px">Our Location
 																	</h1>
-																	<iframe
-																		src="https://maps.google.com/maps?q=Ashesi%20University%20&t=k&z=13&ie=UTF8&iwloc=&output=embed"
-																		width="100%" height="400" style="border:0;"
-																		allowfullscreen="" loading="lazy"
-																		referrerpolicy="no-referrer-when-downgrade"></iframe>
+																	<iframe src="https://maps.google.com/maps?q=Ashesi%20University%20&t=k&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 																</div>
 															</div>
 														</div>
@@ -4042,8 +4067,7 @@
 	</footer>
 	<a href="#" class="tt-btn tt-back-to-top" id="js-backtotop">
 		<span class="mask">
-			<svg version="1.1" x="0px" y="0px" width="24" height="24" viewBox="0 0 24 24"
-				style="enable-background:new 0 0 24 24;" xml:space="preserve">
+			<svg version="1.1" x="0px" y="0px" width="24" height="24" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 				<g>
 					<polygon fill="currentColor" points="20.9,17.1 12.5,8.6 4.1,17.1 2.9,15.9 12.5,6.4 22.1,15.9 	">
 					</polygon>
@@ -4051,8 +4075,7 @@
 			</svg>
 		</span>
 		<div class="button">
-			<svg version="1.1" x="0px" y="0px" width="24" height="24" viewBox="0 0 24 24"
-				style="enable-background:new 0 0 24 24;" xml:space="preserve">
+			<svg version="1.1" x="0px" y="0px" width="24" height="24" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 				<g>
 					<polygon fill="currentColor" points="20.9,17.1 12.5,8.6 4.1,17.1 2.9,15.9 12.5,6.4 22.1,15.9 	">
 					</polygon>
@@ -4061,107 +4084,208 @@
 		</div>
 	</a>
 	<script type="text/javascript">
-		(function () {
+		(function() {
 			var c = document.body.className;
 			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 			document.body.className = c;
 		})();
 	</script>
-	<link rel='stylesheet' id='e-animations-css'
-		href='../wp-content/plugins/elementor/assets/lib/animations/animations.min3088.css?ver=3.7.0' type='text/css'
-		media='all' />
-	<script type='text/javascript'
-		src='../wp-content/plugins/laundry-helper/assets/elementor/js/addons-script-20d63.js?ver=1667819218'
-		id='laundry-core-script-2-js'></script>
-	<script type='text/javascript' src='../wp-includes/js/dist/vendor/regenerator-runtime.min3937.js?ver=0.13.9'
-		id='regenerator-runtime-js'></script>
-	<script type='text/javascript' src='../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0'
-		id='wp-polyfill-js'></script>
+	<link rel='stylesheet' id='e-animations-css' href='../wp-content/plugins/elementor/assets/lib/animations/animations.min3088.css?ver=3.7.0' type='text/css' media='all' />
+	<script type='text/javascript' src='../wp-content/plugins/laundry-helper/assets/elementor/js/addons-script-20d63.js?ver=1667819218' id='laundry-core-script-2-js'></script>
+	<script type='text/javascript' src='../wp-includes/js/dist/vendor/regenerator-runtime.min3937.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+	<script type='text/javascript' src='../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
 	<script type='text/javascript' id='contact-form-7-js-extra'>
 		/* <![CDATA[ */
-		var wpcf7 = { "api": { "root": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-json\/", "namespace": "contact-form-7\/v1" }, "cached": "1" };
-/* ]]> */
+		var wpcf7 = {
+			"api": {
+				"root": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-json\/",
+				"namespace": "contact-form-7\/v1"
+			},
+			"cached": "1"
+		};
+		/* ]]> */
 	</script>
-	<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/index4c7e.js?ver=5.6.2'
-		id='contact-form-7-js'></script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minf13c.js?ver=2.7.0-wc.6.8.0'
-		id='jquery-blockui-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/index4c7e.js?ver=5.6.2' id='contact-form-7-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minf13c.js?ver=2.7.0-wc.6.8.0' id='jquery-blockui-js'></script>
 	<script type='text/javascript' id='wc-add-to-cart-js-extra'>
 		/* <![CDATA[ */
-		var wc_add_to_cart_params = { "ajax_url": "\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/laundry-v2\/demo2\/?wc-ajax=%%endpoint%%", "i18n_view_cart": "View cart", "cart_url": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/cart\/", "is_cart": "", "cart_redirect_after_add": "no" };
-/* ]]> */
+		var wc_add_to_cart_params = {
+			"ajax_url": "\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php",
+			"wc_ajax_url": "\/laundry-v2\/demo2\/?wc-ajax=%%endpoint%%",
+			"i18n_view_cart": "View cart",
+			"cart_url": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/cart\/",
+			"is_cart": "",
+			"cart_redirect_after_add": "no"
+		};
+		/* ]]> */
 	</script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min8e94.js?ver=6.8.0'
-		id='wc-add-to-cart-js'></script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min1c36.js?ver=2.1.4-wc.6.8.0'
-		id='js-cookie-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min8e94.js?ver=6.8.0' id='wc-add-to-cart-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min1c36.js?ver=2.1.4-wc.6.8.0' id='js-cookie-js'></script>
 	<script type='text/javascript' id='woocommerce-js-extra'>
 		/* <![CDATA[ */
-		var woocommerce_params = { "ajax_url": "\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/laundry-v2\/demo2\/?wc-ajax=%%endpoint%%" };
-/* ]]> */
+		var woocommerce_params = {
+			"ajax_url": "\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php",
+			"wc_ajax_url": "\/laundry-v2\/demo2\/?wc-ajax=%%endpoint%%"
+		};
+		/* ]]> */
 	</script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min8e94.js?ver=6.8.0'
-		id='woocommerce-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min8e94.js?ver=6.8.0' id='woocommerce-js'></script>
 	<script type='text/javascript' id='wc-cart-fragments-js-extra'>
 		/* <![CDATA[ */
-		var wc_cart_fragments_params = { "ajax_url": "\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/laundry-v2\/demo2\/?wc-ajax=%%endpoint%%", "cart_hash_key": "wc_cart_hash_2b2fa03c91b96cd069f20303a7f6b2a0", "fragment_name": "wc_fragments_2b2fa03c91b96cd069f20303a7f6b2a0", "request_timeout": "5000" };
-/* ]]> */
+		var wc_cart_fragments_params = {
+			"ajax_url": "\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php",
+			"wc_ajax_url": "\/laundry-v2\/demo2\/?wc-ajax=%%endpoint%%",
+			"cart_hash_key": "wc_cart_hash_2b2fa03c91b96cd069f20303a7f6b2a0",
+			"fragment_name": "wc_fragments_2b2fa03c91b96cd069f20303a7f6b2a0",
+			"request_timeout": "5000"
+		};
+		/* ]]> */
 	</script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min8e94.js?ver=6.8.0'
-		id='wc-cart-fragments-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min8e94.js?ver=6.8.0' id='wc-cart-fragments-js'></script>
 	<script type='text/javascript' id='laundry-bundle-js-js-extra'>
 		/* <![CDATA[ */
-		var ajax_object = { "ajax_nonce_servicecart": "a8bd2e8299", "ajax_url": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php" };
-/* ]]> */
+		var ajax_object = {
+			"ajax_nonce_servicecart": "a8bd2e8299",
+			"ajax_url": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php"
+		};
+		/* ]]> */
 	</script>
-	<script type='text/javascript' src='../wp-content/themes/laundry/js/bundle0d63.js?ver=1667819218'
-		id='laundry-bundle-js-js'></script>
-	<script type='text/javascript' src='../wp-content/themes/laundry/js/custom82c4.js?ver=1653566665'
-		id='laundry-custom-js'></script>
+	<script type='text/javascript' src='../wp-content/themes/laundry/js/bundle0d63.js?ver=1667819218' id='laundry-bundle-js-js'></script>
+	<script type='text/javascript' src='../wp-content/themes/laundry/js/custom82c4.js?ver=1653566665' id='laundry-custom-js'></script>
 	<script type='text/javascript' id='colorswatch-js-js-extra'>
 		/* <![CDATA[ */
-		var color_ajax_object = { "ajaxurl": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php", "site_url": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2" };
-/* ]]> */
+		var color_ajax_object = {
+			"ajaxurl": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-admin\/admin-ajax.php",
+			"site_url": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2"
+		};
+		/* ]]> */
 	</script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/color-sds-picker-laundry/js/switcher0d63.js?ver=1667819218'
-		id='colorswatch-js-js'></script>
-	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/webpack.runtime.min3088.js?ver=3.7.0'
-		id='elementor-webpack-runtime-js'></script>
-	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend-modules.min3088.js?ver=3.7.0'
-		id='elementor-frontend-modules-js'></script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
-		id='elementor-waypoints-js'></script>
-	<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1'
-		id='jquery-ui-core-js'></script>
-	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6'
-		id='swiper-js'></script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/elementor/assets/lib/share-link/share-link.min3088.js?ver=3.7.0'
-		id='share-link-js'></script>
-	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0'
-		id='elementor-dialog-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/color-sds-picker-laundry/js/switcher0d63.js?ver=1667819218' id='colorswatch-js-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/webpack.runtime.min3088.js?ver=3.7.0' id='elementor-webpack-runtime-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend-modules.min3088.js?ver=3.7.0' id='elementor-frontend-modules-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+	<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6' id='swiper-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/share-link/share-link.min3088.js?ver=3.7.0' id='share-link-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0' id='elementor-dialog-js'></script>
 	<script type='text/javascript' id='elementor-frontend-js-before'>
-		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Extra", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Extra", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } }, "version": "3.7.0", "is_static": false, "experimentalFeatures": { "e_import_export": true, "e_hidden_wordpress_widgets": true, "landing-pages": true, "elements-color-picker": true, "favorite-widgets": true, "admin-top-bar": true }, "urls": { "assets": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 602, "title": "Contact%20Us%20-%20Laundry", "excerpt": "", "featuredImage": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/uploads\/sites\/2\/2020\/11\/subtitle-wrapper01-1024x154.jpg" } };
+		var elementorFrontendConfig = {
+			"environmentMode": {
+				"edit": false,
+				"wpPreview": false,
+				"isScriptDebug": false
+			},
+			"i18n": {
+				"shareOnFacebook": "Share on Facebook",
+				"shareOnTwitter": "Share on Twitter",
+				"pinIt": "Pin it",
+				"download": "Download",
+				"downloadImage": "Download image",
+				"fullscreen": "Fullscreen",
+				"zoom": "Zoom",
+				"share": "Share",
+				"playVideo": "Play Video",
+				"previous": "Previous",
+				"next": "Next",
+				"close": "Close"
+			},
+			"is_rtl": false,
+			"breakpoints": {
+				"xs": 0,
+				"sm": 480,
+				"md": 768,
+				"lg": 1025,
+				"xl": 1440,
+				"xxl": 1600
+			},
+			"responsive": {
+				"breakpoints": {
+					"mobile": {
+						"label": "Mobile",
+						"value": 767,
+						"default_value": 767,
+						"direction": "max",
+						"is_enabled": true
+					},
+					"mobile_extra": {
+						"label": "Mobile Extra",
+						"value": 880,
+						"default_value": 880,
+						"direction": "max",
+						"is_enabled": false
+					},
+					"tablet": {
+						"label": "Tablet",
+						"value": 1024,
+						"default_value": 1024,
+						"direction": "max",
+						"is_enabled": true
+					},
+					"tablet_extra": {
+						"label": "Tablet Extra",
+						"value": 1200,
+						"default_value": 1200,
+						"direction": "max",
+						"is_enabled": false
+					},
+					"laptop": {
+						"label": "Laptop",
+						"value": 1366,
+						"default_value": 1366,
+						"direction": "max",
+						"is_enabled": false
+					},
+					"widescreen": {
+						"label": "Widescreen",
+						"value": 2400,
+						"default_value": 2400,
+						"direction": "min",
+						"is_enabled": false
+					}
+				}
+			},
+			"version": "3.7.0",
+			"is_static": false,
+			"experimentalFeatures": {
+				"e_import_export": true,
+				"e_hidden_wordpress_widgets": true,
+				"landing-pages": true,
+				"elements-color-picker": true,
+				"favorite-widgets": true,
+				"admin-top-bar": true
+			},
+			"urls": {
+				"assets": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/plugins\/elementor\/assets\/"
+			},
+			"settings": {
+				"page": [],
+				"editorPreferences": []
+			},
+			"kit": {
+				"active_breakpoints": ["viewport_mobile", "viewport_tablet"],
+				"global_image_lightbox": "yes",
+				"lightbox_enable_counter": "yes",
+				"lightbox_enable_fullscreen": "yes",
+				"lightbox_enable_zoom": "yes",
+				"lightbox_enable_share": "yes",
+				"lightbox_title_src": "title",
+				"lightbox_description_src": "description"
+			},
+			"post": {
+				"id": 602,
+				"title": "Contact%20Us%20-%20Laundry",
+				"excerpt": "",
+				"featuredImage": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-content\/uploads\/sites\/2\/2020\/11\/subtitle-wrapper01-1024x154.jpg"
+			}
+		};
 	</script>
-	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min3088.js?ver=3.7.0'
-		id='elementor-frontend-js'></script>
-	<script type='text/javascript'
-		src='../wp-content/plugins/elementor/assets/js/preloaded-modules.min3088.js?ver=3.7.0'
-		id='preloaded-modules-js'></script>
-	<div class="modal fade" id="modalMRequestQuote" tabindex="-1" role="dialog" aria-label="myModalLabel"
-		aria-hidden="true">
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min3088.js?ver=3.7.0' id='elementor-frontend-js'></script>
+	<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/preloaded-modules.min3088.js?ver=3.7.0' id='preloaded-modules-js'></script>
+	<div class="modal fade" id="modalMRequestQuote" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
 		<div class="modal-dialog modal-md">
 			<div class="modal-content ">
 				<div class="modal-body form-default modal-layout-dafault">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span
-							class="icons-860796"></span></button>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icons-860796"></span></button>
 					<div class="modal-titleblock">
 						<div class="modal-title">Schedule a Pickup</div>
 					</div>
@@ -4170,8 +4294,7 @@
 							<p role="status" aria-live="polite" aria-atomic="true"></p>
 							<ul></ul>
 						</div>
-						<form action="https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#wpcf7-f822-o3"
-							method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+						<form action="https://smartdata.tonytemplates.com/laundry-v2/demo2/contact-us/#wpcf7-f822-o3" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
 							<div style="display: none;">
 								<input type="hidden" name="_wpcf7" value="822" />
 								<input type="hidden" name="_wpcf7_version" value="5.6.2" />
@@ -4180,38 +4303,20 @@
 								<input type="hidden" name="_wpcf7_container_post" value="0" />
 								<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 							</div>
-							<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-name"><input
-										type="text" name="your-name" value="" size="40"
-										class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-										aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span>
+							<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span>
 							</div>
 							<div class="row">
 								<div class="col-md-6">
-									<div class="form-group"><span class="wpcf7-form-control-wrap"
-											data-name="your-email"><input type="email" name="your-email" value=""
-												size="40"
-												class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control"
-												aria-required="true" aria-invalid="false"
-												placeholder="Your e-mail address *" /></span></div>
+									<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Your e-mail address *" /></span></div>
 								</div>
 								<div class="col-md-6">
-									<div class="form-group"><span class="wpcf7-form-control-wrap"
-											data-name="your-phone"><input type="text" name="your-phone" value=""
-												size="40"
-												class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-												aria-required="true" aria-invalid="false"
-												placeholder="Your phone number" /></span></div>
+									<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Your phone number" /></span></div>
 								</div>
 							</div>
-							<div class="form-group"><span class="wpcf7-form-control-wrap"
-									data-name="your-address"><input type="text" name="your-address" value="" size="40"
-										class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
-										aria-required="true" aria-invalid="false" placeholder="Address *" /></span>
+							<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-address"><input type="text" name="your-address" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Address *" /></span>
 							</div>
 							<div class="form-group">
-								<div class="custom-select"><span class="wpcf7-form-control-wrap"
-										data-name="your-country"><select name="your-country"
-											class="wpcf7-form-control wpcf7-select tt-select" aria-invalid="false">
+								<div class="custom-select"><span class="wpcf7-form-control-wrap" data-name="your-country"><select name="your-country" class="wpcf7-form-control wpcf7-select tt-select" aria-invalid="false">
 											<option value="Service">Service</option>
 											<option value="Service 02">Service 02</option>
 											<option value="Service 03">Service 03</option>
@@ -4221,29 +4326,18 @@
 							</div>
 							<div class="row">
 								<div class="col-lg-6">
-									<div class="form-group"><input type="text" name="date-pick-up" value=""
-											autocomplete="off" data-timepicker="true"
-											class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required js_datepicker-1 format24 form-control"
-											aria-required="true" aria-invalid="false" placeholder="Pick-Up Date">
+									<div class="form-group"><input type="text" name="date-pick-up" value="" autocomplete="off" data-timepicker="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required js_datepicker-1 format24 form-control" aria-required="true" aria-invalid="false" placeholder="Pick-Up Date">
 										<div class="form-group__icon icons-747310"></div>
 									</div>
 								</div>
 								<div class="col-lg-6">
-									<div class="form-group"><input type="text" name="date-delivery" value="" size="40"
-											autocomplete="off" data-timepicker="true"
-											class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control js_datepicker-2 wpcf7-not-valid"
-											aria-required="true" aria-invalid="true" placeholder="Delivery Date"
-											aria-describedby="wpcf7-f822-o2-ve-date-delivery">
+									<div class="form-group"><input type="text" name="date-delivery" value="" size="40" autocomplete="off" data-timepicker="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control js_datepicker-2 wpcf7-not-valid" aria-required="true" aria-invalid="true" placeholder="Delivery Date" aria-describedby="wpcf7-f822-o2-ve-date-delivery">
 										<div class="form-group__icon icons-747310"></div>
 									</div>
 								</div>
 							</div>
-							<div class="form-group"><span class="wpcf7-form-control-wrap"
-									data-name="your-message"><textarea name="your-message" cols="40" rows="10"
-										class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false"
-										placeholder="Your comment"></textarea></span></div>
-							<div class="tt-btn tt-btn__wide"><span class="mask">Order Now</span><button type="submit"
-									class="button wpcf7-form-control wpcf7-submit">Order Now</button></div>
+							<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false" placeholder="Your comment"></textarea></span></div>
+							<div class="tt-btn tt-btn__wide"><span class="mask">Order Now</span><button type="submit" class="button wpcf7-form-control wpcf7-submit">Order Now</button></div>
 							<div class="wpcf7-response-output" aria-hidden="true"></div>
 						</form>
 					</div>
@@ -4255,8 +4349,7 @@
 		<div class="modal-dialog modal-md">
 			<div class="modal-content ">
 				<div class="modal-body form-default modal-layout-dafault">
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span
-							class="icons-860796"></span></button>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icons-860796"></span></button>
 
 				</div>
 				<div class="modal-footer">
