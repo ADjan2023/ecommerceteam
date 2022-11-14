@@ -3923,62 +3923,27 @@
 																					<p role="status" aria-live="polite" aria-atomic="true"></p>
 																					<ul></ul>
 																				</div>
-																				<?php
-																				if (isset($_POST['sendmail'])) {
-																					require '../dash/PHPMailerAutoload.php';
-																					require '../dash/credential.php';
-
-																					$mail = new PHPMailer;
-
-																					$mail->SMTPDebug = 4;                               // Enable verbose debug output
-
-																					$mail->isSMTP();                                      // Set mailer to use SMTP
-																					$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
-																					$mail->SMTPAuth = true;                               // Enable SMTP authentication
-																					$mail->Username = EMAIL;                 // SMTP username
-																					$mail->Password = PASS;                           // SMTP password
-																					$mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
-																					$mail->Port = 587;
-																					$mail->SMTPDebug  = SMTP::DEBUG_OFF;                                // TCP port to connect to
-
-																					$mail->setFrom(EMAIL, 'LaundryMen');
-																					$mail->addAddress($_POST['email']);     // Add a recipient
-
-																					$mail->addReplyTo(EMAIL);
-
-																					$mail->isHTML(true);                                  // Set email format to HTML
-
-																					$mail->Subject = "{$_POST['subject']} from LaundryMen";
-																					$mail->Body    = "<h3>From {$_POST["name"]}</h3> 
-										<br><p style=font-size:18px;>{$_POST["name"]} Phone number is :{$_POST['phone']}</p>
-										<br><p style=font-size:18px;>{$_POST['message']}</p>";
-
-
-																					if (!$mail->send()) {
-																						echo 'Message could not be sent.';
-																						echo 'Mailer Error: ' . $mail->ErrorInfo;
-																					} else {
-																						echo "<script> location.href='message.php'; </script>";
-																					}
-																				}
-																				?>
-																				<form method="post"  enctype="multipart/form-data">
+																
+																				<form method="post" action="../action/mails.php" enctype="multipart/form-data">
 																					<input hidden type="email" class="form-control" id="email" name="email" value="johnmahama65@gmail.com">
-																					<div class="form-group"><span class="wpcf7-form-control-wrap"><input type="text" name="fullname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your name" required/></span>
+																					<div class="form-group">
+																						<input type="text" name="fullname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your name" required/></span>
 																					</div>
 																					<div class="row row-align-col">
 																						<div class="col-md-6">
 																							<div class="form-group">
-																								<span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your Email" required /></span>
+																									<input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your Email" required /></span>
 																							</div>
 																						</div>
 																						<div class="col-md-6">
 																							<div class="form-group">
-																								<span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Phone Number" required/></span>
+																			
+																									<input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Phone Number" required/></span>
 																							</div>
 																						</div>
 																					</div>
-																					<div class="form-group"><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" placeholder="Your message" required></textarea></span>
+																					<div class="form-group">
+																						<textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" placeholder="Your message" required></textarea></span>
 																					</div>
 																					<div class="tt-btn tt-btn__wide">
 																						<span class="mask">Send
@@ -3987,6 +3952,7 @@
 																					</div>
 
 																				</form>
+																				<button type="submit">Work</button>
 																			</div>
 																		</div>
 																	</div>

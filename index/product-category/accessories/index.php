@@ -3782,38 +3782,8 @@
 					<div class="divider d-block d-sm-none"></div>
 					<div class="col-12 col-sm-7 col-md-7 col-xl-8">
 						<div class="filters-row">
-							<div class="filters-row-left">
-
-								<div class="woocommerce-notices-wrapper"></div><!--  only change p tag to span tag  -->
-								<span class="show-result">
-									Showing all 5 results</span>
-								<div class="form-inline">
-									<div class="select-wrapper">
-										<form class="woocommerce-ordering" method="get">
-											<select name="orderby" class="orderby" aria-label="Shop order">
-												<option value="menu_order" selected='selected'>Default sorting</option>
-												<option value="popularity">Sort by popularity</option>
-												<option value="rating">Sort by average rating</option>
-												<option value="date">Sort by latest</option>
-												<option value="price">Sort by price: low to high</option>
-												<option value="price-desc">Sort by price: high to low</option>
-											</select>
-											<input type="hidden" name="paged" value="1" />
-										</form>
-									</div>
-								</div>
-
-
-
-							</div>
-
 						</div>
-
 						<ul class="products columns-3">
-
-
-
-
 							<li
 								class="prd product type-product post-1498 status-publish first instock product_cat-accessories has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
 								<a href="../../product/beanie/index.php"
