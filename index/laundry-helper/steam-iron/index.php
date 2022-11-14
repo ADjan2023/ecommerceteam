@@ -14,13 +14,13 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Steam Iron - Laundry</title>
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="index.php" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Steam Iron - Laundry" />
 	<meta property="og:description"
 		content="[ What we offer ] Laundry Services Laundry&#8217;s Wash and Fold, also called Fluff and Fold, or simply Drop Off Laundry, is the perfect solution to your laundry needs as a busy parent, professional, senior citizen or student. Use drop off laundry and free more of your time and energy to work, play, or just [&hellip;]" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Laundry" />
 	<meta property="og:image" content="../../wp-content/uploads/sites/2/2020/11/services_img01.jpg" />
 	<meta property="og:image:width" content="771" />
@@ -37,9 +37,9 @@
 	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../../feed/index.html" />
+	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../../feed/index.php" />
 	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Comments Feed"
-		href="../../comments/feed/index.html" />
+		href="../../comments/feed/index.php" />
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3" } };
 		/*! This file is auto-generated */
@@ -3692,7 +3692,7 @@
 				<div class="tt-holder">
 					<div class="tt-col-left">
 						<!-- logo -->
-						<a href="../../index.html" class="tt-logo tt-logo-alignment">
+						<a href="../../index.php" class="tt-logo tt-logo-alignment">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<!-- /logo -->
 					</div>
@@ -3703,37 +3703,38 @@
 								<ul id="menu-primary-menu" class="menu">
 									<li id="nav-menu-item-317"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
-										<a href="../../index.html" class="menu-link main-menu-link">Home</a>
+										<a href="../../index.php" class="menu-link main-menu-link">Home</a>
 									</li>
 									<li id="nav-menu-item-318"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../about-us/index.html" class="menu-link main-menu-link">About
+										<a href="../../about-us/index.php" class="menu-link main-menu-link">About
 											Us</a>
 									</li>
 									<li id="nav-menu-item-527"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-										<a href="../../services/index.html"
+										<a href="../../services/index.php"
 											class="menu-link main-menu-link">Services</a>
 									</li>
 									<li id="nav-menu-item-502"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../prices/index.html" class="menu-link main-menu-link">Subscriptions</a>
+										<a href="../../prices/index.php"
+											class="menu-link main-menu-link">Subscriptions</a>
 									</li>
 									<li id="nav-menu-item-656"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current_page_parent">
-										<a href="../../blog-posts/index.html" class="menu-link main-menu-link">Blog</a>
+										<a href="../../blog-posts/index.php" class="menu-link main-menu-link">Blog</a>
 									</li>
 									<li id="nav-menu-item-1377"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../shop/index.html" class="menu-link main-menu-link">Shop</a>
+										<a href="../../shop/index.php" class="menu-link main-menu-link">Shop</a>
 									</li>
 									<li id="nav-menu-item-526"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../faq/index.html" class="menu-link main-menu-link">FAQ</a>
+										<a href="../../faq/index.php" class="menu-link main-menu-link">FAQ</a>
 									</li>
 									<li id="nav-menu-item-604"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../../contact-us/index.html"
+										<a href="../../contact-us/index.php"
 											class="menu-link main-menu-link">Contacts</a>
 									</li>
 								</ul>
@@ -3746,15 +3747,15 @@
 							<div class="h-info02">
 								<div class="tt-item">
 									<address>
-										<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
-											1 (800) 765-43-21 </a>
+										<a href="tel:+ 233 20 95 35 914"><span class="icons-483947"></span>
+											+ 233 20 95 35 914 </a>
 									</address>
 								</div>
 							</div>
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="../../cart/index.html" class="tt-obj__btn cart-contents">
+								<a href="../../cart/index.php" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
@@ -3775,7 +3776,7 @@
 		data-bg="../../wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg">
 		<div class="container container-fluid-xl">
 			<div class="tt-breadcrumbs">
-				<span><span><a href="../../index.html">Home</a> / <span><a href="../index.html">Services</a> / <span
+				<span><span><a href="../../index.php">Home</a> / <span><a href="../index.php">Services</a> / <span
 								class="breadcrumb_last" aria-current="page">Steam Iron</span></span></span></span>
 			</div>
 			<h1 class="subtitle__title">
@@ -3846,32 +3847,32 @@
 														</div>
 													</section>
 													<section
-													class="elementor-section elementor-top-section elementor-element elementor-element-e263f28 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-													data-id="e263f28" data-element_type="section">
-													<div class="elementor-container elementor-column-gap-default">
-														<div class="elementor-row">
-															<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-994422f"
-																data-id="994422f" data-element_type="column">
-																<div
-																	class="elementor-column-wrap elementor-element-populated">
-																	<div class="elementor-widget-wrap">
-																		<div class="elementor-element elementor-element-649c7e3 elementor-widget elementor-widget-html"
-																			data-id="649c7e3"
-																			data-element_type="widget"
-																			data-widget_type="html.default">
-																			<div class="elementor-widget-container">
-																				<blockquote class="blockquote03">
-																					<strong>Coming Soon!!!</strong>
-																				</blockquote>
+														class="elementor-section elementor-top-section elementor-element elementor-element-e263f28 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+														data-id="e263f28" data-element_type="section">
+														<div class="elementor-container elementor-column-gap-default">
+															<div class="elementor-row">
+																<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-994422f"
+																	data-id="994422f" data-element_type="column">
+																	<div
+																		class="elementor-column-wrap elementor-element-populated">
+																		<div class="elementor-widget-wrap">
+																			<div class="elementor-element elementor-element-649c7e3 elementor-widget elementor-widget-html"
+																				data-id="649c7e3"
+																				data-element_type="widget"
+																				data-widget_type="html.default">
+																				<div class="elementor-widget-container">
+																					<blockquote class="blockquote03">
+																						<strong>Coming Soon!!!</strong>
+																					</blockquote>
+																				</div>
 																			</div>
 																		</div>
 																	</div>
 																</div>
 															</div>
 														</div>
-													</div>
-												</section>
-												<div class="space" style="margin-bottom:30px;"></div>
+													</section>
+													<div class="space" style="margin-bottom:30px;"></div>
 												</div>
 											</div>
 										</div>
@@ -3883,11 +3884,12 @@
 								<div id="wp_driving_school_nav_menu_widget-2" class="widget tt-block-aside no-inner">
 									<div class="tt-aside-content">
 										<ul class="services-list submenu-aside">
-											<li><a href="../laundry-services/index.html" title="Laundry Services">Laundry
+											<li><a href="../laundry-services/index.php"
+													title="Laundry Services">Laundry
 													Services</a></li>
 											<li><a href="../dry-cleaning-services/index.html"
 													title="Dry Cleaning Services">Dryer Cleaning Services</a></li>
-											<li class="active"><a href="../steam-iron/index.html"
+											<li class="active"><a href="../steam-iron/index.php"
 													title="Steam Iron">Steam Iron</a>
 											</li>
 
@@ -3901,7 +3903,7 @@
 									<ul class="box-aside-info">
 										<li>
 											<i class="icons-484169"></i>
-											5604 Willow Crossing Ct, Clifton, VA, 20124
+											Ashesi University, Berekuso
 										</li>
 										<li>
 											<i class="icons-59252"></i>
@@ -3910,14 +3912,14 @@
 										</li>
 										<li>
 											<i class="icons-1004017"></i>
-											<a href="mailto:info@yourlaundrysite.com ">info@yourlaundrysite.com </a>
+											<a href="mailto:info@laundrymen.com ">info@laundrymen.com </a>
 										</li>
 										<li>
 											<i class="icons-4839471"></i>
 											+1-800-123-45-67
 										</li>
 									</ul>
-									<a href="../../shop/index.html" class="tt-btn btn__color01">
+									<a href="../../shop/index.php" class="tt-btn btn__color01">
 										<span class="mask">Schedule a Pickup </span>
 										<div class="button">Schedule a Pickup</div>
 									</a>
@@ -3991,7 +3993,7 @@
 			<div class="container container-fluid-xl">
 				<div class="row f-col-wrapper">
 					<div class="col-md-4">
-						<a href="index.html" class="f-logo">
+						<a href="index.php" class="f-logo">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<div class="f-text">
 							We are professionals in the laundry and dry cleaning business, which means we always stay up

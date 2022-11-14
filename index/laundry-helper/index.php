@@ -14,12 +14,12 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Services Archive - Laundry</title>
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="index.php" />
 	<link rel="next" href="page/2/index.html" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Services Archive - Laundry" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:url" content="index.php" />
 	<meta property="og:site_name" content="Laundry" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<script type="application/ld+json"
@@ -30,10 +30,10 @@
 	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../feed/index.html" />
+	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Feed" href="../feed/index.php" />
 	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Comments Feed"
-		href="../comments/feed/index.html" />
-	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Services Feed" href="feed/index.html" />
+		href="../comments/feed/index.php" />
+	<link rel="alternate" type="application/rss+xml" title="Laundry &raquo; Services Feed" href="feed/index.php" />
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/smartdata.tonytemplates.com\/laundry-v2\/demo2\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3" } };
 		/*! This file is auto-generated */
@@ -3342,16 +3342,7 @@
 	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom4b68.css?ver=1667819263'
 		type='text/css' media='all' />
 	<style id='laundry-custom-inline-css' type='text/css'>
-		/* body */
-		body {}
-
-		/* heading */
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {}
+		
 	</style>
 	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop4b68.css?ver=1667819263'
 		type='text/css' media='all' />
@@ -3660,7 +3651,7 @@
 				<div class="tt-holder">
 					<div class="tt-col-left">
 						<!-- logo -->
-						<a href="../index.html" class="tt-logo tt-logo-alignment">
+						<a href="../index.php" class="tt-logo tt-logo-alignment">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Pro</span>Laundry </a>
 						<!-- /logo -->
 					</div>
@@ -3671,38 +3662,43 @@
 								<ul id="menu-primary-menu" class="menu">
 									<li id="nav-menu-item-317"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
-										<a href="../index.html" class="menu-link main-menu-link">Home</a></li>
+										<a href="../index.php" class="menu-link main-menu-link">Home</a>
+									</li>
 									<li id="nav-menu-item-318"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../about-us/index.html" class="menu-link main-menu-link">About Us</a>
+										<a href="../about-us/index.php" class="menu-link main-menu-link">About Us</a>
 									</li>
 									<li id="nav-menu-item-527"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-										<span class="icon-arrow"></span><a href="../services/index.html"
+										<span class="icon-arrow"></span><a href="../services/index.php"
 											class="menu-link main-menu-link">Services</a>
 										<ul class="sub-menu">
 											<li id="nav-menu-item-763"
 												class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-laundry_services">
-												<a href="laundry-services/index.html"
-													class="menu-link sub-menu-link">Services Item</a></li>
+												<a href="laundry-services/index.php"
+													class="menu-link sub-menu-link">Services Item</a>
+											</li>
 										</ul>
 									</li>
 									<li id="nav-menu-item-502"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../prices/index.html" class="menu-link main-menu-link">Prices</a></li>
+										<a href="../prices/index.php" class="menu-link main-menu-link">Prices</a>
+									</li>
 									<li id="nav-menu-item-656"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current_page_parent">
-										<a href="../blog-posts/index.html" class="menu-link main-menu-link">Blog</a>
+										<a href="../blog-posts/index.php" class="menu-link main-menu-link">Blog</a>
 									</li>
 									<li id="nav-menu-item-1377"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../shop/index.html" class="menu-link main-menu-link">Shop</a></li>
+										<a href="../shop/index.php" class="menu-link main-menu-link">Shop</a>
+									</li>
 									<li id="nav-menu-item-526"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../faq/index.html" class="menu-link main-menu-link">FAQ</a></li>
+										<a href="../faq/index.php" class="menu-link main-menu-link">FAQ</a>
+									</li>
 									<li id="nav-menu-item-604"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../contact-us/index.html" class="menu-link main-menu-link">Contacts</a>
+										<a href="../contact-us/index.php" class="menu-link main-menu-link">Contacts</a>
 									</li>
 								</ul>
 							</nav>
@@ -3714,15 +3710,15 @@
 							<div class="h-info02">
 								<div class="tt-item">
 									<address>
-										<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
-											1 (800) 765-43-21 </a>
+										<a href="tel:+ 233 20 95 35 914"><span class="icons-483947"></span>
+											+ 233 20 95 35 914 </a>
 									</address>
 								</div>
 							</div>
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="../cart/index.html" class="tt-obj__btn cart-contents">
+								<a href="../cart/index.php" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
@@ -3745,7 +3741,7 @@
 	<div id="subtitle-wrapper" class="lazyload" data-bg="../wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg">
 		<div class="container container-fluid-xl">
 			<div class="tt-breadcrumbs">
-				<span><span><a href="../index.html">Home</a> / <span class="breadcrumb_last"
+				<span><span><a href="../index.php">Home</a> / <span class="breadcrumb_last"
 							aria-current="page">Services</span></span></span>
 			</div>
 			<h1 class="subtitle__title">
@@ -3792,10 +3788,10 @@
 												<div class="data__time"><span>22</span> Nov</div>
 												<div class="data__posted">
 													<i class="tt-icon icons-1621561"></i>
-													Posted by: &nbsp;<a href="shoes-cleaning/index.html">admin</a>
+													Posted by: &nbsp;<a href="shoes-cleaning/index.php">admin</a>
 												</div>
 												<div class="data__comments">
-													<a href="shoes-cleaning/index.html"><i
+													<a href="shoes-cleaning/index.php"><i
 															class="tt-icon icons-983899"></i>0 Comments</a>
 												</div>
 											</div>
@@ -3816,7 +3812,7 @@
 												</ul>
 											</div>
 										</div>
-										<h3 class="blog-obj__title"><a href="shoes-cleaning/index.html">Shoes
+										<h3 class="blog-obj__title"><a href="shoes-cleaning/index.php">Shoes
 												Cleaning</a></h3>
 										<p>[ What we offer ] Laundry Services Laundry&#8217;s Wash and Fold, also called
 											Fluff and Fold, or simply Drop Off Laundry, is the perfect solution to your
@@ -3824,7 +3820,7 @@
 											drop off laundry and free more of your time and energy to work, play, or
 											just [&hellip;]</p>
 										<div class="blog-obj__row-btn">
-											<a href="shoes-cleaning/index.html" class="tt-btn tt-btn__wide">
+											<a href="shoes-cleaning/index.php" class="tt-btn tt-btn__wide">
 												<span class="mask">Read more</span>
 												<div class="button">Read more</div>
 											</a>
@@ -3847,10 +3843,10 @@
 												<div class="data__time"><span>22</span> Nov</div>
 												<div class="data__posted">
 													<i class="tt-icon icons-1621561"></i>
-													Posted by: &nbsp;<a href="steam-iron/index.html">admin</a>
+													Posted by: &nbsp;<a href="steam-iron/index.php">admin</a>
 												</div>
 												<div class="data__comments">
-													<a href="steam-iron/index.html"><i
+													<a href="steam-iron/index.php"><i
 															class="tt-icon icons-983899"></i>0 Comments</a>
 												</div>
 											</div>
@@ -3871,14 +3867,14 @@
 												</ul>
 											</div>
 										</div>
-										<h3 class="blog-obj__title"><a href="steam-iron/index.html">Steam Iron</a></h3>
+										<h3 class="blog-obj__title"><a href="steam-iron/index.php">Steam Iron</a></h3>
 										<p>[ What we offer ] Laundry Services Laundry&#8217;s Wash and Fold, also called
 											Fluff and Fold, or simply Drop Off Laundry, is the perfect solution to your
 											laundry needs as a busy parent, professional, senior citizen or student. Use
 											drop off laundry and free more of your time and energy to work, play, or
 											just [&hellip;]</p>
 										<div class="blog-obj__row-btn">
-											<a href="steam-iron/index.html" class="tt-btn tt-btn__wide">
+											<a href="steam-iron/index.php" class="tt-btn tt-btn__wide">
 												<span class="mask">Read more</span>
 												<div class="button">Read more</div>
 											</a>
@@ -3901,10 +3897,10 @@
 												<div class="data__time"><span>22</span> Nov</div>
 												<div class="data__posted">
 													<i class="tt-icon icons-1621561"></i>
-													Posted by: &nbsp;<a href="alterations-repairs/index.html">admin</a>
+													Posted by: &nbsp;<a href="alterations-repairs/index.php">admin</a>
 												</div>
 												<div class="data__comments">
-													<a href="alterations-repairs/index.html"><i
+													<a href="alterations-repairs/index.php"><i
 															class="tt-icon icons-983899"></i>0 Comments</a>
 												</div>
 											</div>
@@ -3925,7 +3921,7 @@
 												</ul>
 											</div>
 										</div>
-										<h3 class="blog-obj__title"><a href="alterations-repairs/index.html">Alterations
+										<h3 class="blog-obj__title"><a href="alterations-repairs/index.php">Alterations
 												&#038; Repairs</a></h3>
 										<p>[ What we offer ] Laundry Services Laundry&#8217;s Wash and Fold, also called
 											Fluff and Fold, or simply Drop Off Laundry, is the perfect solution to your
@@ -3933,7 +3929,7 @@
 											drop off laundry and free more of your time and energy to work, play, or
 											just [&hellip;]</p>
 										<div class="blog-obj__row-btn">
-											<a href="alterations-repairs/index.html" class="tt-btn tt-btn__wide">
+											<a href="alterations-repairs/index.php" class="tt-btn tt-btn__wide">
 												<span class="mask">Read more</span>
 												<div class="button">Read more</div>
 											</a>
@@ -3956,10 +3952,10 @@
 												<div class="data__time"><span>22</span> Nov</div>
 												<div class="data__posted">
 													<i class="tt-icon icons-1621561"></i>
-													Posted by: &nbsp;<a href="carpet-cleaning/index.html">admin</a>
+													Posted by: &nbsp;<a href="carpet-cleaning/index.php">admin</a>
 												</div>
 												<div class="data__comments">
-													<a href="carpet-cleaning/index.html"><i
+													<a href="carpet-cleaning/index.php"><i
 															class="tt-icon icons-983899"></i>0 Comments</a>
 												</div>
 											</div>
@@ -3980,7 +3976,7 @@
 												</ul>
 											</div>
 										</div>
-										<h3 class="blog-obj__title"><a href="carpet-cleaning/index.html">Carpet
+										<h3 class="blog-obj__title"><a href="carpet-cleaning/index.php">Carpet
 												Cleaning</a></h3>
 										<p>[ What we offer ] Laundry Services Laundry&#8217;s Wash and Fold, also called
 											Fluff and Fold, or simply Drop Off Laundry, is the perfect solution to your
@@ -3988,7 +3984,7 @@
 											drop off laundry and free more of your time and energy to work, play, or
 											just [&hellip;]</p>
 										<div class="blog-obj__row-btn">
-											<a href="carpet-cleaning/index.html" class="tt-btn tt-btn__wide">
+											<a href="carpet-cleaning/index.php" class="tt-btn tt-btn__wide">
 												<span class="mask">Read more</span>
 												<div class="button">Read more</div>
 											</a>
@@ -4012,10 +4008,10 @@
 												<div class="data__posted">
 													<i class="tt-icon icons-1621561"></i>
 													Posted by: &nbsp;<a
-														href="dry-cleaning-services/index.html">admin</a>
+														href="dry-cleaning-services/index.php">admin</a>
 												</div>
 												<div class="data__comments">
-													<a href="dry-cleaning-services/index.html"><i
+													<a href="dry-cleaning-services/index.php"><i
 															class="tt-icon icons-983899"></i>0 Comments</a>
 												</div>
 											</div>
@@ -4036,7 +4032,7 @@
 												</ul>
 											</div>
 										</div>
-										<h3 class="blog-obj__title"><a href="dry-cleaning-services/index.html">Dry
+										<h3 class="blog-obj__title"><a href="dry-cleaning-services/index.php">Dry
 												Cleaning Services</a></h3>
 										<p>[ What we offer ] Laundry Services Laundry&#8217;s Wash and Fold, also called
 											Fluff and Fold, or simply Drop Off Laundry, is the perfect solution to your
@@ -4044,7 +4040,7 @@
 											drop off laundry and free more of your time and energy to work, play, or
 											just [&hellip;]</p>
 										<div class="blog-obj__row-btn">
-											<a href="dry-cleaning-services/index.html" class="tt-btn tt-btn__wide">
+											<a href="dry-cleaning-services/index.php" class="tt-btn tt-btn__wide">
 												<span class="mask">Read more</span>
 												<div class="button">Read more</div>
 											</a>
@@ -4083,27 +4079,27 @@
 									<h3 class="tt-aside-title">Categories</h3>
 									<ul>
 										<li class="cat-item cat-item-13"><a
-												href="../category/alterations-repairs/index.html">Alterations &amp;
+												href="../category/alterations-repairs/index.php">Alterations &amp;
 												Repairs</a>
 										</li>
 										<li class="cat-item cat-item-12"><a
-												href="../category/carpet-cleaning/index.html">Carpet Cleaning</a>
+												href="../category/carpet-cleaning/index.php">Carpet Cleaning</a>
 										</li>
 										<li class="cat-item cat-item-11"><a
-												href="../category/dry-cleaning-services/index.html">Dry Cleaning
+												href="../category/dry-cleaning-services/index.php">Dry Cleaning
 												Services</a>
 										</li>
 										<li class="cat-item cat-item-10"><a
-												href="../category/laundry-services/index.html">Laundry Services</a>
+												href="../category/laundry-services/index.php">Laundry Services</a>
 										</li>
 										<li class="cat-item cat-item-15"><a
-												href="../category/shoes-cleaning/index.html">Shoes Cleaning</a>
+												href="../category/shoes-cleaning/index.php">Shoes Cleaning</a>
 										</li>
 										<li class="cat-item cat-item-14"><a
-												href="../category/steam-iron/index.html">Steam Iron</a>
+												href="../category/steam-iron/index.php">Steam Iron</a>
 										</li>
 										<li class="cat-item cat-item-1"><a
-												href="../category/uncategorized/index.html">Uncategorized</a>
+												href="../category/uncategorized/index.php">Uncategorized</a>
 										</li>
 									</ul>
 
@@ -4185,15 +4181,15 @@
 									<h3 class="tt-aside-title">Tags</h3>
 									<div class="tagcloud">
 										<ul class='wp-tag-cloud' role='list'>
-											<li><a href="../tag/dry-cleaning/index.html"
+											<li><a href="../tag/dry-cleaning/index.php"
 													class="tag-cloud-link tag-link-18 tag-link-position-1"
 													style="font-size: 8pt;" aria-label="Dry Cleaning (1 item)">Dry
 													Cleaning</a></li>
-											<li><a href="../tag/laundry-services/index.html"
+											<li><a href="../tag/laundry-services/index.php"
 													class="tag-cloud-link tag-link-16 tag-link-position-2"
 													style="font-size: 8pt;"
 													aria-label="Laundry Services (1 item)">Laundry Services</a></li>
-											<li><a href="../tag/steam-ironing/index.html"
+											<li><a href="../tag/steam-ironing/index.php"
 													class="tag-cloud-link tag-link-19 tag-link-position-3"
 													style="font-size: 8pt;" aria-label="Steam Ironing (1 item)">Steam
 													Ironing</a></li>
@@ -4210,7 +4206,7 @@
 			<div class="container container-fluid-xl">
 				<div class="row f-col-wrapper">
 					<div class="col-md-4">
-						<a href="index.html" class="f-logo">
+						<a href="index.php" class="f-logo">
 							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry</span>Men </a>
 						<div class="f-text">
 							We are professionals in the laundry and dry cleaning business, which means we always stay up
