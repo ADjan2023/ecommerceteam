@@ -39,9 +39,6 @@
                 <div id="header">
                     <div class="container-fluid">
                         <div class="left-side">
-                            <div id="logo">
-                            <a href="home.php"><img src="images/rest.png" data-sticky-logo="images/rest.png" alt=""></a>
-                            </div>
                             <!-- Mobile Navigation -->
                             <div class="mmenu-trigger">
                                 <button class="hamburger hamburger--collapse" type="button">
@@ -54,14 +51,13 @@
                             <nav id="navigation" class="style-1">
                                 <ul id="responsive">
                                         <li style="margin-left:100px"><a href="">Home</a></li> 
-                                        <li><a href="">Contact Us</a></li>
+                                        <li><a href="../index.php">Home</a></li>
                                 </ul>
                             </nav>
                             <div class="clearfix"></div>
                         </div>
                         <div class="header-user-menu user-menu">
-                        <a href="making_payment.php"><i class='fa fa-shopping-cart fa-2x' style='color:#232936;padding-left:25px;'></i>
-                    <span class='badge badge-warning' id='lblCartCount'> 1 </span></a>
+                       
                             <div class="header-user-name">
                                 <span><img src="images/icons/user.png" alt=""></span>Hi, LaundryMen!
                             </div>

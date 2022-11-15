@@ -39,9 +39,6 @@
                 <div id="header">
                     <div class="container-fluid">
                         <div class="left-side">
-                            <div id="logo">
-                                <a href="home.php"><img src="images/rest.png" data-sticky-logo="images/rest.png" alt=""></a>
-                            </div>
                             <!-- Mobile Navigation -->
                             <div class="mmenu-trigger">
                                 <button class="hamburger hamburger--collapse" type="button">
@@ -54,15 +51,12 @@
                             <nav id="navigation" class="style-1">
                                 <ul id="responsive">
                                 <li style="margin-left:100px"><a href="">Home</a></li> 
-                                        <li><a href="">Contact Us</a></li>
-    
+                                <li><a href="../index.php">Home</a></li>
                                 </ul>
                             </nav>
                             <div class="clearfix"></div>
                         </div>
                         <div class="header-user-menu user-menu">
-                        <a href="making_payment.php"><i class='fa fa-shopping-cart fa-2x' style='color:#232936;padding-left:25px;'></i>
-                    <span class='badge badge-warning' id='lblCartCount'> 1 </span></a>
                             <div class="header-user-name">
                                 <span><img src="images/icons/user.png" alt=""></span>Hi, LaundryMen!
                             </div>
@@ -159,7 +153,7 @@
                             <table class="table-responsive">
                                 <thead>
                                     <tr>
-                                        <th class="pl-2">My Properties</th>
+                                        <th class="pl-2">My Subscription</th>
                                         <th class="p-0"></th>
                                         <th>Date Added</th>
                                         <th>Views</th>
@@ -179,38 +173,6 @@
                                         </td>
                                         <td>08.14.2020</td>
                                         <td>163</td>
-                                        <td class="actions">
-                                            <a href="#" class="edit"><i class="lni-pencil"></i>Edit</a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="image">
-                                            <a href="single-property-1.html"><img alt="my-properties-3" src="images/feature-properties/fp-2.jpg" class="img-fluid"></a>
-                                        </td>
-                                        <td>
-                                            <div class="inner">
-                                                <a href="single-property-1.html"><h2>Luxury Villa House</h2></a>
-                                                <figure><i class="lni-map-marker"></i> Est St, 77 - Central Park South, NYC</figure>
-                                            </div>
-                                        </td>
-                                        <td>08.14.2020</td>
-                                        <td>202</td>
-                                        <td class="actions">
-                                            <a href="#" class="edit"><i class="lni-pencil"></i>Edit</a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="image">
-                                            <a href="single-property-1.html"><img alt="my-properties-3" src="images/feature-properties/fp-3.jpg" class="img-fluid"></a>
-                                        </td>
-                                        <td>
-                                            <div class="inner">
-                                                <a href="single-property-1.html"><h2>Luxury Villa House</h2></a>
-                                                <figure><i class="lni-map-marker"></i> Est St, 77 - Central Park South, NYC</figure>
-                                            </div>
-                                        </td>
-                                        <td>08.14.2020</td>
-                                        <td>412</td>
                                         <td class="actions">
                                             <a href="#" class="edit"><i class="lni-pencil"></i>Edit</a>
                                         </td>

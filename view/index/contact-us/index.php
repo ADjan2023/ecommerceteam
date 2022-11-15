@@ -3438,16 +3438,7 @@
 	<link rel='stylesheet' id='laundry-style-2-css' href='../wp-content/themes/laundry/css/style-20d63.css?ver=1667819218' type='text/css' media='all' />
 	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom0d63.css?ver=1667819218' type='text/css' media='all' />
 	<style id='laundry-custom-inline-css' type='text/css'>
-		/* body */
-		body {}
-
-		/* heading */
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {}
+	
 	</style>
 	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop0d63.css?ver=1667819218' type='text/css' media='all' />
 	<link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min91ce.css?ver=5.16.0' type='text/css' media='all' />
