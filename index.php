@@ -1,5 +1,9 @@
 <?php
-	echo "Hello";
+ header("location:view/index/index.php");
 ?>
+
+
+
+
 
 	
