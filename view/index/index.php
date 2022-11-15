@@ -4877,88 +4877,12 @@
 															</div>
 															<div
 																class="promo02__wrapper row js-init-carusel-tablet slick-default">
-																<div class="tt-item col-md-4">
-																	<div class="promo02 js-handler">
-																		<div class="promo02__icon"><i aria-hidden="true"
-																				class=" icons-2840435"></i></div>
-																		<div class="promo02__title">One Time Package
-																		</div>
-																		<div class="promo02__subtitle">One time laundry</div>
-																		<div class="promo02__show-layout">
-																			<ul>
-																				<li>One time pickup and delivery from hostel</li>
-																				<li>One laundry bag will be provided
-																				</li>
-																				<li>Laundry will be washed and dried
-																			</ul>
-																		</div>
-																		<div class="promo02__price">
-																			GH₵ 30 </div>
-																		<div class="promo02__show-btn">
-																			<a href="prices/index.php"
-																				class="tt-btn tt-btn__wide">
-																				<span class="mask">Order Now</span>
-																				<div class="button">Order Now</div>
-																			</a>
-																		</div>
-																		<div class="promo02__btn-toggle"></div>
-																	</div>
-																</div>
-																<div class="tt-item col-md-4">
-																	<div class="promo02 js-handler">
-																		<div class="promo02__icon"><i aria-hidden="true"
-																				class=" icons-2840421"></i></div>
-																		<div class="promo02__title">Standard Package
-																		</div>
-																		<div class="promo02__subtitle">Every two weeks laundry</div>
-																		<div class="promo02__show-layout">
-																			<ul>
-																				<li>Bi-weekly pickup and delivery from hostel</li>
-																				<li>One laundry bag will be provided
-																				</li>
-																				<li>Laundry will be washed and dried
-																	
-																			</ul>
-																		</div>
-																		<div class="promo02__price">
-																			GH₵ 450</div>
-																		<div class="promo02__show-btn">
-																			<a href="prices/index.php"
-																				class="tt-btn tt-btn__wide">
-																				<span class="mask">Order Now</span>
-																				<div class="button">Order Now</div>
-																			</a>
-																		</div>
-																		<div class="promo02__btn-toggle"></div>
-																	</div>
-																</div>
-																<div class="tt-item col-md-4">
-																	<div class="promo02 js-handler">
-																		<div class="promo02__icon"><i aria-hidden="true"
-																				class=" icons-2230769"></i></div>
-																		<div class="promo02__title">Premium Package
-																		</div>
-																		<div class="promo02__subtitle">Every week laundry</div>
-																		<div class="promo02__show-layout">
-																			<ul>
-																				<li>Weekly pickup and delivery from hostel</li>
-																				<li>One laundry bag will be provided
-																				</li>
-																				<li>Laundry will be washed and dried
-																			</ul>
-																		</div>
-																		<div class="promo02__price">
-																			GH₵ 560 </div>
-																		<div class="promo02__show-btn">
-																			<a href="prices/index.php"
-																				class="tt-btn tt-btn__wide">
-																				<span class="mask">Order Now</span>
-																				<div class="button">Order Now</div>
-																			</a>
-																		</div>
-																		<div class="promo02__btn-toggle"></div>
-																	</div>
-																</div>
+																
+																
+																<?php
+																require("../../functions/subscriptions.php");
+																viewSubscriptionUser();
+																?>
 															</div>
 														</div>
 													</div>
