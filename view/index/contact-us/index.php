@@ -3923,36 +3923,14 @@
 																					<p role="status" aria-live="polite" aria-atomic="true"></p>
 																					<ul></ul>
 																				</div>
-																
-																				<form method="post" action="../action/mails.php" enctype="multipart/form-data">
-																					<input hidden type="email" class="form-control" id="email" name="email" value="johnmahama65@gmail.com">
-																					<div class="form-group">
-																						<input type="text" name="fullname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your name" required/></span>
-																					</div>
-																					<div class="row row-align-col">
-																						<div class="col-md-6">
-																							<div class="form-group">
-																									<input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Your Email" required /></span>
-																							</div>
-																						</div>
-																						<div class="col-md-6">
-																							<div class="form-group">
-																			
-																									<input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" placeholder="Phone Number" required/></span>
-																							</div>
-																						</div>
-																					</div>
-																					<div class="form-group">
-																						<textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" placeholder="Your message" required></textarea></span>
-																					</div>
+																					
+																				
 																					<div class="tt-btn tt-btn__wide">
 																						<span class="mask">Send
 																							Question</span><button type="submit" name="sendmail" class="button wpcf7-form-control wpcf7-submit">Send
 																							Message</button>
 																					</div>
 
-																				</form>
-																				<button type="submit">Work</button>
 																			</div>
 																		</div>
 																	</div>
