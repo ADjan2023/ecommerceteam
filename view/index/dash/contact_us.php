@@ -71,8 +71,8 @@
         <section class="headings">
             <div class="text-heading text-center">
                 <div class="container">
-                    <h1>Contact Us</h1>
-                    <h2><a href="index.php">Home </a> &nbsp;/&nbsp; Contact Us</h2>
+                    <h1>Home</h1>
+                    <li><a href="../index.php">Home</a></li>
                 </div>
             </div>
         </section>
