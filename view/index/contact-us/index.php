@@ -3923,14 +3923,12 @@
 																					<p role="status" aria-live="polite" aria-atomic="true"></p>
 																					<ul></ul>
 																				</div>
-																					
-																				
-																					<div class="tt-btn tt-btn__wide">
+																				<div class="tt-btn tt-btn__wide">
 																						<span class="mask">Send
-																							Question</span><button type="submit" name="sendmail" class="button wpcf7-form-control wpcf7-submit">Send
-																							Message</button>
-																					</div>
-
+																							Question</span><a href="mailto:banyin.djan@ashesi.edu.gh" class="button wpcf7-form-control wpcf7-submit">Send
+																							Message</a>
+																					</div> 	
+																				
 																			</div>
 																		</div>
 																	</div>
