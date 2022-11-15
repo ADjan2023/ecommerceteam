@@ -119,6 +119,48 @@ if ($result!=false) {
 }
 }
 
+function viewSubscriptionUser(){
+  $result=view_subscription_ctr();
+  $i=0;
+if ($result!=false) {
+  while($i < count($result)){
+    ?>
+   <div class="tt-item col-md-4">
+                                  <div class="promo02 js-handler">
+                                    <div class="promo02__icon"><i aria-hidden="true"
+                                        class=" icons-2840435"></i></div>
+                                    <div class="promo02__title"><?php echo $result[$i]['subscription_name']; ?>
+                                    </div>
+                                    <div class="promo02__subtitle"><?php echo $result[$i]['pickups']; ?></div>
+                                    <div class="promo02__show-layout">
+                                      <ul>
+                                        <li>Pickup and delivery from location</li>
+                                        <li><?php echo $result[$i]['bag_number']; ?> laundry bag(s) will be provided
+                                        </li>
+                                        <li>Laundry will be washed and dried</li>
+                                        <li><?php echo $result[$i]['Description']; ?></li>
+                                      </ul>
+                                    </div>
+                                    <div class="promo02__price">
+                                      GH₵ <?php echo $result[$i]['subscription_price']; ?> </div>
+                                    <div class="promo02__show-btn">
+                                      <a href="prices/index.php"
+                                        class="tt-btn tt-btn__wide">
+                                        <span class="mask">Order Now</span>
+                                        <div class="button">Order Now</div>
+                                      </a>
+                                    </div>
+                                    <div class="promo02__btn-toggle"></div>
+                                  </div>
+                                </div>
+
+  <?php
+
+  $i++;
+}
+}
+}
+
 
 
   ?>
