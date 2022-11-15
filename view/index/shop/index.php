@@ -3716,7 +3716,7 @@
 							</div>
 						</div>
 						<div class="tt-col__item d-none d-md-block">
-							<a href=""><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
+							<a href="../dash/dashboard.php"><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
 						</div>
 						<div class="tt-col__item toggle-wrapper">
 							<a href="#" id="tt-menu-toggle" class="icons-1828859"></a>
