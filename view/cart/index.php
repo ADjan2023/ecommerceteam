@@ -11,7 +11,7 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="icon" href="../wp-content/themes/laundry/images/fav.ico" sizes="16x16" />
 	<meta name='robots' content='noindex, follow' />
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Cart - Laundry</title>
 	<link rel="canonical" href="index.php" />
@@ -3687,20 +3687,12 @@
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
 										<a href="../about-us/index.php" class="menu-link main-menu-link">About Us</a>
 									</li>
-									<li id="nav-menu-item-527"
-										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-										<span class="icon-arrow"></span><a href="../services/index.php"
-											class="menu-link main-menu-link">Services</a>
-										<ul class="sub-menu">
-											<li id="nav-menu-item-763"
-												class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-laundry_services">
-												<a href="../laundry-helper/laundry-services/index.php"
-													class="menu-link sub-menu-link">Services Item</a></li>
-										</ul>
+									<li id="nav-menu-item-527" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+										<a href="../services/index.php" class="menu-link main-menu-link">Services</a>
 									</li>
 									<li id="nav-menu-item-502"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
-										<a href="../prices/index.php" class="menu-link main-menu-link">Prices</a></li>
+										<a href="../prices/index.php" class="menu-link main-menu-link">Subscriptions</a></li>
 									<li id="nav-menu-item-656"
 										class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page">
 										<a href="../blog-posts/index.php" class="menu-link main-menu-link">Blog</a>
@@ -3739,10 +3731,7 @@
 							</div>
 						</div>
 						<div class="tt-col__item d-none d-md-block">
-							<a href="#" class="tt-btn" data-toggle="modal" data-target="#modalMRequestQuote">
-								<span class="mask">Schedule a Pickup</span>
-								<div class="button">Schedule a Pickup</div>
-							</a>
+							<a href="../dash/dashboard.php"><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
 						</div>
 						<div class="tt-col__item toggle-wrapper">
 							<a href="#" id="tt-menu-toggle" class="icons-1828859"></a>

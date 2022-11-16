@@ -3737,7 +3737,7 @@
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="../cart/indphp" class="tt-obj__btn cart-contents">
+								<a href="../cart/index.php" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
