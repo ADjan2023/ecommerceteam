@@ -4734,7 +4734,6 @@
 																	
 																	
 																	<?php
-																
 																	showAdverts();
 																	?>
 

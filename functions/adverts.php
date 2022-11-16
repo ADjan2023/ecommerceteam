@@ -182,7 +182,7 @@ function showPics(){
                                       <img width="289" height="244"
                                         src="../images/adverts/<?php echo $result[$i]['company_image']; ?>"
                                         class="attachment-full size-full" alt=""
-                                        loading="lazy" style="width: 200px;" />
+                                        loading="lazy" style="width: 180px;" />
                                     </div>
 
 
