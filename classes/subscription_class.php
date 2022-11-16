@@ -13,9 +13,9 @@ require("../settings/db_class.php");
 class subscription_class extends db_connection
 {
 	//--INSERT--//
-	public function add_subscription($name,$price,$bagno,$description,$pickup)
+	public function add_subscription($name,$price,$bagno,$description,$pickup,$link)
 	{
-		$sql="INSERT INTO `subscription`( `subscription_name`, `subscription_price`, `bag_number`, `Description`,`pickups`) VALUES ('$name','$price','$bagno','$description','$pickup')";
+		$sql="INSERT INTO `subscription`( `subscription_name`, `subscription_price`, `bag_number`, `Description`,`pickups`,`paystack_link`) VALUES ('$name','$price','$bagno','$description','$pickup','$link')";
 		return $this->db_query($sql);
 	}
 

@@ -6,9 +6,9 @@ require("../classes/subscription_class.php");
 
 
 //--INSERT--//
-function add_subscription_ctr($name,$price,$bagno,$description,$pickup){
+function add_subscription_ctr($name,$price,$bagno,$description,$pickup,$link){
 	$addsubscription=new subscription_class();
-	return $addsubscription->add_subscription($name,$price,$bagno,$description,$pickup);
+	return $addsubscription->add_subscription($name,$price,$bagno,$description,$pickup,$link);
 
 
 }

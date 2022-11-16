@@ -276,11 +276,19 @@
                 </div>
               </div>
               <div class="field">
-            <label class="label">Pickups</label>
-            <div class="control">
-              <input class="input" type="text" placeholder="Enter Pickup Times" name="pickup" >
-            </div>
-          </div>
+                 <label for="pickup" class="label">Pickups</label>
+                <div class="control icons-left icons-right">
+                  <input class="input" type="text" placeholder="Enter pickup times" name="pickup" >
+                  <span class="icon left"><i class="mdi mdi-bike"></i></span>
+                </div>
+              </div>
+          <div class="field">
+                 <label for="link" class="label">Paystack Link</label>
+                <div class="control icons-left icons-right">
+                  <input class="input" type="text" placeholder="Enter Paystack Link" name="link" >
+                  <span class="icon left"><i class="mdi mdi-link"></i></span>
+                </div>
+              </div>
               <div class="field">
             <label class="label">Package Description</label>
             <div class="control">

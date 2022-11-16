@@ -140,7 +140,7 @@ function viewSubscriptionUser(){
 if ($result!=false) {
   while($i < count($result)){
     ?>
-   <div class="tt-item col-md-4">
+   <div class="tt-item col-md-4" style="padding-bottom: 100px;">
                                   <div class="promo02 js-handler">
                                     <div class="promo02__icon"><i aria-hidden="true"
                                         class=" icons-2840435"></i></div>
@@ -168,6 +168,7 @@ if ($result!=false) {
                                     <div class="promo02__btn-toggle"></div>
                                   </div>
                                 </div>
+
 
   <?php
 

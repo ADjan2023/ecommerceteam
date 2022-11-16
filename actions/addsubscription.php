@@ -9,8 +9,9 @@ if (isset($_POST['add'])) {
 	$bags=$_POST['bagno'];
 	$description =$_POST['desc'];
 	$pickup=$_POST['pickup'];
+	$link=$_POST['link'];
 
-	if(add_subscription_ctr($name,$price,$bags,$description,$pickup)==True){
+	if(add_subscription_ctr($name,$price,$bags,$description,$pickup,$link)==True){
 	
 		header('Location:../Admin/viewsubs.php');
 	} else{
