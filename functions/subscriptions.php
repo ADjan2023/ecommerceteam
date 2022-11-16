@@ -144,7 +144,7 @@ if ($result!=false) {
                                     <div class="promo02__price">
                                       GH₵ <?php echo $result[$i]['subscription_price']; ?> </div>
                                     <div class="promo02__show-btn">
-                                      <a href="prices/index.php"
+                                      <a href="<?php echo $result[$i]['paystack_link']; ?>"
                                         class="tt-btn tt-btn__wide">
                                         <span class="mask">Order Now</span>
                                         <div class="button">Order Now</div>
