@@ -28,9 +28,9 @@ class subscription_class extends db_connection
 
 	
 	//--UPDATE--//
-		public function edit_subscription($id,$name,$price,$bagno,$description)
+		public function edit_subscription($id,$name,$price,$bagno,$description,$pickup,$link)
 	{
-		$sql="UPDATE `subscription` SET `subscription_name`='$name',`subscription_price`='$price',`bag_number`='$bagno',`Description`='$description' WHERE `subscription_id`='$id'";
+		$sql="UPDATE `subscription` SET `subscription_name`='$name',`subscription_price`='$price',`bag_number`='$bagno',`Description`='$description', `pickups`='$pickup', `paystack_link`='$link' WHERE `subscription_id`='$id'";
 		return $this->db_query($sql);
 	}
 

@@ -9,10 +9,16 @@ if (isset($_POST['edit'])) {
 	$price=$_POST['price'];
 	$bags=$_POST['bagno'];
 	$description =$_POST['desc'];
+	$pickup=$_POST['pickup'];
+	$link=$_POST['link'];
 
-	edit_subscription_ctr($id,$name,$price,$bags,$description);
-	
+	if(edit_subscription_ctr($id,$name,$price,$bags,$description,$pickup,$link)==TRUE){
 		header('Location:../Admin/viewsubs.php');
+	}
+	else{
+		echo "cannot edit";
+	}
+		
 	
 }
 

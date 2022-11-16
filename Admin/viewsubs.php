@@ -255,6 +255,7 @@
             <th>Name</th>
             <th>Price</th>
             <th>Number Of Bags</th>
+            <th>Pickups</th>
             <th></th>
           </tr>
           </thead>

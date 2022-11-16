@@ -12,6 +12,7 @@ if ($result!=false) {
       <td data-label="Name"><?php echo $result[$i]['subscription_name']; ?></td>
       <td data-label="Price"><?php echo $result[$i]['subscription_price']; ?></td>
       <td data-label="Number of Bags"><?php echo $result[$i]['bag_number']; ?></td>
+      <td data-label="Pickups"><?php echo $result[$i]['pickups']; ?></td>
             <!-- <td data-label="Progress" class="progress-cell">
               <progress max="100" value="20">79</progress>
             </td> -->
@@ -77,6 +78,20 @@ if ($result!=false) {
                    <div class="control icons-left icons-right">
                     <input class="input" type="text" placeholder="Enter Bag Number" name="bagno"  value="<?php echo $result[$i]['bag_number']; ?>">
                     <span class="icon left"><i class="mdi mdi-bag-personal"></i></span>
+                  </div>
+                </div>
+               <div class="field">
+                   <label for="bagno" class="label">Pickups</label>
+                   <div class="control icons-left icons-right">
+                    <input class="input" type="text" placeholder="Enter pickup" name="pickup"  value="<?php echo $result[$i]['pickups']; ?>">
+                    <span class="icon left"><i class="mdi mdi-bike"></i></span>
+                  </div>
+                </div>
+                <div class="field">
+                   <label for="bagno" class="label">Paystack Link</label>
+                   <div class="control icons-left icons-right">
+                    <input class="input" type="text" placeholder="Enter subscription link" name="link"  value="<?php echo $result[$i]['paystack_link']; ?>">
+                    <span class="icon left"><i class="mdi mdi-link"></i></span>
                   </div>
                 </div>
                 <div class="field">

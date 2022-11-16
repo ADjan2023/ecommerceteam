@@ -29,9 +29,9 @@ function view_categories_ctr(){
 }
 
 //--UPDATE--//
-function edit_subscription_ctr($id,$name,$price,$bagno,$description){
+function edit_subscription_ctr($id,$name,$price,$bagno,$description,$pickup,$link){
 	$updatesubscription=new subscription_class();
-	return $updatesubscription->edit_subscription($id,$name,$price,$bagno,$description);
+	return $updatesubscription->edit_subscription($id,$name,$price,$bagno,$description,$pickup,$link);
 
 
 }
