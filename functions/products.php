@@ -141,6 +141,47 @@ if ($result!=false) {
 }
 
 }
+function showProducts(){
+  $result=view_products_ctr();
+  $i=0;
+if ($result!=false) {
+  while($i < count($result)){
+    $category=view_one_category_ctr($result[$i]['category']);
+    ?>
+    <div style="padding-right: 30px;">
+    <li  
+                class="prd product type-product post-1506 status-publish first instock product_cat-music has-post-thumbnail downloadable virtual purchasable product-type-simple">
+                <a href="../product/album/index.html"
+                  class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+                  <div class="prd-img">
+                    <img width="250" height="250" src="delicate.png"
+                      class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt=""
+                      loading="lazy"
+                      srcset="delicate.png 300w, delicate.png 150w, delicate.png 768w, delicate.png 600w, delicate.png 100w, delicate.png 800w"
+                      sizes="(max-width: 300px) 100vw, 300px" 
+                      />
+                  </div>
+                  <div class="prd-info">
+                    <h2 class="woocommerce-loop-product__title"><?php echo $result[$i]['wash_name']; ?></h2>
+                    <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span
+                            class="woocommerce-Price-currencySymbol">GH₵ <?php echo $result[$i]['wash_price']; ?></span>
+                  </div>
+                </a><a rel="nofollow" href="index50e8.html?add-to-cart=1506" data-quantity="1"
+                  data-product_id="1506" data-product_sku="woo-album"
+                  class="btn btn-default button product_type_simple add_to_cart_button ajax_add_to_cart"
+                  data-product_id="1506" data-product_sku="woo-album"
+                  aria-label="Add &ldquo;Album&rdquo; to your cart" rel="nofollow"><span>Add to
+                    cart</span></a>
+              </li>
+</div>
+  <?php
+
+  $i++;
+}
+
+}
+
+}
 
 
 

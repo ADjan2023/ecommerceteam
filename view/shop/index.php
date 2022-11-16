@@ -3770,31 +3770,15 @@
 					<div class="col-12 col-sm-7 col-md-7 col-xl-8">
 						<div class="filters-row">
 						</div>
-						<ul class="products columns-3">
-							<li
-								class="prd product type-product post-1506 status-publish first instock product_cat-music has-post-thumbnail downloadable virtual purchasable product-type-simple">
-								<a href="../product/album/index.html"
-									class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-									<div class="prd-img">
-										<img width="300" height="300" src="8.svg"
-											class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt=""
-											loading="lazy"
-											srcset="8.svg 300w, 8.svg 150w, 8.svg 768w, 8.svg 600w, 8.svg 100w, 8.svg 800w"
-											sizes="(max-width: 300px) 100vw, 300px" />
-									</div>
-									<div class="prd-info">
-										<h2 class="woocommerce-loop-product__title">Leather</h2>
-										<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span
-														class="woocommerce-Price-currencySymbol">GH₵ 30</span>
-									</div>
-								</a><a rel="nofollow" href="index50e8.html?add-to-cart=1506" data-quantity="1"
-									data-product_id="1506" data-product_sku="woo-album"
-									class="btn btn-default button product_type_simple add_to_cart_button ajax_add_to_cart"
-									data-product_id="1506" data-product_sku="woo-album"
-									aria-label="Add &ldquo;Album&rdquo; to your cart" rel="nofollow"><span>Add to
-										cart</span></a>
-							</li>
+						<ul class="promo02__wrapper row js-init-carusel-tablet slick-default">
+							<?php
+							chdir("../");
+				require('../functions/products.php');
+							showProducts();
+							?>
+							
 						</ul>
+
 
 					
 
