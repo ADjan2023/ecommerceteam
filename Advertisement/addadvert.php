@@ -55,7 +55,7 @@
                 </div>
                  <div class="field padding-bottom--24">
                   <label for="email">Company Email</label>
-                  <input type="email" name="cemail" required>
+                  <input type="email" name="cemail" id="cemail" onfocusout="myFunction()" required>
                 </div>
                    <div class="field padding-bottom--24">
                    <label for="desc">Upload Company logo</label>
@@ -65,9 +65,12 @@
                   <label for="desc">Company Description</label>
                   <textarea placeholder="Enter company description" name="desc" required></textarea>
                 </div>
-             
+             </form>
+             <form id="paymentForm">
                 <div class="field padding-bottom--24">
-                  <input type="submit" name="add" value="Continue">
+                   <input type="hidden" id="email" required />
+                    <input type="hidden" id="amount" value="100" required />
+                  <input type="submit" name="add" value="Continue" onclick="payWithPaystack()">
                 </div>
               </form>
             </div>
@@ -83,5 +86,43 @@
     </div>
   </div>
 </body>
+<script>
+      
+    // Here the value is stored in new variable x 
+    function myFunction() {
+        var x = document.getElementById("cemail").value;
+        document.getElementById("email").value = x;
+    };
+    const paymentForm = document.getElementById('paymentForm');
+  paymentForm.addEventListener("submit", payWithPaystack, false);
 
+  // PAYMENT FUNCTION
+  function payWithPaystack(e) {
+  e.preventDefault();
+  let handler = PaystackPop.setup({
+    key: 'pk_test_8e719889d1e48a17729f97da94a5ac2e7cac9857', // Replace with your public key
+    email: document.getElementById("email").value,
+    amount: document.getElementById("amount").value * 100,
+    currency:'GHS',
+     ref: ''+Math.floor((Math.random() * 1000000000) + 1),
+    onClose: function(){
+    alert('Window closed.');
+    },
+    callback: function(response){
+            alert("payment have been made"+ response.reference);
+            $.ajax({
+              url:"process.php?reference="+ response.reference,
+              method:'GET',
+              success: function (response){
+                document.getElementById("stripe-login").submit();
+              }
+
+            });
+    }
+  });
+  handler.openIframe();
+}
+    </script>
+<script src="https://js.paystack.co/v1/inline.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </html>

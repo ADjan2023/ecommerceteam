@@ -3,7 +3,7 @@ include("../controllers/advert_controller.php");
 
 
 
-if(isset($_POST['add'])){
+if(isset($_POST['cname']) and isset($_POST['cemail']) and isset($_POST['desc'])){
 	$allowTypes = array('jpg','png','jpeg','gif'); 
 	$name=$_POST['cname'];
 	$email=$_POST['cemail'];

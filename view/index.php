@@ -4716,7 +4716,7 @@
 													<div class="section-indent">
 														<div class="container container-fluid-lg">
 															<div class="blog-slider" id="blog-slider">
-																<di`v class="blog-slider__img">
+																<div class="blog-slider__img">
 																	<div class="tt-item-wrapper">
 																	
 																		
@@ -4727,7 +4727,7 @@
 																	?>
 
 																	</div>
-																</di>
+																</div>
 																<div
 																	class="blog-slider__layout slick-default slick-dots-left">
 
