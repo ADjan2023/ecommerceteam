@@ -16,6 +16,11 @@ function select_all_adverts_ctr(){
 	$seeadvert=new advert_class();
 	return $seeadvert->select_all_adverts();
 }
+function show_all_adverts_ctr(){
+	$seeadvert=new advert_class();
+	return $seeadvert->show_all_adverts();
+}
+
 
 
 //--UPDATE--//

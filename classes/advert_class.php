@@ -26,6 +26,13 @@ class advert_class extends db_connection
 		return $this->db_fetch_all($sql);
 	}
 
+	public function show_all_adverts()
+	{
+		$sql="SELECT * FROM `advertisement` where `Approved`='Yes' LIMIT 4";
+		return $this->db_fetch_all($sql);
+	}
+
+
 	
 	//--UPDATE--//
 		public function update_advert($id,$status)

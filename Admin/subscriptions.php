@@ -276,11 +276,18 @@
                 </div>
               </div>
               <div class="field">
+            <label class="label">Pickups</label>
+            <div class="control">
+              <input class="input" type="text" placeholder="Enter Pickup Times" name="pickup" >
+            </div>
+          </div>
+              <div class="field">
             <label class="label">Package Description</label>
             <div class="control">
               <textarea class="textarea" placeholder="Enter package description" name="desc"></textarea>
             </div>
           </div>
+
             </div>
           </div>
          

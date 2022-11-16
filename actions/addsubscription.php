@@ -8,10 +8,14 @@ if (isset($_POST['add'])) {
 	$price=$_POST['price'];
 	$bags=$_POST['bagno'];
 	$description =$_POST['desc'];
+	$pickup=$_POST['pickup'];
 
-	add_subscription_ctr($name,$price,$bags,$description);
+	if(add_subscription_ctr($name,$price,$bags,$description,$pickup)==True){
 	
 		header('Location:../Admin/viewsubs.php');
+	} else{
+		echo 'cannot add';
+	}
 	
 }
 
