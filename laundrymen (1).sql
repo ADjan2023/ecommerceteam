@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 15, 2022 at 11:21 PM
+-- Generation Time: Nov 16, 2022 at 01:25 PM
 -- Server version: 10.4.22-MariaDB
 -- PHP Version: 8.0.13
 
@@ -41,7 +41,9 @@ CREATE TABLE `advertisement` (
 --
 
 INSERT INTO `advertisement` (`company_id`, `company_name`, `company_info`, `company_image`, `company_email`, `Approved`) VALUES
-(6, 'Kemdar Electronics', 'Your electronics plug for Ashesi', 'my-project-1668420901.png', 'kemdar@gmail.com', 'No');
+(6, 'Kemdar Electronics', 'Your electronics plug for Ashesi', 'my-project-1668420901.png', 'kemdar@gmail.com', 'Yes'),
+(9, 'Ashesi University', 'keqdieqdeofdie', 'jec-1668563851.png', 'ayeyidjan@gmail.com', 'Yes'),
+(10, 'bethel', 'bfdshteshnbsgnd', '20190102_103847-1668564307.jpg', 'bethel@gmail.com', 'No');
 
 -- --------------------------------------------------------
 
@@ -193,15 +195,20 @@ CREATE TABLE `subscription` (
   `subscription_name` varchar(100) NOT NULL,
   `subscription_price` double NOT NULL,
   `bag_number` int(11) NOT NULL,
-  `Description` text NOT NULL
+  `Description` text NOT NULL,
+  `pickups` text NOT NULL,
+  `paystack_link` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `subscription`
 --
 
-INSERT INTO `subscription` (`subscription_id`, `subscription_name`, `subscription_price`, `bag_number`, `Description`) VALUES
-(3, 'try2', 1000, 3, 'hello try 2');
+INSERT INTO `subscription` (`subscription_id`, `subscription_name`, `subscription_price`, `bag_number`, `Description`, `pickups`, `paystack_link`) VALUES
+(3, 'One Time Package', 30, 1, 'A non-recurring one time option', 'One time Pickup', ''),
+(4, 'Standard Packcage', 450, 1, 'A weekly recurring laundry plan', 'Bi-Weekly Pickup', 'https://paystack.com/pay/domveur0yj'),
+(5, 'Premium Package', 560, 2, 'A weekly pickup laundry plan', 'Every Week Pickup', 'https://paystack.com/pay/jfww3o3qff'),
+(6, 'dsfw', 232, 2, 'fedfrwfr', 'fdrwfvr', 'rfrfwew');
 
 --
 -- Indexes for dumped tables
@@ -290,7 +297,7 @@ ALTER TABLE `subscription`
 -- AUTO_INCREMENT for table `advertisement`
 --
 ALTER TABLE `advertisement`
-  MODIFY `company_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `company_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT for table `brands`
@@ -338,7 +345,7 @@ ALTER TABLE `products`
 -- AUTO_INCREMENT for table `subscription`
 --
 ALTER TABLE `subscription`
-  MODIFY `subscription_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `subscription_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- Constraints for dumped tables
