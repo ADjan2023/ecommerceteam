@@ -178,14 +178,11 @@ function showPics(){
     while($i < count($result)){
       ?>
         <div class="tt-item">
-                                      <i><img class="lazyload"
-                                          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                                          data-src="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/themes/laundry/images/quotes-img01.png"
-                                          alt=""></i>
+                                      
                                       <img width="289" height="244"
                                         src="../images/adverts/<?php echo $result[$i]['company_image']; ?>"
                                         class="attachment-full size-full" alt=""
-                                        loading="lazy" />
+                                        loading="lazy" style="width: 200px;" />
                                     </div>
 
 
