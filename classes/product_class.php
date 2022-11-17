@@ -26,6 +26,17 @@ class product_class extends db_connection
 		return $this->db_fetch_all($sql);
 	}
 
+		public function view_delicate_products()
+	{
+		$sql="SELECT * FROM `onewash` where `category`=1";
+		return $this->db_fetch_all($sql);
+	}
+		public function view_bed_products()
+	{
+		$sql="SELECT * FROM `onewash` where `category`=2";
+		return $this->db_fetch_all($sql);
+	}
+
 	public function view_categories()
 	{
 		$sql="SELECT * FROM `categories`";

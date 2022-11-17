@@ -20,6 +20,19 @@ function view_products_ctr(){
 	return $viewproducts->view_products();
 
 }
+
+function view_delicate_products_ctr(){
+	$viewdelicates=new product_class();
+	return $viewdelicates->view_delicate_products();
+
+}
+
+function view_bed_products_ctr(){
+	$viewbed=new product_class();
+	return $viewbed->view_bed_products();
+
+}
+
 function view_one_category_ctr($id){
 	$viewcat=new product_class();
 	return $viewcat->view_one_category($id);

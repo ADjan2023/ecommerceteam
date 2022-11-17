@@ -3783,34 +3783,12 @@
 					<div class="col-12 col-sm-7 col-md-7 col-xl-8">
 						<div class="filters-row">
 						</div>
-						<ul class="products columns-3">
-							<li
-								class="prd product type-product post-1498 status-publish first instock product_cat-accessories has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-								<a href="../../product/beanie/index.php"
-									class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-									<div class="prd-img">
-
-										<img width="300" height="300"
-											src="9.svg"
-											class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt=""
-											loading="lazy"
-											srcset="9.svg 300w, 9.svg 150w, 9.svg 768w, 9.svg 600w, 9.svg 100w, 9.svg 801w"
-											sizes="(max-width: 300px) 100vw, 300px" />
-									</div>
-									<div class="prd-info">
-										<h2 class="woocommerce-loop-product__title">Duvet</h2>
-										<span class="price">
-											<ins><span class="woocommerce-Price-amount amount"><bdi><span
-															class="woocommerce-Price-currencySymbol">GH₵ 40
-														</span>
-									</div>
-								</a><a rel="nofollow" href="index39d3.html?add-to-cart=1498" data-quantity="1"
-									data-product_id="1498" data-product_sku="woo-beanie"
-									class="btn btn-default button product_type_simple add_to_cart_button ajax_add_to_cart"
-									data-product_id="1498" data-product_sku="woo-beanie"
-									aria-label="Add &ldquo;Beanie&rdquo; to your cart" rel="nofollow"><span>Add to
-										cart</span></a>
-							</li>
+						<ul class="promo02__wrapper row js-init-carusel-tablet slick-default">
+							<?php
+							chdir("../../");
+				require('../functions/products.php');
+							showBedWear();
+							?>
 
 						</ul>
 					</div>
