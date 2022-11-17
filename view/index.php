@@ -3748,9 +3748,8 @@
 																			<h4 class="main-slider__title">Laundry<br>
 																				Service</h4>
 																			<p>We Care for the Clothes You Wear</p>
-																			<a href="#" class="tt-btn tt-btn__top"
-																				data-toggle="modal"
-																				data-target="#modalMRequestQuote">
+																			<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
 																				<span class="mask">Order Now</span>
 																				<div class="button">Order Now</div>
 																			</a>
@@ -3776,12 +3775,12 @@
 																			<h4 class="main-slider__title">Dry<br>
 																				Cleaning</h4>
 																			<p>Cleaning Excellence Guaranteed!</p>
-																			<a href="#" class="tt-btn tt-btn__top"
-																				data-toggle="modal"
-																				data-target="#modalMRequestQuote">
+																			<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
 																				<span class="mask">Order Now</span>
 																				<div class="button">Order Now</div>
 																			</a>
+																		
 																		</div>
 																	</div>
 																</div>
@@ -3804,9 +3803,8 @@
 																			<h4 class="main-slider__title">Laundry<br>
 																				Service</h4>
 																			<p>We Care for the Clothes You Wear</p>
-																			<a href="#" class="tt-btn tt-btn__top"
-																				data-toggle="modal"
-																				data-target="#modalMRequestQuote">
+																			<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
 																				<span class="mask">Order Now</span>
 																				<div class="button">Order Now</div>
 																			</a>
@@ -3832,9 +3830,8 @@
 																			<h4 class="main-slider__title">Dry<br>
 																				Cleaning</h4>
 																			<p>Cleaning Excellence Guaranteed!</p>
-																			<a href="#" class="tt-btn tt-btn__top"
-																				data-toggle="modal"
-																				data-target="#modalMRequestQuote">
+																			<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
 																				<span class="mask">Order Now</span>
 																				<div class="button">Order Now</div>
 																			</a>
@@ -3897,12 +3894,11 @@
 																				<h4 class="main-slider__title">
 																					Laundry<br> Service</h4>
 																				<p>We Care for the Clothes You Wear</p>
-																				<a href="#" class="tt-btn tt-btn__top"
-																					data-toggle="modal"
-																					data-target="#modalMRequestQuote">
-																					<span class="mask">Order Now</span>
-																					<div class="button">Order Now</div>
-																				</a>
+																				<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
+																				<span class="mask">Order Now</span>
+																				<div class="button">Order Now</div>
+																			</a>
 																			</div>
 																		</div>
 																	</div>
@@ -3922,12 +3918,11 @@
 																				<h4 class="main-slider__title">Dry<br>
 																					Cleaning</h4>
 																				<p>Cleaning Excellence Guaranteed!</p>
-																				<a href="#" class="tt-btn tt-btn__top"
-																					data-toggle="modal"
-																					data-target="#modalMRequestQuote">
-																					<span class="mask">Order Now</span>
-																					<div class="button">Order Now</div>
-																				</a>
+																				<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
+																				<span class="mask">Order Now</span>
+																				<div class="button">Order Now</div>
+																			</a>
 																			</div>
 																		</div>
 																	</div>
@@ -3949,12 +3944,11 @@
 																				<h4 class="main-slider__title">
 																					Laundry<br> Service</h4>
 																				<p>We Care for the Clothes You Wear</p>
-																				<a href="#" class="tt-btn tt-btn__top"
-																					data-toggle="modal"
-																					data-target="#modalMRequestQuote">
-																					<span class="mask">Order Now</span>
-																					<div class="button">Order Now</div>
-																				</a>
+																				<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
+																				<span class="mask">Order Now</span>
+																				<div class="button">Order Now</div>
+																			</a>
 																			</div>
 																		</div>
 																	</div>
@@ -3974,12 +3968,11 @@
 																				<h4 class="main-slider__title">Dry<br>
 																					Cleaning</h4>
 																				<p>Cleaning Excellence Guaranteed!</p>
-																				<a href="#" class="tt-btn tt-btn__top"
-																					data-toggle="modal"
-																					data-target="#modalMRequestQuote">
-																					<span class="mask">Order Now</span>
-																					<div class="button">Order Now</div>
-																				</a>
+																				<a href="prices/index.php" class="tt-btn tt-btn__top"
+																				>
+																				<span class="mask">Order Now</span>
+																				<div class="button">Order Now</div>
+																			</a>
 																			</div>
 																		</div>
 																	</div>
