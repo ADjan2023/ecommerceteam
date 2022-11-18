@@ -31,11 +31,12 @@ $total+=($product['wash_price'])*($result[$i]['qty']);
 		<?php
 		  
 	}
+    
 	else{
         ?>
         <p class="cart-empty woocommerce-info">Your cart is currently empty.</p>
         <?php
 		
 	}
-
+    echo $total;
 }
