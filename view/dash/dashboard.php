@@ -1,4 +1,6 @@
-
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -50,8 +52,8 @@
                             <!-- Main Navigation -->
                             <nav id="navigation" class="style-1">
                                 <ul id="responsive">
-                                        <li style="margin-left:100px"><a href="">Home</a></li> 
-                                        <li><a href="../index.php">Home</a></li>
+                                        <li style="margin-left:100px"><a href="../index.php">Home</a></li> 
+                                       
                                 </ul>
                             </nav>
                             <div class="clearfix"></div>
@@ -59,7 +61,16 @@
                         <div class="header-user-menu user-menu">
                        
                             <div class="header-user-name">
-                                <span><img src="images/icons/user.png" alt=""></span>Hi, LaundryMen!
+                                <span><img src="images/icons/user.png" alt=""></span>Hi, <?php
+
+
+if (!empty($_SESSION['name'])){
+
+    echo $_SESSION['name'];
+
+
+}
+?>
                             </div>
                             <ul>
                                 <li><a href="user_profile.php"> Edit profile</a></li>
@@ -84,7 +95,13 @@
                                 <img src="images/icons/icons.png" alt="avatar" class="img-fluid profile-img">
                             </div>
                             <div class="active-user">
-                                <h2>LaundryMen</h2>
+                                <h2><?php
+
+if (!empty($_SESSION['name'])){
+
+    echo $_SESSION['name'];
+
+}?></h2>
                             </div>
                             <div class="detail clearfix">
                                 <ul class="mb-0">
@@ -188,26 +205,53 @@
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <label>Username</label>
-                                                <input type="text" class="form-control" placeholder="Laundry Men" readonly>
+                                                <label>Full Name</label>
+                                                <input type="text" class="form-control" placeholder="<?php
+
+                                                if (!empty($_SESSION['name'])){
+
+                                                    echo $_SESSION['name'];
+
+                                                }
+                                                ?>" readonly>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
-                                                <label>Full Name</label>
-                                                <input type="text" class="form-control" placeholder="Laundry Men" readonly>
+                                                <label>Hostel Name</label>
+                                                <input type="text" class="form-control" placeholder="<?php
+                                                if (!empty($_SESSION['hostel'])){
+
+                                                    echo $_SESSION['hostel'];
+
+                                                }
+                                                ?>" readonly>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
                                                 <label>Email Address</label>
-                                                <input type="text" class="form-control" placeholder="Laundrymen@gmail.com" readonly>
+                                                <input type="text" class="form-control" placeholder="<?php
+
+                                            if (!empty($_SESSION['email'])){
+
+                                                echo $_SESSION['email'];
+
+                                            }
+                                            ?>" readonly>
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="form-group">
                                                 <label>Phone Number</label>
-                                                <input type="text" class="form-control" placeholder="+233 548342821" readonly>
+                                                <input type="text" class="form-control" placeholder="<?php
+
+                                                if (!empty($_SESSION['contact'])){
+
+                                                    echo $_SESSION['contact'];
+
+                                                }
+                                                ?>" readonly>
                                             </div>
                                         </div>
                                     </div>

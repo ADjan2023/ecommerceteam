@@ -11,6 +11,6 @@ $_SESSION = array();
 session_destroy();
  
 // Redirect to Home page
-header("location: ../../../index.php");
+header("location: ../../login/login.php");
 exit;
 ?>

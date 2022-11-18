@@ -1,9 +1,9 @@
 <?php
 //start session
-session_start(); 
+//session_start(); 
 
 //for header redirection
-ob_start();
+//ob_start();
 
 //funtion to check for login
 

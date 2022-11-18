@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -52,15 +55,20 @@
                             <!-- Main Navigation -->
                             <nav id="navigation" class="style-1">
                                 <ul id="responsive">
-                                <li style="margin-left:100px"><a href="">Home</a></li> 
-                                <li><a href="../index.php">Home</a></li>
+                                <li style="margin-left:100px"><a href="../index.php">Home</a></li> 
                                 </ul>
                             </nav>
                             <div class="clearfix"></div>
                         </div>
                         <div class="header-user-menu user-menu">
                             <div class="header-user-name">
-                                <span><img src="images/icons/user.png" alt=""></span>Hi, LaundryMen!
+                                <span><img src="images/icons/user.png" alt=""></span>Hi,<?php
+
+if (!empty($_SESSION['name'])){
+
+    echo $_SESSION['name'];
+
+}?>
                             </div>
                             <ul>
                                 <li><a href="user_profile.php"> Edit profile</a></li>
@@ -85,7 +93,13 @@
                                 <img src="images/icons/icons.png" alt="avatar" class="img-fluid profile-img">
                             </div>
                             <div class="active-user">
-                                <h2>LaundryMen</h2>
+                                <h2><?php
+
+                                                if (!empty($_SESSION['name'])){
+
+                                                    echo $_SESSION['name'];
+
+                                                }?></h2>
                             </div>
                             <div class="detail clearfix">
                                 <ul class="mb-0">
@@ -159,31 +173,79 @@
                         <div class="sidebar-widget author-widget2">
                             <div class="author-box clearfix">
                                 <img src="images/icons/icons.png" alt="author-image" class="author__img">
-                                <h4 class="author__title">LaundryMen</h4>
+                                <h4 class="author__title"><?php
+
+if (!empty($_SESSION['name'])){
+
+    echo $_SESSION['name'];
+
+}?></h4>
                             </div>
                             <ul class="author__contact">
-                                <li><span class="la la-map-marker"><i class="fa fa-id-card-o"></i></span>LaundryMen</li>
-                                <li><span class="la la-phone"><i class="fa fa-phone" aria-hidden="true"></i></span><span style="color:#007bff">+233 548342821</span></li>
-                                <li><span class="la la-envelope-o"><i class="fa fa-envelope" aria-hidden="true"></i></span><span style="color:#007bff">LaundryMen@gmail.com</span></li>
+                                <li><span class="la la-map-marker"><i class="fa fa-id-card-o"></i></span><?php
+
+if (!empty($_SESSION['name'])){
+
+    echo $_SESSION['name'];
+
+}?></li>
+                                <li><span class="la la-phone"><i class="fa fa-phone" aria-hidden="true"></i></span><span style="color:#007bff"><?php
+
+if (!empty($_SESSION['contact'])){
+
+    echo $_SESSION['contact'];
+
+}?></span></li>
+                                <li><span class="la la-envelope-o"><i class="fa fa-envelope" aria-hidden="true"></i></span><span style="color:#007bff"><?php
+
+if (!empty($_SESSION['email'])){
+
+    echo $_SESSION['email'];
+
+}?></span></li>
                             </ul>
                             <div class="agent-contact-form-sidebar">
                                 <h4>Update Your Information</h4>
                                 <form name="contact_form" action="" method="post">
                                 <div class="form-group">
-                                    <label>Username</label>
-                                    <input type="text" name="username" class="form-control"value="LaundryMen">
+                                    <label>Hostel Name</label>
+                                    <input type="text" name="hostel" class="form-control"value="<?php
+
+if (!empty($_SESSION['hostel'])){
+
+    echo $_SESSION['hostel'];
+
+}?>">
                                         </div>
                                 <div class="form-group">
                                     <label>Full Name</label>
-                                    <input type="text" name="fullname" class="form-control"value="LaundryMen">
+                                    <input type="text" name="full_name" class="form-control"value="<?php
+
+                                            if (!empty($_SESSION['name'])){
+
+                                                echo $_SESSION['name'];
+
+                                            }?>">
                                         </div>
                                 <div class="form-group">
                                     <label>Email</label>
-                                    <input type="email" name="email" class="form-control" value="LaundryMen@gmail.com">
+                                    <input type="email" name="email" class="form-control" value="<?php
+
+                                            if (!empty($_SESSION['email'])){
+
+                                                echo $_SESSION['email'];
+
+                                            }?>">
                                         </div>
                                 <div class="form-group">
                                     <label>Phone</label>
-                                    <input type="tel" name="phone" class="form-control"value="+233 548342821">
+                                    <input type="tel" name="phone" class="form-control"value="<?php
+
+                                        if (!empty($_SESSION['contact'])){
+
+                                            echo $_SESSION['contact'];
+
+                                        }?>">
                                     
                                         </div>
                                     <input type="submit" value="submit" class="multiple-send-message">

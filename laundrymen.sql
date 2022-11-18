@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 16, 2022 at 01:25 PM
+-- Generation Time: Nov 18, 2022 at 12:47 AM
 -- Server version: 10.4.22-MariaDB
 -- PHP Version: 8.0.13
 
@@ -43,7 +43,7 @@ CREATE TABLE `advertisement` (
 INSERT INTO `advertisement` (`company_id`, `company_name`, `company_info`, `company_image`, `company_email`, `Approved`) VALUES
 (6, 'Kemdar Electronics', 'Your electronics plug for Ashesi', 'my-project-1668420901.png', 'kemdar@gmail.com', 'Yes'),
 (9, 'Ashesi University', 'keqdieqdeofdie', 'jec-1668563851.png', 'ayeyidjan@gmail.com', 'Yes'),
-(10, 'bethel', 'bfdshteshnbsgnd', '20190102_103847-1668564307.jpg', 'bethel@gmail.com', 'No');
+(11, 'Shoes', 'dwvrv', 'paystack-removebg-preview-1668602996.png', 'ayeyidjan@gmail.com', 'Yes');
 
 -- --------------------------------------------------------
 
@@ -99,11 +99,9 @@ CREATE TABLE `customer` (
   `customer_name` varchar(100) NOT NULL,
   `customer_email` varchar(50) NOT NULL,
   `customer_pass` varchar(150) NOT NULL,
-  `customer_country` varchar(30) NOT NULL,
-  `customer_city` varchar(30) NOT NULL,
   `customer_contact` varchar(15) NOT NULL,
-  `customer_image` varchar(100) DEFAULT NULL,
-  `user_role` int(11) NOT NULL
+  `user_role` int(11) NOT NULL,
+  `Hostel_name` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
@@ -124,7 +122,9 @@ CREATE TABLE `onewash` (
 --
 
 INSERT INTO `onewash` (`wash_id`, `wash_name`, `wash_price`, `category`) VALUES
-(2, 'Duvet', 30, 2);
+(2, 'Duvet', 30, 2),
+(3, 'Bed Sheet', 20, 2),
+(4, 'Leather Jacket', 30, 1);
 
 -- --------------------------------------------------------
 
@@ -207,8 +207,7 @@ CREATE TABLE `subscription` (
 INSERT INTO `subscription` (`subscription_id`, `subscription_name`, `subscription_price`, `bag_number`, `Description`, `pickups`, `paystack_link`) VALUES
 (3, 'One Time Package', 30, 1, 'A non-recurring one time option', 'One time Pickup', ''),
 (4, 'Standard Packcage', 450, 1, 'A weekly recurring laundry plan', 'Bi-Weekly Pickup', 'https://paystack.com/pay/domveur0yj'),
-(5, 'Premium Package', 560, 2, 'A weekly pickup laundry plan', 'Every Week Pickup', 'https://paystack.com/pay/jfww3o3qff'),
-(6, 'dsfw', 232, 2, 'fedfrwfr', 'fdrwfvr', 'rfrfwew');
+(5, 'Premium Package', 560, 1, 'A weekly pickup laundry plan', 'Every Week Pickup', 'https://paystack.com/pay/jfww3o3qff');
 
 --
 -- Indexes for dumped tables
@@ -297,7 +296,7 @@ ALTER TABLE `subscription`
 -- AUTO_INCREMENT for table `advertisement`
 --
 ALTER TABLE `advertisement`
-  MODIFY `company_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `company_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT for table `brands`
@@ -321,7 +320,7 @@ ALTER TABLE `customer`
 -- AUTO_INCREMENT for table `onewash`
 --
 ALTER TABLE `onewash`
-  MODIFY `wash_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `wash_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `orders`

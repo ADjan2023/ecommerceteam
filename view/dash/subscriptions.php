@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -50,15 +53,20 @@
                             <!-- Main Navigation -->
                             <nav id="navigation" class="style-1">
                                 <ul id="responsive">
-                                <li style="margin-left:100px"><a href="">Home</a></li> 
-                                <li><a href="../index.php">Home</a></li>
+                                <li style="margin-left:100px"><a href="../index.php">Home</a></li> 
                                 </ul>
                             </nav>
                             <div class="clearfix"></div>
                         </div>
                         <div class="header-user-menu user-menu">
                             <div class="header-user-name">
-                                <span><img src="images/icons/user.png" alt=""></span>Hi, LaundryMen!
+                                <span><img src="images/icons/user.png" alt=""></span>Hi, <?php
+
+if (!empty($_SESSION['name'])){
+
+    echo $_SESSION['name'];
+
+}?>
                             </div>
                             <ul>
                                 <li><a href="user_profile.php"> Edit profile</a></li>
@@ -81,7 +89,14 @@
                                 <img src="images/icons/icons.png" alt="avatar" class="img-fluid profile-img">
                             </div>
                             <div class="active-user">
-                                <h2>LaundryMen</h2>
+                                <h2><?php
+
+if (!empty($_SESSION['name'])){
+
+    echo $_SESSION['name'];
+
+}?>
+      </h2>
                             </div>
                             <div class="detail clearfix">
                                 <ul class="mb-0">
@@ -149,22 +164,20 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="my-properties">
+                       
+                        <div class="my-properties" style="margin-bottom:50px;">
                             <table class="table-responsive">
                                 <thead>
                                     <tr>
-                                        <th class="pl-2">My Subscription</th>
-                                        <th class="p-0"></th>
-                                        <th>Date Added</th>
-                                        <th>Views</th>
-                                        <th>Actions</th>
+                                        <th>Subscriptions</th>
+                                        <th>Date paid</th>
+                                        <th>Type of subscription</th>
+                                        <th>Status</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td class="image myelist">
-                                            <a href="single-property-1.html"><img alt="my-properties-3" src="images/feature-properties/fp-1.jpg" class="img-fluid"></a>
-                                        </td>
+                                        
                                         <td>
                                             <div class="inner">
                                                 <a href="single-property-1.html"><h2>Luxury Villa House</h2></a>
@@ -175,6 +188,35 @@
                                         <td>163</td>
                                         <td class="actions">
                                             <a href="#" class="edit"><i class="lni-pencil"></i>Edit</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="my-properties">
+                            <table class="table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th class="pl-2">My Orders</th>
+                                      
+                                        <th>Date paid</th>
+                                        <th>Type of subscription</th>
+                                        <th>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                       
+                                        <td>
+                                            <div class="inner">
+                                                <a href="single-property-1.html"><h2>Luxury Villa House</h2></a>
+                                                <figure><i class="lni-map-marker"></i> Est St, 77 - Central Park South, NYC</figure>
+                                            </div>
+                                        </td>
+                                        <td>08.14.2020</td>
+                                        <td>163</td>
+                                        <td class="actions">
+                                         
                                         </td>
                                     </tr>
                                 </tbody>
