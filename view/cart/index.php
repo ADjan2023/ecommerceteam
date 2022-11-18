@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -3771,7 +3774,12 @@
 					<div class="page page_sidebar_none">
 						<div class="woocommerce">
 							<div class="woocommerce-notices-wrapper"></div>
-							<p class="cart-empty woocommerce-info">Your cart is currently empty.</p>
+							<?php
+							chdir("../");
+							require("../functions/cart.php");
+							showCart($_SESSION['id']);
+							?>
+							
 							<p class="return-to-shop">
 								<a class="btn btn-invert alt wc-backward" href="../shop/index.php">
 									Return to shop </a>
