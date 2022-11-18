@@ -3350,16 +3350,7 @@ session_start();
 	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom1cd1.css?ver=1667819219'
 		type='text/css' media='all' />
 	<style id='laundry-custom-inline-css' type='text/css'>
-		/* body */
-		body {}
-
-		/* heading */
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {}
+	
 	</style>
 	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop1cd1.css?ver=1667819219'
 		type='text/css' media='all' />
@@ -3590,7 +3581,7 @@ session_start();
 					</div>
 					<div class="tt-item__text">
 						<address>
-							8494 Signal Hill Road Manassas, VA, 20110 </address>
+							Ashesi University, Berekuso </address>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3605,8 +3596,8 @@ session_start();
 						<span class="icons-1004017"></span>
 					</div>
 					<div class="tt-item__text">
-						<a class="not-style" href="mailto:info@yourlaundrysite.com">
-							info@yourlaundrysite.com </a>
+						<a class="not-style" href="mailto:info@laundrymen.com">
+							info@laundrymen.com </a>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3615,8 +3606,8 @@ session_start();
 					</div>
 					<div class="tt-item__text">
 						<address>
-							<a class="not-style" href="tel:1 (800) 765-43-21">
-								1 (800) 765-43-21 </a>
+							<a class="not-style" href="tel:020 95 35 914">
+								020 95 35 914 </a>
 						</address>
 					</div>
 				</div>
@@ -3635,13 +3626,13 @@ session_start();
 					<div class="h-info01">
 						<div class="tt-item">
 							<address>
-								8494 Signal Hill Road Manassas, VA, 20110 </address>
+								Ashesi University, Berekuso </address>
 						</div>
 						<div class="tt-item">
 							Mon-Fri 08:00 AM - 05:00 PM </div>
 						<div class="tt-item">
-							<a href="mailto:info@yourlaundrysite.com">
-								info@yourlaundrysite.com </a>
+							<a href="mailto:info@laundrymen.com">
+							info@laundrymen.com </a>
 						</div>
 					</div>
 				</div>
@@ -3650,8 +3641,8 @@ session_start();
 						<div class="h-info02">
 							<div class="tt-item">
 								<address>
-									<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
-										1 (800) 765-43-21 </a>
+									<a href="tel:020 95 35 914"><span class="icons-483947"></span>
+										020 95 35 914 </a>
 								</address>
 							</div>
 						</div>
@@ -3675,7 +3666,7 @@ session_start();
 					<div class="tt-col-left">
 						<!-- logo -->
 						<a href="../index.php" class="tt-logo tt-logo-alignment">
-							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Pro</span>Laundry </a>
+							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry </span>Men </a>
 						<!-- /logo -->
 					</div>
 					<div class="tt-col-center tt-col-wide tt-col-objects text-center">
@@ -3720,7 +3711,7 @@ session_start();
 							<div class="h-info02">
 								<div class="tt-item">
 									<address>
-										<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
+										<a href="tel:020 95 35 914"><span class="icons-483947"></span>
 											020 95 35 914 </a>
 									</address>
 								</div>
