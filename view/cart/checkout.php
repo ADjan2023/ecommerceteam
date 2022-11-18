@@ -1,5 +1,6 @@
 <?php
 session_start();
+if(isset($_POST['optradio'])){
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -3350,7 +3351,16 @@ session_start();
 	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom1cd1.css?ver=1667819219'
 		type='text/css' media='all' />
 	<style id='laundry-custom-inline-css' type='text/css'>
-	
+		/* body */
+		body {}
+
+		/* heading */
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {}
 	</style>
 	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop1cd1.css?ver=1667819219'
 		type='text/css' media='all' />
@@ -3581,7 +3591,7 @@ session_start();
 					</div>
 					<div class="tt-item__text">
 						<address>
-							Ashesi University, Berekuso </address>
+							8494 Signal Hill Road Manassas, VA, 20110 </address>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3596,8 +3606,8 @@ session_start();
 						<span class="icons-1004017"></span>
 					</div>
 					<div class="tt-item__text">
-						<a class="not-style" href="mailto:info@laundrymen.com">
-							info@laundrymen.com </a>
+						<a class="not-style" href="mailto:info@yourlaundrysite.com">
+							info@yourlaundrysite.com </a>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3606,8 +3616,8 @@ session_start();
 					</div>
 					<div class="tt-item__text">
 						<address>
-							<a class="not-style" href="tel:020 95 35 914">
-								020 95 35 914 </a>
+							<a class="not-style" href="tel:1 (800) 765-43-21">
+								1 (800) 765-43-21 </a>
 						</address>
 					</div>
 				</div>
@@ -3626,13 +3636,13 @@ session_start();
 					<div class="h-info01">
 						<div class="tt-item">
 							<address>
-								Ashesi University, Berekuso </address>
+								8494 Signal Hill Road Manassas, VA, 20110 </address>
 						</div>
 						<div class="tt-item">
 							Mon-Fri 08:00 AM - 05:00 PM </div>
 						<div class="tt-item">
-							<a href="mailto:info@laundrymen.com">
-							info@laundrymen.com </a>
+							<a href="mailto:info@yourlaundrysite.com">
+								info@yourlaundrysite.com </a>
 						</div>
 					</div>
 				</div>
@@ -3641,8 +3651,8 @@ session_start();
 						<div class="h-info02">
 							<div class="tt-item">
 								<address>
-									<a href="tel:020 95 35 914"><span class="icons-483947"></span>
-										020 95 35 914 </a>
+									<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
+										1 (800) 765-43-21 </a>
 								</address>
 							</div>
 						</div>
@@ -3666,7 +3676,7 @@ session_start();
 					<div class="tt-col-left">
 						<!-- logo -->
 						<a href="../index.php" class="tt-logo tt-logo-alignment">
-							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry </span>Men </a>
+							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Pro</span>Laundry </a>
 						<!-- /logo -->
 					</div>
 					<div class="tt-col-center tt-col-wide tt-col-objects text-center">
@@ -3711,7 +3721,7 @@ session_start();
 							<div class="h-info02">
 								<div class="tt-item">
 									<address>
-										<a href="tel:020 95 35 914"><span class="icons-483947"></span>
+										<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
 											020 95 35 914 </a>
 									</address>
 								</div>
@@ -3770,11 +3780,12 @@ session_start();
 							<?php
 							chdir("../");
 							require("../functions/cart.php");
-							showCart($_SESSION['id']);
+							orderConfirm($_SESSION['id']);
 							?>
 							
 						
-							
+				
+	
 
 						</div>
 					</div>
@@ -4058,8 +4069,47 @@ session_start();
 			</div>
 		</div>
 	</div>
-</body>
 
-<!-- Mirrored from smartdata.tonytemplates.com/laundry-v2/demo2/cart/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Nov 2022 11:08:21 GMT -->
+</body>
+		<script src="https://js.paystack.co/v1/inline.js"></script> 
+<script>
+	const paymentForm = document.getElementById('paymentForm');
+  paymentForm.addEventListener("submit", payWithPaystack, false);
+
+  // PAYMENT FUNCTION
+  function payWithPaystack(e) {
+  e.preventDefault();
+  let handler = PaystackPop.setup({
+    key: 'pk_test_8e719889d1e48a17729f97da94a5ac2e7cac9857', // Replace with your public key
+    email: document.getElementById("email").value,
+    amount: document.getElementById("amount").value * 100,
+    currency:'GHS',
+     ref: ''+Math.floor((Math.random() * 1000000000) + 1),
+    onClose: function(){
+    alert('Payment failed');
+    document.getElementById("fail").submit();
+    },
+    callback: function(response){
+            $.ajax({
+              url:"process.php?reference="+ response.reference,
+              method:'GET',
+              success: function (response){
+              	alert(response);
+              	document.getElementById("clearCart").submit();
+               /* window.location.href = "../view/order-complete.php";*/
+              }
+
+            });
+    }
+  });
+  handler.openIframe();
+}
+</script>
 
 </html>
+<?php 
+}
+else{
+	header("location:index.php");
+}
+?>

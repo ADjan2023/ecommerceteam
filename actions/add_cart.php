@@ -12,7 +12,7 @@ include("../controllers/cart_controller.php");
     if(isset($_POST['add'])){
     $pid=$_POST['pid'];
     if(add_to_cart_ctr($pid,$ip,$_SESSION['id'],1)==TRUE){
-            header('Location:../view/index.php');
+            header('Location:../view/cart');
         }
 
 
