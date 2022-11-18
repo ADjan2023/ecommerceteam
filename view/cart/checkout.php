@@ -3783,7 +3783,6 @@ if(isset($_POST['optradio'])){
 							orderConfirm($_SESSION['id']);
 							?>
 							
-						
 				
 	
 
@@ -4071,9 +4070,13 @@ if(isset($_POST['optradio'])){
 	</div>
 
 </body>
-		<script src="https://js.paystack.co/v1/inline.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <script>
-	const paymentForm = document.getElementById('paymentForm');
+    function myFunction() {
+        var x = document.getElementById("cemail").value;
+        document.getElementById("email").value = x;
+    };
+    const paymentForm = document.getElementById('paymentForm');
   paymentForm.addEventListener("submit", payWithPaystack, false);
 
   // PAYMENT FUNCTION
@@ -4086,25 +4089,25 @@ if(isset($_POST['optradio'])){
     currency:'GHS',
      ref: ''+Math.floor((Math.random() * 1000000000) + 1),
     onClose: function(){
-    alert('Payment failed');
-    document.getElementById("fail").submit();
+    alert('Window closed.');
     },
     callback: function(response){
-            $.ajax({
-              url:"process.php?reference="+ response.reference,
-              method:'GET',
-              success: function (response){
-              	alert(response);
-              	document.getElementById("clearCart").submit();
-               /* window.location.href = "../view/order-complete.php";*/
-              }
+            alert("payment have been made"+ response.reference);
+             $.ajax({
+    url: 'processing.php?reference='+ response.reference,
+    method: 'GET',
+    success: function (response) {
+    	alert(respnse.reference);
+      // the transaction status is in response.data.status
+    }
+  });
 
-            });
     }
   });
   handler.openIframe();
 }
-</script>
+    </script>
+		<script src="https://js.paystack.co/v1/inline.js"></script> 
 
 </html>
 <?php 
