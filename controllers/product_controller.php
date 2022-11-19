@@ -61,4 +61,9 @@ function delete_product_ctr($id){
 
 
 }
+
+function count_cart_ctr($cid,$ip){
+	$countcart=new product_class();
+	return $countcart->cart_count($cid,$ip);
+}
 ?>

@@ -131,7 +131,7 @@
   <div class="menu is-menu-main">
     <p class="menu-label">General</p>
     <ul class="menu-list">
-      <li class="active">
+      <li >
         <a href="index.php">
           <span class="icon"><i class="mdi mdi-desktop-mac"></i></span>
           <span class="menu-item-label">Dashboard</span>
@@ -184,7 +184,7 @@
           <span class="menu-item-label">Manage Advertisements</span>
         </a>
       </li>
-        <li >
+        <li class="active">
         <a href="subscribers.php">
           <span class="icon"><i class="mdi mdi-account-multiple"></i></span>
           <span class="menu-item-label">Subscribers</span>
@@ -221,7 +221,7 @@
   <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
     <ul>
       <li>LaundryMen Admin</li>
-      <li>Dashboard</li>
+      <li>Subscribers</li>
     </ul>
     <!-- <a href="https://justboil.me/" onclick="alert('Coming soon'); return false" target="_blank" class="button blue">
       <span class="icon"><i class="mdi mdi-credit-card-outline"></i></span>
@@ -233,7 +233,7 @@
 <section class="is-hero-bar">
   <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
     <h1 class="title">
-      Dashboard
+      Subscribers
     </h1>
    <!--  <button class="button light">Button</button> -->
   </div>
@@ -249,7 +249,7 @@
                 Clients
               </h3>
               <h1>
-               <?php 
+                <?php 
                  require("../functions/orders.php");
                 sumClients();
                  ?>
@@ -267,7 +267,7 @@
                 Sales
               </h3>
               <h1>
-                 ₵ <?php 
+                ₵ <?php 
                 viewSales();
                  ?>
               </h1>
@@ -285,7 +285,7 @@
                 Orders
               </h3>
               <h1>
-               <?php 
+                <?php 
                 sumOrders();
                  ?>
               </h1>
@@ -337,9 +337,9 @@
       <header class="card-header">
         <p class="card-header-title">
           <span class="icon"><i class="mdi mdi-account-multiple"></i></span>
-          One Wash Clients
+          Subscriber Clients
         </p>
-        <a href="index.php" class="card-header-icon">
+        <a href="subscribers.php" class="card-header-icon">
           <span class="icon"><i class="mdi mdi-reload"></i></span>
         </a>
       </header>
@@ -352,16 +352,18 @@
             <th>Email</th>
             <th>Telephone</th>
             <th>Hostel</th>
-            <th>Product</th>
-            <th>Pickup/Delivery</th>
+            <th>Subscription</th>
             <th>Created</th>
+            <th>End Date</th>
+            <th>Pickups</th>
             <th></th>
           </tr>
           </thead>
           <tbody>
          
       <?php
-      viewOrders();
+     
+      viewSubs();
 
       ?>
         
