@@ -1,3 +1,16 @@
+<?php
+session_start();
+$link;
+$linkdash;
+if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email']) ) {
+	$link="../../../login/login.php";
+	$linkdash="../../../login/login.php";
+}
+else{
+	$link="../../cart/index.php";
+	$linkdash="../../dash/dashboard.php";
+}
+?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -3754,14 +3767,13 @@
 							</div>
 						</div>
 						<div class="tt-col__item">
-							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="../../cart/index.php" class="tt-obj__btn cart-contents">
-									<i class="icons-711897"></i>
-								</a>
+						<div class="tt-obj tt-obj-cart js-dropdown-cart">
+								<a href="<?php echo $link; ?>" class="tt-obj__btn cart-contents">
+									<i class="icons-711897"><span style="position:absolute; right:-5%; top:3%; font-size:14px; color:red;">0</span></i>
 							</div>
 						</div>
 						<div class="tt-col__item d-none d-md-block">
-							<a href=""><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
+							<a href="<?php echo $linkdash; ?>"><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
 						</div>
 						<div class="tt-col__item toggle-wrapper">
 							<a href="#" id="tt-menu-toggle" class="icons-1828859"></a>
@@ -3887,7 +3899,7 @@
 											<li><a href="../laundry-services/index.php"
 													title="Laundry Services">Laundry
 													Services</a></li>
-											<li><a href="../dry-cleaning-services/index.html"
+											<li><a href="../dry-cleaning-services/index.php"
 													title="Dry Cleaning Services">Dryer Cleaning Services</a></li>
 											<li class="active"><a href="../steam-iron/index.php"
 													title="Steam Iron">Steam Iron</a>
