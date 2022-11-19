@@ -1,11 +1,14 @@
 <?php 
 session_start();
 $link;
+$linkdash;
 if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email']) ) {
 	$link="../login/login.php";
+	$linkdash="../login/login.php";
 }
 else{
 	$link="cart/index.php";
+	$linkdash="dash/dashboard.php";
 }
 ?>
 <!DOCTYPE html>
@@ -3708,7 +3711,7 @@ else{
 							</div>
 						</div>
 						<div class="tt-col__item d-none d-md-block">
-							<a href="dash/dashboard.php"><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
+							<a href="<?php echo $linkdash; ?>"><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
 						</div>
 						<div class="tt-col__item toggle-wrapper">
 							<a href="#" id="tt-menu-toggle" class="icons-1828859"></a>
