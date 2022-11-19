@@ -1,5 +1,11 @@
 <?php
 session_start();
+
+if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email'] and $_SESSION['role']!=2) ){
+	header("location:../login/login.php"); // redirects to login page
+        exit;
+}
+
 if(isset($_POST['optradio'])){
 ?>
 <!DOCTYPE html>
