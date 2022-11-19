@@ -11,7 +11,25 @@ function view_orders_ctr(){
 	return $vieworders->view_orders();
 }
 
+function view_subs_ctr(){
+	$viewsubs=new orders_class();
+	return $viewsubs->view_subs();
+}
 
+function sales_count_ctr(){
+	$countsales=new orders_class();
+	return $countsales->sales_count();
+}
+
+function orders_count_ctr(){
+	$orderssales=new orders_class();
+	return $orderssales->orders_count();
+}
+
+function clients_count_ctr(){
+	$clients=new orders_class();
+	return $clients->clients_count();
+}
 
 
 //--UPDATE--//

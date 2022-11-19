@@ -196,7 +196,12 @@
           <span class="menu-item-label">Manage Advertisements</span>
         </a>
       </li>
-      
+        <li >
+        <a href="subscribers.php">
+          <span class="icon"><i class="mdi mdi-account-multiple"></i></span>
+          <span class="menu-item-label">Subscribers</span>
+        </a>
+      </li>
         </ul>
       </li>
     </ul>

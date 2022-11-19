@@ -27,7 +27,7 @@
    $plan= $result['data']['plan_object']['name'];
    $amount=$result['data']['plan_object']['amount'];
 $_SESSION['plan']=$plan;
-$_SESSION['amount']=$amount;
+$_SESSION['amount']=$amount/100;
    header('Location: order_sub.php');
   }
 ?>
