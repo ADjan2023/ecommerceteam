@@ -1,8 +1,8 @@
 <?php
   $curl = curl_init();
-  
 
-
+  $plan;
+  $amount;
   curl_setopt_array($curl, array(
     CURLOPT_URL =>"https://api.paystack.co/transaction/verify/".$_GET['reference'],
     CURLOPT_RETURNTRANSFER => true,
@@ -26,7 +26,8 @@
     echo "cURL Error #:" . $err;
   } else {
     $result=json_decode($response,true);
-    print_r($result['data']['plan_object']);
-   echo $result['data']['plan_object']['name'];
+   $plan= $result['data']['plan_object']['name'];
+   $amount=$result['data']['plan_object']['amount'];
+   header('Location: http://localhost/ecommerceteam/view/prices/index.php');
   }
 ?>
