@@ -27,6 +27,5 @@
   } else {
     $result=json_decode($response);
     print_r($result);
-    echo $result->status;
   }
 ?>
