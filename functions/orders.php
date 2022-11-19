@@ -36,16 +36,29 @@ if ($result!=false) {
           <span class="icon"><i class="mdi mdi-mail"></i></span>
         </button>
       </a>
-                <button class="button small green --jb-modal"  data-target="sample-modal-2" type="button">
-                  <span class="icon"><i class="mdi mdi-eye"></i></span>
+                <button class="button small green --jb-modal"  data-target="<?php echo "sample-modal-2".$i; ?>" type="button">
+                  <span class="icon"><i class="mdi mdi-check"></i></span>
                 </button>
-                <button class="button small red --jb-modal" data-target="sample-modal" type="button">
-                  <span class="icon"><i class="mdi mdi-trash-can"></i></span>
-                </button>
+               
               </div>
             </td>
           </tr>
 
+<div id="<?php echo "sample-modal-2".$i; ?>" class="modal">
+  <div class="modal-background --jb-modal-close"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Do you want to mark <?php echo $result[$i]['customer_name'];  ?>'s order as completed?</p>
+    </header>
+    <footer class="modal-card-foot">
+      <button class="button --jb-modal-close">Cancel</button>
+      <form method="POST" action="../actions/complete_order.php">
+        <input type="hidden" value="<?php echo $result[$i]['order_id'];  ?>" name="oid">
+      <button class="button blue" type="submit" name="update">Yes</button> 
+      </form>
+    </footer>
+  </div>
+</div>
   <?php
 
   $i++;

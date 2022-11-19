@@ -15,6 +15,11 @@ function view_orders_ctr(){
 
 
 //--UPDATE--//
+function complete_order_ctr($oid){
+	$completeorder=new orders_class();
+	return $completeorder->complete_order($oid);
+}
+
 
 //--DELETE--//
 
