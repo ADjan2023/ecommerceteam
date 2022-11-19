@@ -1,6 +1,5 @@
 <?php
 session_start();
-if(isset($_POST['optradio'])){
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -34,7 +33,7 @@ if(isset($_POST['optradio'])){
 		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/","name":"Cart - Laundry","isPartOf":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website"},"primaryImageOfPage":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/#primaryimage"},"image":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/#primaryimage"},"thumbnailUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","datePublished":"2020-11-25T08:37:00+00:00","dateModified":"2020-12-01T09:25:54+00:00","breadcrumb":{"@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/#primaryimage","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","contentUrl":"https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/subtitle-wrapper01.jpg","width":1920,"height":288},{"@type":"BreadcrumbList","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/cart/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://smartdata.tonytemplates.com/laundry-v2/demo2/"},{"@type":"ListItem","position":2,"name":"Cart"}]},{"@type":"WebSite","@id":"https://smartdata.tonytemplates.com/laundry-v2/demo2/#website","url":"https://smartdata.tonytemplates.com/laundry-v2/demo2/","name":"Laundry","description":"Just another Laundry & Dry Cleaning Sites site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://smartdata.tonytemplates.com/laundry-v2/demo2/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
 	<link rel='dns-prefetch' href='http://maps.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
@@ -3351,16 +3350,7 @@ if(isset($_POST['optradio'])){
 	<link rel='stylesheet' id='laundry-custom-css' href='../wp-content/themes/laundry/css/custom1cd1.css?ver=1667819219'
 		type='text/css' media='all' />
 	<style id='laundry-custom-inline-css' type='text/css'>
-		/* body */
-		body {}
-
-		/* heading */
-		h1,
-		h2,
-		h3,
-		h4,
-		h5,
-		h6 {}
+	
 	</style>
 	<link rel='stylesheet' id='laundry-shop-css' href='../wp-content/themes/laundry/css/shop1cd1.css?ver=1667819219'
 		type='text/css' media='all' />
@@ -3591,7 +3581,7 @@ if(isset($_POST['optradio'])){
 					</div>
 					<div class="tt-item__text">
 						<address>
-							8494 Signal Hill Road Manassas, VA, 20110 </address>
+							Ashesi University, Berekuso </address>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3606,8 +3596,8 @@ if(isset($_POST['optradio'])){
 						<span class="icons-1004017"></span>
 					</div>
 					<div class="tt-item__text">
-						<a class="not-style" href="mailto:info@yourlaundrysite.com">
-							info@yourlaundrysite.com </a>
+						<a class="not-style" href="mailto:info@laundrymen.com">
+							info@laundrymen.com </a>
 					</div>
 				</div>
 				<div class="tt-item">
@@ -3616,8 +3606,8 @@ if(isset($_POST['optradio'])){
 					</div>
 					<div class="tt-item__text">
 						<address>
-							<a class="not-style" href="tel:1 (800) 765-43-21">
-								1 (800) 765-43-21 </a>
+							<a class="not-style" href="tel:020 95 35 914">
+								020 95 35 914 </a>
 						</address>
 					</div>
 				</div>
@@ -3636,13 +3626,13 @@ if(isset($_POST['optradio'])){
 					<div class="h-info01">
 						<div class="tt-item">
 							<address>
-								8494 Signal Hill Road Manassas, VA, 20110 </address>
+								Ashesi University, Berekuso </address>
 						</div>
 						<div class="tt-item">
 							Mon-Fri 08:00 AM - 05:00 PM </div>
 						<div class="tt-item">
-							<a href="mailto:info@yourlaundrysite.com">
-								info@yourlaundrysite.com </a>
+							<a href="mailto:info@laundrymen.com">
+							info@laundrymen.com </a>
 						</div>
 					</div>
 				</div>
@@ -3651,8 +3641,8 @@ if(isset($_POST['optradio'])){
 						<div class="h-info02">
 							<div class="tt-item">
 								<address>
-									<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
-										1 (800) 765-43-21 </a>
+									<a href="tel:020 95 35 914"><span class="icons-483947"></span>
+										020 95 35 914 </a>
 								</address>
 							</div>
 						</div>
@@ -3676,7 +3666,7 @@ if(isset($_POST['optradio'])){
 					<div class="tt-col-left">
 						<!-- logo -->
 						<a href="../index.php" class="tt-logo tt-logo-alignment">
-							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Pro</span>Laundry </a>
+							<i class="icons-logo tt-icon"></i><span class="tt-base-color">Laundry </span>Men </a>
 						<!-- /logo -->
 					</div>
 					<div class="tt-col-center tt-col-wide tt-col-objects text-center">
@@ -3721,7 +3711,7 @@ if(isset($_POST['optradio'])){
 							<div class="h-info02">
 								<div class="tt-item">
 									<address>
-										<a href="tel:1 (800) 765-43-21"><span class="icons-483947"></span>
+										<a href="tel:020 95 35 914"><span class="icons-483947"></span>
 											020 95 35 914 </a>
 									</address>
 								</div>
@@ -3750,10 +3740,10 @@ if(isset($_POST['optradio'])){
 		<div class="container container-fluid-xl">
 			<div class="tt-breadcrumbs">
 				<span><span><a href="../index.php">Home</a> / <span class="breadcrumb_last"
-							aria-current="page">Cart</span></span></span>
+							aria-current="page">Order Complete</span></span></span>
 			</div>
 			<h1 class="subtitle__title">
-				Cart </h1>
+				Order Complete </h1>
 		</div>
 		<div class="bubbleContainer">
 			<div class="bubble-1"></div>
@@ -3776,15 +3766,20 @@ if(isset($_POST['optradio'])){
 						<div class="woocommerce">
 							<div class="woocommerce-notices-wrapper"></div>
 							
+							<div class="row">
+					<div class="col-sm-10 offset-sm-1 text-center">
+						<p class="icon-addcart" ><span><img src="../../images/check.png" style="width: 300px;"></span></p>
+						
+						<br>
+						<h2 class="mb-4">Thank you for purchasing, Your order is complete!</h2>
+						<p><a class="btn btn-invert alt wc-backward" > View Orders</a>
+							<a class="btn btn-invert alt wc-backward" > Continue Shopping</a>
+		</p>
+						
+					</div>
+				</div>
+						
 							
-							<?php
-							chdir("../");
-							require("../functions/cart.php");
-							orderConfirm($_SESSION['id']);
-							?>
-							
-				
-	
 
 						</div>
 					</div>
@@ -4068,46 +4063,8 @@ if(isset($_POST['optradio'])){
 			</div>
 		</div>
 	</div>
-
 </body>
 
-		<script src="https://js.paystack.co/v1/inline.js"></script> 
+<!-- Mirrored from smartdata.tonytemplates.com/laundry-v2/demo2/cart/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Nov 2022 11:08:21 GMT -->
 
 </html>
-
-<script type="text/javascript">const paymentForm = document.getElementById('paymentForm');
-  paymentForm.addEventListener("submit", payWithPaystack, false);
-
-  // PAYMENT FUNCTION
-  function payWithPaystack(e) {
-  e.preventDefault();
-  let handler = PaystackPop.setup({
-    key: 'pk_test_8e719889d1e48a17729f97da94a5ac2e7cac9857', // Replace with your public key
-    email: document.getElementById("email").value,
-    amount: document.getElementById("amount").value * 100,
-    currency:'GHS',
-     ref: Math.floor((Math.random() * 1000000000) + 1),
-    onClose: function(){
-    alert('Payment failed');
-    document.getElementById("fail").submit();
-    },
-    callback: function(response){
-            $.ajax({
-              url:"../../actions/process.php?reference="+ response.reference,
-              method:'GET',
-              success: function (response){
-              	document.getElementById("clearCart").submit();
-               /* window.location.href = "../view/order-complete.php";*/
-              }
-
-            });
-    }
-  });
-  handler.openIframe();
-}</script>
-<?php 
-}
-else{
-	header("location:index.php");
-}
-?>

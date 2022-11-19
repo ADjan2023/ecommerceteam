@@ -179,12 +179,15 @@ function orderConfirm($id){
 		<p><button class="btn btn-invert alt wc-backward" type="submit"  onclick="payWithPaystack()"><img src="../../images/paystack.png" style="height: 20px;"> Pay With Paystack</button>
 		</p>
 	</form>
-	<form id="clearCart" method="POST" action="../actions/clear_cart.php">
+	<form id="clearCart" method="POST" action="../../actions/clear_cart.php">
 												<input type="hidden" name="cid" required value="<?php echo $_SESSION['id']; ?>" />
 												<input type="hidden" name="amount" required value="<?php echo $total; ?>" />
+												<input type="hidden" name="deliv" required value="<?php if($_POST['optradio']=='delivery'){ echo "delivery";} else{ echo "pickup";} ?>" />
 											</form>
-											<form id="fail" method="POST" action="../actions/failed_order.php">
+											<form id="fail" method="POST" action="../../actions/failed_order.php">
 												<input type="hidden" name="cid" required value="<?php echo $_SESSION['id']; ?>" />
+												<input type="hidden" name="deliv" required value="<?php if($_POST['optradio']=='delivery'){ echo "delivery";} else{ echo "pickup";} ?>" />
 											</form>
+
 	<?php
 }

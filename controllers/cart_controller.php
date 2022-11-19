@@ -11,9 +11,9 @@ function add_to_cart_ctr($id,$ip,$cid,$quantity){
 	return $addcart->add_to_cart($id,$ip,$cid,$quantity);
 }
 
-function create_order_ctr($cid,$invoice,$date,$status){
+function create_order_ctr($cid,$invoice,$date,$status,$deliv){
 	$addorder=new cart_class();
-	return $addorder->create_order($cid,$invoice,$date,$status);
+	return $addorder->create_order($cid,$invoice,$date,$status,$deliv);
 }
 
 function order_details($oid,$pid,$qty){

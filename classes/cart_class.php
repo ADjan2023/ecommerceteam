@@ -55,9 +55,9 @@ public function update_quantity_cart($cid,$pid,$quantity)
 		return $this->db_query($sql);
 	}
 	
-	public function create_order($cid,$invoice,$date,$status)
+	public function create_order($cid,$invoice,$date,$status,$deliv)
 	{
-		$sql="INSERT INTO `orders`(`customer_id`, `invoice_no`, `order_date`, `order_status`) VALUES ('$cid','$invoice','$date','$status')";
+		$sql="INSERT INTO `orders`(`customer_id`, `invoice_no`, `order_date`, `order_status`,`Deliv`) VALUES ('$cid','$invoice','$date','$status','$deliv')";
 		return $this->db_query($sql);
 	}
 	public function order_details($oid,$pid,$qty)
