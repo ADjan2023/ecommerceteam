@@ -25,6 +25,7 @@
   if ($err) {
     echo "cURL Error #:" . $err;
   } else {
-    echo $response;
+    echo $response["plan_object"];
+    echo $response["customer"];
   }
 ?>
