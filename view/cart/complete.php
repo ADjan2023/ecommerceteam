@@ -3773,7 +3773,7 @@ session_start();
 						<br>
 						<h2 class="mb-4">Thank you for purchasing, Your order is complete!</h2>
 						<p><a class="btn btn-invert alt wc-backward" > View Orders</a>
-							<a class="btn btn-invert alt wc-backward" > Continue Shopping</a>
+							<a class="btn btn-invert alt wc-backward" href="../shop"> Continue Shopping</a>
 		</p>
 						
 					</div>
