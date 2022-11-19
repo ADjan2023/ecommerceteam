@@ -20,6 +20,12 @@ function order_details($oid,$pid,$qty){
 	$addorderdetails=new cart_class();
 	return $addorderdetails->order_details($oid,$pid,$qty);
 }
+
+function sub_details_ctr($oid,$name){
+	$addsubdetails=new cart_class();
+	return $addsubdetails->sub_details($oid,$name);
+}
+
 function save_payment_ctr($amount,$cid,$oid,$currency,$date){
 	$savepayment=new cart_class();
 	return $savepayment->save_payment($amount,$cid,$oid,$currency,$date);

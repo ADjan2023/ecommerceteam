@@ -96,6 +96,11 @@ public function update_quantity_cart($cid,$pid,$quantity)
 		$sql="SELECT products.product_title,products.product_price,orderdetails.qty,orderdetails.product_id from products,orderdetails where orderdetails.order_id='$oid' and orderdetails.product_id= products.product_id";
 		return $this->db_fetch_all($sql);
 	}
+	public function sub_details($oid,$name)
+	{
+		$sql="INSERT INTO `sub_order`(`order_id`, `sub_name`) VALUES ('$oid','$name')";
+		return $this->db_query($sql);
+	}
 
 }
 
