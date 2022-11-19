@@ -32,7 +32,7 @@ if ($result!=false) {
 
                 ?>
                  <a href="<?php echo "mailto:".$result[$i]['customer_email']."?subject=Your Laundry Is Ready&body=".$message; ?>">
-         <button class="button small blue "   type="button" title="Email Company" >
+         <button class="button small blue "   type="button" title="Email Client" >
           <span class="icon"><i class="mdi mdi-mail"></i></span>
         </button>
       </a>
