@@ -28,6 +28,7 @@
     $result=json_decode($response,true);
    $plan= $result['data']['plan_object']['name'];
    $amount=$result['data']['plan_object']['amount'];
-   header('Location: http://localhost/ecommerceteam/actions/order_sub.php?plan='$plan'?amount='$amount'');
+   $link="'Location: http://localhost/ecommerceteam/actions/order_sub.php?plan=".$plan."?amount=".$amount."'";
+   header($link);
   }
 ?>
