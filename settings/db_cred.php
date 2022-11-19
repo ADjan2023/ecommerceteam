@@ -9,7 +9,7 @@ define("DATABASE", "laundrymen");*/
 define("SERVER", "us-cdbr-east-06.cleardb.net");
 define("USERNAME","b1576f5795106b");
 define("PASSWD", "d132953d");
-define("DATABASE", "laundrymen");
+define("DATABASE", "heroku_4645b07f1757691");
 
 
 ?>
