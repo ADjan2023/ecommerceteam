@@ -82,7 +82,8 @@ function showCart($id){
 		</tbody>
 	</table>
 	<br>
-		<p class="cart-empty woocommerce-info" style="width: 590px;"><?php echo "Total Cost: GHC ".$total;  ?></p>
+		<p style="width: 590px; "><?php echo "Total Cost: GHC ".$total;  ?></p>
+		<br>
 		<form method="POST" action="checkout.php">
 		<div class="form-check">
   <input type="radio" class="form-check-input" id="radio1" name="optradio" value="pickup" checked> Pickup
@@ -191,3 +192,18 @@ function orderConfirm($id){
 
 	<?php
 }
+
+
+
+function countCart(){
+  $result=cart_count_ctr();
+  
+  if ($result!=false) {
+   echo $result['count'];
+}
+else{
+  echo "0";
+}
+}
+
+?>

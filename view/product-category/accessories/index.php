@@ -3734,7 +3734,11 @@ else{
 						<div class="tt-col__item">
 						<div class="tt-obj tt-obj-cart js-dropdown-cart">
 								<a href="<?php echo $link; ?>" class="tt-obj__btn cart-contents">
-									<i class="icons-711897"><span style="position:absolute; right:-5%; top:3%; font-size:14px; color:red;">0</span></i>
+									<i class="icons-711897"><span style="position:absolute; right:-5%; top:3%; font-size:14px; color:red;"><?php
+							chdir("../../");
+				require('../functions/products.php');
+							countCart($_SESSION['id'],0);
+							?></span></i>
 							</div>
 						</div>
 						<div class="tt-col__item d-none d-md-block">
@@ -3797,8 +3801,7 @@ else{
 						</div>
 						<ul class="promo02__wrapper row js-init-carusel-tablet slick-default">
 							<?php
-							chdir("../../");
-				require('../functions/products.php');
+					
 							showBedWear();
 							?>
 

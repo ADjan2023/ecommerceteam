@@ -102,6 +102,12 @@ public function update_quantity_cart($cid,$pid,$quantity)
 		return $this->db_query($sql);
 	}
 
+	public function cart_count()
+	{
+		$sql="SELECT SUM(`qty`) as `count` FROM `cart`  ";
+		return $this->db_fetch_one($sql);
+	}
+
 }
 
 ?>

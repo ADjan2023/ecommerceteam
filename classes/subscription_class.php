@@ -26,6 +26,11 @@ class subscription_class extends db_connection
 		return $this->db_fetch_all($sql);
 	}
 
+	public function cart_count($cid,$ip)
+	{
+		$sql="SELECT SUM(`qty`) as `cart_num` FROM `cart` WHERE `c_id`='$cid' ";
+		return $this->db_fetch_one($sql);
+	}
 	
 	//--UPDATE--//
 		public function edit_subscription($id,$name,$price,$bagno,$description,$pickup,$link)

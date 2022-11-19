@@ -46,6 +46,7 @@ function view_categories_ctr(){
 
 }
 
+
 //--UPDATE--//
 function edit_product_ctr($id,$name,$price,$cid){
 	$updateproduct=new product_class();

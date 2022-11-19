@@ -61,6 +61,10 @@ function view_order_ctr($oid){
 	return $vieworder->view_order($oid);
 }
 
+function cart_count_ctr(){
+	$countcart=new cart_class();
+	return $countcart->cart_count();
+}
 
 
 //--UPDATE--//

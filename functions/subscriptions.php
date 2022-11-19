@@ -135,18 +135,19 @@ if ($result!=false) {
 }
 
 function viewSubscriptionUser(){
-  $sub;
+   $result=view_subscription_ctr();
+  $i=0;
+if ($result!=false) {
+  while($i < count($result)){
+    $sub;
 
-  $result=view_subscription_ctr();
+ 
   if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email']) ) {
   $sub="../../login/login.php";
 }
 else{
   $sub=$result[$i]['paystack_link'];
 }
-  $i=0;
-if ($result!=false) {
-  while($i < count($result)){
     ?>
    <div class="tt-item col-md-4" style="padding-bottom: 100px;">
                                   <div class="promo02 js-handler">
@@ -185,7 +186,16 @@ if ($result!=false) {
 }
 }
 
-
+function countCart($cid,$ip){
+  $result=count_cart_ctr($cid,$ip);
+  
+  if ($result!=false) {
+   echo $result['cart_num'];
+}
+else{
+  echo "0";
+}
+}
 
   ?>
 

@@ -21,7 +21,10 @@ function show_all_adverts_ctr(){
 	return $seeadvert->show_all_adverts();
 }
 
-
+function count_cart_ctr($cid,$ip){
+	$countcart=new advert_class();
+	return $countcart->cart_count($cid,$ip);
+}
 
 //--UPDATE--//
 function update_advert_ctr($id,$status){

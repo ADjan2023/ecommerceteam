@@ -27,6 +27,10 @@ function view_categories_ctr(){
 
 
 }
+function count_cart_ctr($cid,$ip){
+	$countcart=new subscription_class();
+	return $countcart->cart_count($cid,$ip);
+}
 
 //--UPDATE--//
 function edit_subscription_ctr($id,$name,$price,$bagno,$description,$pickup,$link){

@@ -8,7 +8,7 @@ if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['ema
 }
 else{
 	$link="cart/index.php";
-	$linkdash="dash/dashboard.php";
+	$linkdash="../dash/dashboard.php";
 }
 ?>
 <!DOCTYPE html>
@@ -3730,7 +3730,13 @@ else{
 						<div class="tt-col__item">
 						<div class="tt-obj tt-obj-cart js-dropdown-cart">
 								<a href="<?php echo $link; ?>" class="tt-obj__btn cart-contents">
-									<i class="icons-711897"><span style="position:absolute; right:-5%; top:3%; font-size:14px; color:red;">0</span></i>
+									<i class="icons-711897"><span style="position:absolute; right:-5%; top:3%; font-size:14px; color:red;">
+										<?php
+										chdir("../");
+							require("../functions/cart.php");
+							countCart($_SESSION['id'],0)
+										?>
+									</span></i>
 							</div>
 						</div>
 						<div class="tt-col__item d-none d-md-block">
@@ -3777,8 +3783,7 @@ else{
 							
 							
 							<?php
-							chdir("../");
-							require("../functions/cart.php");
+							
 							showCart($_SESSION['id']);
 							?>
 							

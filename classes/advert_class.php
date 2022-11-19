@@ -33,6 +33,11 @@ class advert_class extends db_connection
 	}
 
 
+	public function cart_count($cid,$ip)
+	{
+		$sql="SELECT SUM(`qty`) as `cart_num` FROM `cart` WHERE `c_id`='$cid' ";
+		return $this->db_fetch_one($sql);
+	}
 	
 	//--UPDATE--//
 		public function update_advert($id,$status)

@@ -49,6 +49,7 @@ class product_class extends db_connection
 		return $this->db_fetch_one($sql);
 	}
 
+	
 	//--UPDATE--//
 		public function edit_product($id,$name,$price,$cid)
 	{
