@@ -135,7 +135,15 @@ if ($result!=false) {
 }
 
 function viewSubscriptionUser(){
+  $sub;
+
   $result=view_subscription_ctr();
+  if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email']) ) {
+  $sub="../../login/login.php";
+}
+else{
+  $sub=$result[$i]['paystack_link'];
+}
   $i=0;
 if ($result!=false) {
   while($i < count($result)){
@@ -159,7 +167,7 @@ if ($result!=false) {
                                     <div class="promo02__price">
                                       GH₵ <?php echo $result[$i]['subscription_price']; ?> </div>
                                     <div class="promo02__show-btn">
-                                      <a href="<?php echo $result[$i]['paystack_link']; ?>"
+                                      <a href="<?php echo $sub; ?>"
                                         class="tt-btn tt-btn__wide">
                                         <span class="mask">Order Now</span>
                                         <div class="button">Order Now</div>

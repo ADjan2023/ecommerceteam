@@ -18,7 +18,7 @@ include("../controllers/cart_controller.php");
 
 
 else{
-    header('Location:../view/index.php');
+    header('Location:../login/login.php');
 }
 
 }
