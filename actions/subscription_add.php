@@ -4,7 +4,7 @@
 
 
   curl_setopt_array($curl, array(
-    CURLOPT_URL =>"https://api.paystack.co/transaction/verify/ ".$_GET['reference'],
+    CURLOPT_URL =>"https://api.paystack.co/transaction/verify/".$_GET['reference'],
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
