@@ -74,7 +74,9 @@ function viewOrders(){
 function viewSubs(){
   $result=view_subs_ctr();
   $i=0;
-  $date=date_create($result[$i]['order_date']);
+  
+  if ($result!=false) {
+    $date=date_create($result[$i]['order_date']);
   $duration;
   if ($result[$i]['sub_name']=="VIP Package") {
     $duration="1 year";
@@ -84,7 +86,6 @@ function viewSubs(){
     $duration="4 months";
   }
   date_add($date,date_interval_create_from_date_string($duration));
-  if ($result!=false) {
     while($i < count($result)){
       ?>
 
