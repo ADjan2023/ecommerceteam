@@ -1,8 +1,14 @@
 <?php 
 session_start();
-if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email'] and $_SESSION['role']!=2) ){
-	header("location:../login/login.php"); // redirects to login page
-        exit;
+$link;
+$linkdash;
+if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email']) ) {
+	$link="../login/login.php";
+	$linkdash="../login/login.php";
+}
+else{
+	$link="cart/index.php";
+	$linkdash="dash/dashboard.php";
 }
 ?>
 <!DOCTYPE html>
@@ -3722,14 +3728,13 @@ if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['ema
 							</div>
 						</div>
 						<div class="tt-col__item">
-							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="index.php" class="tt-obj__btn cart-contents">
-									<i class="icons-711897"></i>
-								</a>
+						<div class="tt-obj tt-obj-cart js-dropdown-cart">
+								<a href="<?php echo $link; ?>" class="tt-obj__btn cart-contents">
+									<i class="icons-711897"><span style="position:absolute; right:-5%; top:3%; font-size:14px; color:red;">0</span></i>
 							</div>
 						</div>
 						<div class="tt-col__item d-none d-md-block">
-							<a href="../dash/dashboard.php"><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
+							<a href="<?php echo $linkdash; ?>"><i class="fa fa-user fa-2x" title="Dashboard"></i></a>
 						</div>
 						<div class="tt-col__item toggle-wrapper">
 							<a href="#" id="tt-menu-toggle" class="icons-1828859"></a>
