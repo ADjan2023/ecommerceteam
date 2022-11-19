@@ -1,8 +1,11 @@
 <?php 
 session_start();
-if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email'] and $_SESSION['role']!=2) ){
-	header("location:../login/login.php"); // redirects to login page
-        exit;
+$link;
+if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['email']) ) {
+	$link="../login/login.php";
+}
+else{
+	$link="cart/index.php";
 }
 ?>
 <!DOCTYPE html>
@@ -3699,7 +3702,7 @@ if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['ema
 						</div>
 						<div class="tt-col__item">
 							<div class="tt-obj tt-obj-cart js-dropdown-cart">
-								<a href="cart/index.php" class="tt-obj__btn cart-contents">
+								<a href="<?php echo $link; ?>" class="tt-obj__btn cart-contents">
 									<i class="icons-711897"></i>
 								</a>
 							</div>
