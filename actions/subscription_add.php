@@ -26,7 +26,7 @@
     echo "cURL Error #:" . $err;
   } else {
     $result=json_decode($response,true);
-    print_r($result['data']);
-   echo $result['customer'];
+    print_r($result['data']['plan_object']);
+   echo $result['data']['plan_object']['name'];
   }
 ?>
