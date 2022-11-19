@@ -28,6 +28,6 @@
    $amount=$result['data']['plan_object']['amount'];
 $_SESSION['plan']=$plan;
 $_SESSION['amount']=$amount;
-   header('Location: http://localhost/ecommerceteam/actions/order_sub.php');
+   header('Location: order_sub.php');
   }
 ?>
