@@ -4,7 +4,7 @@
 
 
   curl_setopt_array($curl, array(
-    CURLOPT_URL =>"https://api.paystack.co/transaction/verify/".$_GET['reference'],
+    CURLOPT_URL =>"https://api.paystack.co/transaction/verify/ "."T130986251511496",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -25,8 +25,8 @@
   if ($err) {
     echo "cURL Error #:" . $err;
   } else {
-    $results=json_decode($response);
-    echo $results['customer']['email'];
-    echo $results['plan_object']['name'];
+    $result=json_decode($response);
+    print_r($result);
+    echo $result->message;
   }
 ?>
