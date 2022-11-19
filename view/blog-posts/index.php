@@ -3720,7 +3720,12 @@ else{
 									<i class="icons-711897"><span style="position:absolute; right:-5%; top:3%; font-size:14px; color:red;"><?php
 									chdir("../");
 										require("../functions/adverts.php");
+											if(empty($_SESSION['id'])){
+										
+										}
+										else{
 										countCart($_SESSION['id'],0);
+									}
 										?></span></i>
 							</div>
 						</div>
