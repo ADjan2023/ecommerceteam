@@ -27,6 +27,6 @@
   } else {
     $result=json_decode($response,true);
     print_r($result);
-    echo $result['plan_object']['name'];
+    print_r($result['plan_object']);
   }
 ?>
