@@ -111,7 +111,7 @@
     callback: function(response){
             alert("payment have been made"+ response.reference);
             $.ajax({
-              url:"process.php?reference="+ response.reference,
+              url:"../actions/process.php?reference="+ response.reference,
               method:'GET',
               success: function (response){
                 document.getElementById("stripe-login").submit();
