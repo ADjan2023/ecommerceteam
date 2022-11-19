@@ -31,6 +31,10 @@ function clients_count_ctr(){
 	return $clients->clients_count();
 }
 
+function view_custsubs_ctr($id){
+	$viewsubs=new orders_class();
+	return $viewsubs->view_custsubs($id);
+}
 
 //--UPDATE--//
 function complete_order_ctr($oid){

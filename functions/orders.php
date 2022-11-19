@@ -182,6 +182,34 @@ else{
 }
 }
 
+function viewCustOrders($id){
+  $result=view_custsubs_ctr($id);
+  $i=0;
+  
+  if ($result!=false) {
+    $date=date_create($result[$i]['order_date']);
+  $duration;
+  if ($result[$i]['sub_name']=="VIP Package") {
+    $duration="1 year";
+  } else if ($result[$i]['sub_name']=="Standard Package") {
+   $duration="4 months";
+  } else{
+    $duration="4 months";
+  }
+  date_add($date,date_interval_create_from_date_string($duration));
+    while($i < count($result)){
+      ?>
+
+     
+  <?php
+
+  $i++;
+}
+}
+}
+
+
+
 ?>
 
 

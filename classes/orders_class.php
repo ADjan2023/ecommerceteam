@@ -50,6 +50,11 @@ public function view_subs()
 		$sql="SELECT customer.customer_name,customer.customer_email, customer.customer_contact, customer.Hostel_name,sub_order.sub_name,orders.order_date,orders.order_id,subscription.pickups FROM orders,customer,sub_order,subscription WHERE orders.order_id=sub_order.order_id and orders.customer_id=customer.customer_id and orders.order_status='Success' and orders.complete='No' and sub_order.sub_name LIKE subscription.subscription_name ";
 		return $this->db_fetch_all($sql);
 	}
+	public function view_custsubs($id)
+	{
+		$sql="SELECT customer.customer_name,customer.customer_email, customer.customer_contact, customer.Hostel_name,sub_order.sub_name,orders.order_date,orders.order_id,subscription.pickups FROM orders,customer,sub_order,subscription WHERE orders.order_id=sub_order.order_id and orders.customer_id=customer.customer_id and orders.order_status='Success' and orders.complete='No' and sub_order.sub_name LIKE subscription.subscription_name and orders.customer_id='$id' ";
+		return $this->db_fetch_all($sql);
+	}
 
 
 
