@@ -143,7 +143,7 @@
   <div class="menu is-menu-main">
     <p class="menu-label">General</p>
     <ul class="menu-list">
-      <li class="active">
+      <li >
         <a href="index.php">
           <span class="icon"><i class="mdi mdi-desktop-mac"></i></span>
           <span class="menu-item-label">Dashboard</span>
@@ -190,7 +190,7 @@
           </li>
         </ul>
       </li>
-      <li class="--set-active-profile-html">
+      <li class="active">
         <a href="advertisment.php">
           <span class="icon"><i class="mdi mdi-cash-usd"></i></span>
           <span class="menu-item-label">Manage Advertisements</span>
@@ -231,7 +231,7 @@
   <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
     <ul>
       <li>LaundryMen Admin</li>
-      <li>View Products</li>
+      <li>View Advertisments</li>
     </ul>
    
   </div>

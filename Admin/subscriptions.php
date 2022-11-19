@@ -143,7 +143,7 @@
   <div class="menu is-menu-main">
     <p class="menu-label">General</p>
     <ul class="menu-list">
-      <li class="active">
+      <li >
         <a href="index.php">
           <span class="icon"><i class="mdi mdi-desktop-mac"></i></span>
           <span class="menu-item-label">Dashboard</span>
@@ -152,14 +152,14 @@
     </ul>
     <p class="menu-label">Manage Services</p>
     <ul class="menu-list">
-       <li>
+       <li class="active">
         <a class="dropdown">
           <span class="icon"><i class="mdi mdi-view-list"></i></span>
           <span class="menu-item-label">Subscriptions</span>
-          <span class="icon"><i class="mdi mdi-plus"></i></span>
+          <span class="icon"><i class="mdi mdi-minus"></i></span>
         </a>
         <ul>
-          <li>
+          <li >
             <a href="subscriptions.php">
               <span>Add Subscription</span>
             </a>

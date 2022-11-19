@@ -143,7 +143,7 @@
   <div class="menu is-menu-main">
     <p class="menu-label">General</p>
     <ul class="menu-list">
-      <li class="active">
+      <li >
         <a href="index.php">
           <span class="icon"><i class="mdi mdi-desktop-mac"></i></span>
           <span class="menu-item-label">Dashboard</span>
@@ -171,14 +171,14 @@
           </li>
         </ul>
       </li>
-    <li>
-        <a class="dropdown">
+    <li class="active" >
+        <a class="dropdown" >
           <span class="icon"><i class="mdi mdi-washing-machine"></i></span>
           <span class="menu-item-label">One Time Wash</span>
-          <span class="icon"><i class="mdi mdi-plus"></i></span>
+          <span class="icon"><i class="mdi mdi-minus"></i></span>
         </a>
-        <ul>
-          <li>
+        <ul class="active">
+          <li >
             <a href="addprod.php">
               <span>Add Product</span>
             </a>
@@ -191,7 +191,7 @@
         </ul>
       </li>
       <li class="--set-active-profile-html">
-        <a href="advertisement">
+        <a href="advertisment.php">
           <span class="icon"><i class="mdi mdi-cash-usd"></i></span>
           <span class="menu-item-label">Manage Advertisements</span>
         </a>
