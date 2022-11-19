@@ -27,7 +27,7 @@
   } else {
     $result=json_decode($response);
     print_r($result);
-    echo $result->customer;
-    echo $result->plan_object;
+    echo $result->customer->email;
+    echo $result->plan_object->name;
   }
 ?>
