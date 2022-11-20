@@ -4305,13 +4305,13 @@ else{
 																				</div>
 																				<div class="col-md-3">
 																					<a href="#_" class="pesonal-info">
-																						<div class="pesonal-info__img">
+																					<div class="pesonal-info__img">
 																							<img width="250"
 																								height="250"
-																								src="../newimages/14dr.png"
+																								src="../newimages/mic.jpg"
 																								class="attachment-full size-full"
 																								alt="" loading="lazy"
-																								srcset="../newimages/14dr.png 250w, ../newimages/14dr.png 150w"
+																								srcset="../newimages/dra.png 250w, ../newimages/mic.jpg 150w"
 																								sizes="(max-width: 250px) 100vw, 250px" />
 																						</div>
 																						<div
