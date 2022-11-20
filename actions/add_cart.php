@@ -9,6 +9,7 @@ include("../controllers/cart_controller.php");
         $ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
     }
 
+    if(!empty($_SESSION['id'])){
     if(isset($_POST['add'])){
     $pid=$_POST['pid'];
     if(add_to_cart_ctr($pid,$ip,$_SESSION['id'],1)==TRUE){
@@ -23,6 +24,10 @@ else{
 
 }
 
+}
+else{
+    header('Location:../login/login.php');
+}
 
 
 
