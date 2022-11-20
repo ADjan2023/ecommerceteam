@@ -26,12 +26,14 @@ if(isset($_POST['cname']) and isset($_POST['cemail']) and isset($_POST['desc']))
 
 move_uploaded_file($_FILES["image"]["tmp_name"][0],$output_dir."/".$NewImageName );
 	if(add_advert_ctr($name,$email,$NewImageName,$description)==TRUE){
-		header('Location:../Advertisement/addadvert.php');
 		echo "<script>alert('Advert submitted successfully')</script>";
+		header('Location:../index.php');
+		;
 	}
 	else{
-		header('Location:../Advertisement/addadvert.php');
 		echo "<script>alert('Advert not submitted')</script>";
+		header('Location:../Advertisement/addadvert.php');
+		
 	}
 
 }
