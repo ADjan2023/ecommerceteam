@@ -49,7 +49,7 @@ session_start();
       </div>
       <div class="box-root padding-top--24 flex-flex flex-direction--column" style="flex-grow: 1; z-index: 9;">
         <div class="box-root padding-top--48 padding-bottom--24 flex-flex flex-justifyContent--center">
-          <h1><a href="http://blog.stackfindover.com/" rel="dofollow">LaundryMen</a></h1>
+          <h1><a href="../index.php" rel="dofollow">LaundryMen</a></h1>
         </div>
         <div class="formbg-outer">
           <div class="formbg">
