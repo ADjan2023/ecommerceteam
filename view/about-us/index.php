@@ -3829,15 +3829,6 @@ else{
 																							srcset="../newimages/2w.jpg 594w, ../newimages/2w.jpg 300w"
 																							sizes="(max-width: 594px) 100vw, 594px" />
 																					</div>
-																					<!-- <div
-																						class="tt-img-more left-bottom">
-																						<img width="436" height="290"
-																							src="../wp-content/uploads/sites/2/2020/11/layout01-img02.jpg"
-																							class="attachment-full size-full"
-																							alt="" loading="lazy"
-																							srcset="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/layout01-img02.jpg 436w, https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/layout01-img02-300x200.jpg 300w"
-																							sizes="(max-width: 436px) 100vw, 436px" />
-																					</div> -->
 																				</div>
 																				<div class="layout01__content">
 																					<div
@@ -4317,10 +4308,10 @@ else{
 																						<div class="pesonal-info__img">
 																							<img width="250"
 																								height="250"
-																								src="../wp-content/uploads/sites/2/2020/11/pesonal-info-img01.jpg"
+																								src="../newimages/14dr.png"
 																								class="attachment-full size-full"
 																								alt="" loading="lazy"
-																								srcset="https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/pesonal-info-img01.jpg 250w, https://smartdata.tonytemplates.com/laundry-v2/demo2/wp-content/uploads/sites/2/2020/11/pesonal-info-img01-150x150.jpg 150w"
+																								srcset="../newimages/14dr.png 250w, ../newimages/14dr.png 150w"
 																								sizes="(max-width: 250px) 100vw, 250px" />
 																						</div>
 																						<div
