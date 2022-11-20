@@ -120,11 +120,6 @@ if (!empty($_SESSION['name'])){
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="change-password.php">
-                                            <i class="fa fa-lock"></i>Change Password
-                                        </a>
-                                    </li>
-                                    <li>
                                         <a href="log_out.php">
                                             <i class="fas fa-sign-out-alt"></i>Log Out
                                         </a>
