@@ -65,9 +65,9 @@ class product_class extends db_connection
 
 	//--DELETE--//
 	
-	public function delete_product($id)
+	public function delete_product($pid)
 	{
-		$sql="DELETE FROM `onewash` WHERE `wash_id`='$id' ";
+		$sql="DELETE FROM onewash WHERE wash_id='$pid'";
 		return $this->db_query($sql);
 	}
 
