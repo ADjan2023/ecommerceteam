@@ -51,7 +51,7 @@ function showCart($id){
 							<form method="POST" action="../../actions/delete_from_cart.php">
 								<input type="hidden" name="cid" value="<?php echo $result[$i]['c_id'];  ?>">
 								<input type="hidden" name="pid" value="<?php echo $result[$i]['p_id'];  ?>">
-								<button class="closed text-center" type="submit" name="delete" style="border: 0px; background: transparent;"><i class="fa fa-trash">
+								<button class="closed text-center" type="submit" name="delete" style="border: 0px; background: transparent;"><i class="fa fa-trash" style="color:red">
 
 								</i></button>
 							</form>
@@ -82,7 +82,7 @@ function showCart($id){
 		</tbody>
 	</table>
 	<br>
-		<p style="width: 590px; "><?php echo "Total Cost: GHC ".$total;  ?></p>
+		<p style="width: 590px; font-size:20px; float:right"> Total Cost: <strong><?php echo "GH₵".$total;  ?></strong></p>
 		<br>
 		<form method="POST" action="checkout.php">
 		<div class="form-check">
