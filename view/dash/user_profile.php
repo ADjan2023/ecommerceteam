@@ -122,11 +122,7 @@ if (!empty($_SESSION['name'])){
                                             <i class="fas fa-credit-card" aria-hidden="true"></i>Subscriptions
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="change-password.php">
-                                            <i class="fa fa-lock"></i>Change Password
-                                        </a>
-                                    </li>
+                                  
                                     <li>
                                         <a href="log_out.php">
                                             <i class="fas fa-sign-out-alt"></i>Log Out
@@ -157,11 +153,7 @@ if (!empty($_SESSION['name'])){
                                             <i class="fas fa-credit-card" aria-hidden="true"></i>Subscriptions
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="change-password.php">
-                                            <i class="fa fa-lock"></i>Change Password
-                                        </a>
-                                    </li>
+                                  
                                     <li>
                                         <a href="log_out.php">
                                             <i class="fas fa-sign-out-alt"></i>Log Out
