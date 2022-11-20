@@ -16,22 +16,22 @@ if(isset($_POST['submit'])){
 	if ( $unencryptpass==$confirmpass) {
 
 		if(add_customer_ctr($name,$email,$password,$contact,$role,$hostel)==TRUE){
-			header('Location:../Login/login.php');
+			header('Location:../login/login.php');
 		}
 		else{
 			session_start();
 			$_SESSION['error'] = 'User credential failed, try again!';		
-			header('Location:../Login/register.php');
+			header('Location:../login/register.php');
 		}	
 	}
 	else{
 		session_start();
 		$_SESSION['error'] = "Passwords don't match";		
-		header('Location:../Login/register.php');
+		header('Location:../login/register.php');
 	}
 }
 else {
 	
-	header('Location:../Login/register.php');
+	header('Location:../login/register.php');
 }
 ?>
