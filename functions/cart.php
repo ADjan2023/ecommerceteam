@@ -82,7 +82,7 @@ function showCart($id){
 		</tbody>
 	</table>
 	<br>
-		<p style="width: 590px; font-size:20px; float:right"> Total Cost: <strong><?php echo "GH₵".$total;  ?></strong></p>
+		<p style="width: 590px; font-size:20px; color:black; float:right"> Total Cost: <strong><?php echo "GH₵".$total;  ?></strong></p>
 		<br>
 		<form method="POST" action="checkout.php">
 		<div class="form-check">
@@ -172,8 +172,9 @@ function orderConfirm($id){
 		</tbody>
 	</table>
 	<br>
-	<p class="cart-empty woocommerce-info" style="width: 490px;"><?php if(isset($_POST['optradio'])){if($_POST['optradio']=='delivery'){ $total=$total+10; echo "Total Price: GHS ".$total;} else{ echo "Total Price: GHS ".$total;}} ?></p>
+	<p style="width: 490px; font-size:20px; color:black; float:right"><strong><?php if(isset($_POST['optradio'])){if($_POST['optradio']=='delivery'){ $total=$total+10; echo "Total Price: GHS ".$total;} else{ echo "Total Price: GHS ".$total;}} ?></strong></p>
 
+	 
 				<form id="paymentForm">
 		<input type="hidden" id="email" required value="<?php echo $_SESSION['email']; ?>" />
 		<input type="hidden" id="amount" required value="<?php echo $total; ?>" />
