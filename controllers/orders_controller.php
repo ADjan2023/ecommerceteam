@@ -36,6 +36,17 @@ function view_custsubs_ctr($id){
 	return $viewsubs->view_custsubs($id);
 }
 
+function count_custsubs_ctr($id){
+	$viewsubs=new orders_class();
+	return $viewsubs->count_custsubs($id);
+}
+
+function count_custorders_ctr($id){
+	$viewsubs=new orders_class();
+	return $viewsubs->count_custorders($id);
+}
+
+
 function view_custorders_ctr($id){
 	$viewsubs=new orders_class();
 	return $viewsubs->view_custorders($id);

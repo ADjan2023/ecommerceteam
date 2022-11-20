@@ -56,10 +56,23 @@ public function view_subs()
 		return $this->db_fetch_all($sql);
 	}
 
+	public function count_custsubs($id)
+	{
+		$sql="SELECT count(customer.customer_name) as `subs`,customer.customer_email, customer.customer_contact, customer.Hostel_name,sub_order.sub_name,orders.order_date,orders.order_id,subscription.pickups,orders.order_status, orders.invoice_no FROM orders,customer,sub_order,subscription WHERE orders.order_id=sub_order.order_id and orders.customer_id=customer.customer_id and sub_order.sub_name LIKE subscription.subscription_name and orders.customer_id='$id' ";
+		return $this->db_fetch_one($sql);
+	}
+
+
 public function view_custorders($id)
 	{
 		$sql="SELECT customer.customer_name, customer.customer_email, customer.Hostel_name, customer.customer_contact, orders.order_id, orders.order_date,orders.Deliv,orderdetails.product_id, orders.order_status, onewash.wash_name, orders.invoice_no FROM orders,customer,onewash,orderdetails WHERE orders.customer_id=customer.customer_id and orders.order_id=orderdetails.order_id and orderdetails.product_id=onewash.wash_id and orders.customer_id='$id'";
 		return $this->db_fetch_all($sql);
+	}
+
+public function count_custorders($id)
+	{
+		$sql="SELECT count(customer.customer_name) as orders, customer.customer_email, customer.Hostel_name, customer.customer_contact, orders.order_id, orders.order_date,orders.Deliv,orderdetails.product_id, orders.order_status, onewash.wash_name, orders.invoice_no FROM orders,customer,onewash,orderdetails WHERE orders.customer_id=customer.customer_id and orders.order_id=orderdetails.order_id and orderdetails.product_id=onewash.wash_id and orders.customer_id='$id'";
+		return $this->db_fetch_one($sql);
 	}
 
 	//--DELETE--//

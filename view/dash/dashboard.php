@@ -86,7 +86,7 @@ if (!empty($_SESSION['name'])){
             </header>
         </div>
         <div class="clearfix"></div>
-        <!-- Header Container / End -->a
+        <!-- Header Container / End -->
 
         <!-- START SECTION DASHBOARD -->
         <section class="user-page section-padding">
@@ -175,7 +175,11 @@ if (!empty($_SESSION['name'])){
                                                 <i class="fas fa-credit-card" style="color:white;"></i>
                                             </div>
                                             <div class="info">
-                                                <h6 class="number">10</h6>
+                                                <h6 class="number"><?php 
+                                                chdir("../");
+                                  require("../functions/orders.php");
+                                                sumSubs($_SESSION['id']);
+                                                  ?></h6>
                                                 <p class="type ml-1">Number of Paid Subscriptions</p>
                                             </div>
                                         </div>
@@ -186,7 +190,9 @@ if (!empty($_SESSION['name'])){
                                                 <i class="fas fa-heart"></i>
                                             </div>
                                             <div class="info">
-                                                <h6 class="number">4</h6>
+                                                <h6 class="number"><?php
+                                                sumOrder($_SESSION['id']);
+                                            ?></h6>
                                                 <p class="type ml-1">Number of Paid One Time Option</p>
                                             </div>
                                         </div>

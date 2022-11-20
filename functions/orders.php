@@ -251,6 +251,29 @@ function viewCustOrders($id){
 }
 
 
+function sumSubs($id){
+  $result=count_custsubs_ctr($id);
+  
+  if ($result!=false) {
+   echo $result['subs'];
+ }
+ else{
+  echo "0";
+}
+}
+
+function sumOrder($id){
+  $result=count_custorders_ctr($id);
+  
+  if ($result!=false) {
+   echo $result['orders'];
+ }
+ else{
+  echo "0";
+}
+}
+
+
 
 ?>
 
