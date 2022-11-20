@@ -59,7 +59,7 @@ if (empty($_SESSION['id']) and empty($_SESSION['name']) and empty($_SESSION['ema
                             <!-- Main Navigation -->
                             <nav id="navigation" class="style-1">
                                 <ul id="responsive">
-                                <li style="margin-left:100px"><a href="../index.php">Home</a></li> 
+                                <li style="margin-left:200px"><a href="../index.php">Home</a></li> 
                                 </ul>
                             </nav>
                             <div class="clearfix"></div>
