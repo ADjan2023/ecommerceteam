@@ -11,7 +11,7 @@ if (isset($_POST['delete'])) {
 	if(delete_product_ctr($id)==true){
 	
 		header('Location:../Admin/viewprod.php');
-	}p
+	}
 }
 
 
