@@ -196,15 +196,14 @@ function orderConfirm($id){
 
 
 
-function countCart(){
-  $result=cart_count_ctr();
-  
-  if ($result!=false) {
-   echo $result['count'];
-}
-else{
-  echo "0";
-}
-}
-
+function countCart($cid,$ip){
+	$result=count_cart_ctr($cid,$ip);
+	
+	if ($result!=false) {
+	 echo $result['cart_num'];
+  }
+  else{
+	echo "0";
+  }
+  }
 ?>

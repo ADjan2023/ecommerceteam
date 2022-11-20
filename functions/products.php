@@ -54,11 +54,13 @@ if ($result!=false) {
                 <p class="modal-card-title">Delete Subscription</p>
               </header>
               <section class="modal-card-body">
-               <form method="POST" action="../actions/delproduct.php">
+              
                 <p>Do you want to delete this subscription?</p>
-                <input type="hidden" name="pid" value="<?php echo $result[$i]['wash_id']; ?>">
+                
 
               </section>
+              <form method="POST" action="../actions/delproduct.php">
+                <input type="hidden" name="pid" value="<?php echo $result[$i]['wash_id']; ?>">
               <footer class="modal-card-foot">
                 <button class="button --jb-modal-close" type="button">Cancel</button>
                 <button class="button red " type="submit" name="delete">Confirm</button>

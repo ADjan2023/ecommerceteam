@@ -61,9 +61,9 @@ function view_order_ctr($oid){
 	return $vieworder->view_order($oid);
 }
 
-function cart_count_ctr(){
+function count_cart_ctr($id,$ip){
 	$countcart=new cart_class();
-	return $countcart->cart_count();
+	return $countcart->cart_count($id,$ip);
 }
 
 

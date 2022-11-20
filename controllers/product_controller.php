@@ -54,17 +54,17 @@ function edit_product_ctr($id,$name,$price,$cid){
 
 
 }
-
-//--DELETE--//
-function delete_product_ctr($id){
-	$deleteproduct=new product_class();
-	return $deleteproduct->delete_product($id);
-
-
-}
-
 function count_cart_ctr($cid,$ip){
 	$countcart=new product_class();
 	return $countcart->cart_count($cid,$ip);
 }
+
+//--DELETE--//
+
+function del_product_ctr($id){
+	$delete=new product_class();
+	return $delete->delete_product($id);
+}
+
+
 ?>
