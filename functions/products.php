@@ -61,7 +61,7 @@ if ($result!=false) {
               </section>
               <footer class="modal-card-foot">
                 <button class="button --jb-modal-close" type="button">Cancel</button>
-                <button class="button red --jb-modal-close" type="submit" name="delete">Confirm</button>
+                <button class="button red " type="submit" name="delete">Confirm</button>
               </footer>
             </form>
           </div>
