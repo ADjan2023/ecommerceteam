@@ -155,11 +155,6 @@ if (!empty($_SESSION['name'])){
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="change-password.php">
-                                            <i class="fa fa-lock"></i>Change Password
-                                        </a>
-                                    </li>
-                                    <li>
                                         <a href="log_out.php">
                                             <i class="fas fa-sign-out-alt"></i>Log Out
                                         </a>
@@ -175,25 +170,17 @@ if (!empty($_SESSION['name'])){
                                     <tr>
                                         <th>Subscriptions</th>
                                         <th>Date paid</th>
-                                        <th>Type of subscription</th>
+                                        <th>Date End</th>
+                                        <th>Invoice</th>
                                         <th>Status</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                        
-                                        <td>
-                                            <div class="inner">
-                                                <a href="single-property-1.html"><h2>Luxury Villa House</h2></a>
-                                                <figure><i class="lni-map-marker"></i> Est St, 77 - Central Park South, NYC</figure>
-                                            </div>
-                                        </td>
-                                        <td>08.14.2020</td>
-                                        <td>163</td>
-                                        <td class="actions">
-                                            <a href="#" class="edit"><i class="lni-pencil"></i>Edit</a>
-                                        </td>
-                                    </tr>
+                                  <?php
+                                  chdir("../");
+                                  require("../functions/orders.php");
+                                  viewCustSubs($_SESSION['id']);
+                                  ?>
                                 </tbody>
                             </table>
                         </div>
@@ -204,25 +191,15 @@ if (!empty($_SESSION['name'])){
                                         <th class="pl-2">My Orders</th>
                                       
                                         <th>Date paid</th>
-                                        <th>Type of subscription</th>
+                              
+                                        <th>Invoice</th>
                                         <th>Status</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                       
-                                        <td>
-                                            <div class="inner">
-                                                <a href="single-property-1.html"><h2>Luxury Villa House</h2></a>
-                                                <figure><i class="lni-map-marker"></i> Est St, 77 - Central Park South, NYC</figure>
-                                            </div>
-                                        </td>
-                                        <td>08.14.2020</td>
-                                        <td>163</td>
-                                        <td class="actions">
-                                         
-                                        </td>
-                                    </tr>
+                                   <?php
+                                    viewCustOrders($_SESSION['id']);
+                                   ?>
                                 </tbody>
                             </table>
                         </div>
