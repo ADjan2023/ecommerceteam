@@ -4088,7 +4088,7 @@ if(isset($_POST['optradio'])){
   function payWithPaystack(e) {
   e.preventDefault();
   let handler = PaystackPop.setup({
-    key: 'pk_test_8e719889d1e48a17729f97da94a5ac2e7cac9857', // Replace with your public key
+    key: 'pk_live_bd5356607a881f3a0d6843b75d3172b74b9675cd', // Replace with your public key
     email: document.getElementById("email").value,
     amount: document.getElementById("amount").value * 100,
     currency:'GHS',

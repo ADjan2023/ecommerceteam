@@ -69,7 +69,7 @@
              <form id="paymentForm">
                 <div class="field padding-bottom--24">
                    <input type="hidden" id="email" required />
-                    <input type="hidden" id="amount" value="100" required />
+                    <input type="hidden" id="amount" value="0.5" required />
                   <input type="submit" name="add" value="Continue" onclick="payWithPaystack()">
                 </div>
               </form>
@@ -100,7 +100,7 @@
   function payWithPaystack(e) {
   e.preventDefault();
   let handler = PaystackPop.setup({
-    key: 'pk_test_8e719889d1e48a17729f97da94a5ac2e7cac9857', // Replace with your public key
+    key: 'pk_live_bd5356607a881f3a0d6843b75d3172b74b9675cd', // Replace with your public key
     email: document.getElementById("email").value,
     amount: document.getElementById("amount").value * 100,
     currency:'GHS',
