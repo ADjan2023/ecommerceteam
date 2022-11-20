@@ -56,7 +56,7 @@ if ($result!=false) {
               <section class="modal-card-body">
                <form method="POST" action="../actions/delproduct.php">
                 <p>Do you want to delete this subscription?</p>
-                <input type="hidden" name="id" value="<?php echo $result[$i]['wash_id']; ?>">
+                <input type="hidden" name="pid" value="<?php echo $result[$i]['wash_id']; ?>">
 
               </section>
               <footer class="modal-card-foot">
