@@ -33,19 +33,19 @@ if(isset($_POST['submit'])){
 		else{
 			session_start();
 			$_SESSION['error'] = 'Invalid login details!';		
-			header('Location:../Login/login.php');
+			header('Location:../login/login.php');
 		}		
 	}
 	else{
 		session_start();
 		$_SESSION['error'] = 'Invalid login details!';		
-		header('Location:../Login/login.php');
+		header('Location:../login/login.php');
 	}	
 }
 
 
 else {
 	
-	header('Location:../Login/login.php');
+	header('Location:../login/login.php');
 }
 ?>
